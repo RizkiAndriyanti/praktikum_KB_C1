@@ -1,0 +1,2338 @@
+Patron Type Code,Patron Type Definition,Total Checkouts,Total Renewals,Age Range,Home Library Code,Home Library Definition,Circulation Active Month,Circulation Active Year,Notice Preference Code,Notice Preference Definition,Provided Email Address,Year Patron Registered,Outside of County,Supervisor District
+3,SENIOR,28,13,65 to 74 years,X,Main Library,November,2012,z,email,true,2003,true,
+0,ADULT,21,10,55 to 59 years,X,Main Library,October,2015,z,email,true,2003,false,
+0,ADULT,275,559,60 to 64 years,X,Main Library,January,2015,z,email,true,2003,true,
+0,ADULT,73,38,45 to 54 years,M8,Mission Bay,February,2016,z,email,true,2003,false,
+0,ADULT,182,90,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,
+3,SENIOR,1,0,65 to 74 years,X,Main Library,July,2004,z,email,true,2003,true,
+16,DIGITAL ACCESS CARD,31,4,65 to 74 years,P7,Potrero,January,2012,z,email,true,2003,false,
+0,ADULT,547,177,60 to 64 years,X,Main Library,July,2016,p,phone,false,2003,true,
+0,ADULT,28,1,60 to 64 years,X,Main Library,December,2015,z,email,true,2003,false,
+0,ADULT,77,3,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,true,
+3,SENIOR,593,9,65 to 74 years,X,Main Library,September,2014,p,phone,false,2003,false,
+3,SENIOR,784,589,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,true,
+0,ADULT,601,702,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,
+3,SENIOR,2,6,65 to 74 years,S7,Sunset,May,2005,a,print,false,2003,true,
+0,ADULT,99,226,45 to 54 years,X,Main Library,July,2014,z,email,true,2003,false,
+0,ADULT,84,24,45 to 54 years,X,Main Library,August,2015,z,email,true,2003,false,
+0,ADULT,369,278,55 to 59 years,M4,Merced,July,2016,z,email,true,2003,false,
+3,SENIOR,65,8,65 to 74 years,N4,Noe Valley/Sally Brunn,February,2016,p,phone,false,2003,false,
+0,ADULT,147,89,55 to 59 years,E9,Excelsior,March,2016,z,email,true,2003,true,
+0,ADULT,93,64,60 to 64 years,X,Main Library,February,2015,z,email,true,2003,true,
+0,ADULT,321,15,60 to 64 years,X,Main Library,January,2015,z,email,true,2003,false,
+0,ADULT,228,200,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,6,3,60 to 64 years,X,Main Library,December,2006,z,email,true,2003,false,
+0,ADULT,120,76,35 to 44 years,C2,Chinatown,May,2016,z,email,true,2003,false,
+3,SENIOR,1453,242,65 to 74 years,R3,Richmond,July,2016,z,email,true,2003,false,
+0,ADULT,5,0,35 to 44 years,N6,North Beach,November,2007,z,email,true,2003,false,
+3,SENIOR,39,32,65 to 74 years,X,Main Library,May,2015,p,phone,true,2003,true,
+0,ADULT,31,30,35 to 44 years,M4,Merced,June,2015,p,phone,true,2003,false,
+0,ADULT,33,0,45 to 54 years,C2,Chinatown,August,2015,z,email,true,2003,false,
+3,SENIOR,230,62,65 to 74 years,P9,Presidio,June,2016,z,email,true,2003,false,
+0,ADULT,15,14,45 to 54 years,M6,Mission,August,2015,z,email,true,2003,false,
+55,RETIRED STAFF,756,232,65 to 74 years,M4,Merced,July,2016,p,phone,false,2003,true,
+0,ADULT,97,38,55 to 59 years,X,Main Library,January,2015,z,email,true,2003,false,
+3,SENIOR,1010,505,65 to 74 years,M6,Mission,July,2016,z,email,true,2003,false,
+0,ADULT,272,455,45 to 54 years,X,Main Library,February,2016,z,email,true,2003,true,
+3,SENIOR,0,0,65 to 74 years,X,Main Library,November,2007,p,phone,false,2003,false,
+0,ADULT,207,47,45 to 54 years,P1,Park,October,2014,z,email,true,2003,false,
+0,ADULT,18,9,35 to 44 years,C2,Chinatown,January,2012,z,email,true,2003,false,
+0,ADULT,317,128,55 to 59 years,X,Main Library,March,2016,z,email,true,2003,true,
+0,ADULT,24,16,45 to 54 years,M2,Marina,April,2014,z,email,true,2003,false,
+0,ADULT,28,12,55 to 59 years,M6,Mission,February,2013,p,phone,false,2003,false,
+0,ADULT,562,567,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,
+0,ADULT,26,6,35 to 44 years,M4,Merced,May,2015,z,email,true,2003,true,
+0,ADULT,22,0,55 to 59 years,P3,Parkside,January,2014,z,email,true,2003,true,
+3,SENIOR,576,382,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,
+3,SENIOR,187,76,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,January,2013,z,email,true,2003,false,
+0,ADULT,1541,36,60 to 64 years,P3,Parkside,July,2016,z,email,true,2003,true,
+3,SENIOR,88,62,65 to 74 years,X,Main Library,June,2015,z,email,true,2003,false,
+0,ADULT,4,0,45 to 54 years,S7,Sunset,February,2006,z,email,true,2003,true,
+0,ADULT,141,110,55 to 59 years,M2,Marina,September,2014,z,email,true,2003,true,
+0,ADULT,12,21,60 to 64 years,A5,Anza,March,2010,z,email,true,2003,false,
+0,ADULT,237,69,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,1271,527,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,1008,493,60 to 64 years,M4,Merced,July,2016,z,email,true,2003,true,
+0,ADULT,281,182,45 to 54 years,M6,Mission,July,2016,z,email,true,2003,false,
+3,SENIOR,7,0,65 to 74 years,X,Main Library,September,2010,p,phone,false,2003,false,
+3,SENIOR,205,95,65 to 74 years,W2,West Portal,July,2016,z,email,true,2003,false,
+5,STAFF,19,0,45 to 54 years,X,Main Library,April,2011,a,print,false,2003,false,
+3,SENIOR,8,1,65 to 74 years,X,Main Library,July,2015,z,email,true,2003,false,
+0,ADULT,318,278,35 to 44 years,I5,Ingleside,May,2016,z,email,true,2003,false,
+3,SENIOR,65,137,65 to 74 years,R3,Richmond,July,2016,z,email,true,2003,false,
+0,ADULT,1065,533,55 to 59 years,E9,Excelsior,July,2016,z,email,true,2003,false,
+0,ADULT,879,91,60 to 64 years,E9,Excelsior,July,2016,z,email,true,2003,true,
+0,ADULT,6,3,60 to 64 years,M8,Mission Bay,May,2014,z,email,true,2003,false,
+3,SENIOR,29,11,65 to 74 years,B4,Bernal Heights,May,2014,z,email,true,2003,false,
+0,ADULT,17,26,60 to 64 years,R3,Richmond,January,2015,p,phone,false,2003,false,
+0,ADULT,54,5,45 to 54 years,M2,Marina,July,2016,z,email,true,2003,false,
+0,ADULT,74,112,55 to 59 years,X,Main Library,June,2015,z,email,true,2003,false,
+0,ADULT,2311,1412,45 to 54 years,C2,Chinatown,July,2016,z,email,true,2003,true,
+3,SENIOR,109,0,65 to 74 years,C2,Chinatown,July,2015,z,email,true,2003,true,
+0,ADULT,29,15,60 to 64 years,W2,West Portal,November,2014,p,phone,false,2003,false,
+0,ADULT,268,331,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,18,3,60 to 64 years,X,Main Library,June,2015,z,email,true,2003,true,
+0,ADULT,139,187,55 to 59 years,P1,Park,July,2016,z,email,true,2003,false,
+3,SENIOR,534,152,65 to 74 years,R3,Richmond,May,2016,z,email,true,2003,false,
+0,ADULT,69,5,60 to 64 years,X,Main Library,July,2008,z,email,true,2003,false,
+0,ADULT,73,0,55 to 59 years,P5,Portola,February,2016,a,print,false,2003,false,
+0,ADULT,108,4,45 to 54 years,X,Main Library,May,2015,z,email,true,2003,true,
+0,ADULT,93,86,35 to 44 years,E9,Excelsior,March,2015,p,phone,false,2003,true,
+0,ADULT,1552,1184,25 to 34 years,O7,Ortega,January,2016,z,email,true,2003,false,
+0,ADULT,1207,75,60 to 64 years,X,Main Library,July,2016,p,phone,true,2003,false,
+55,RETIRED STAFF,586,296,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,157,30,35 to 44 years,E9,Excelsior,March,2015,p,phone,false,2003,false,
+0,ADULT,1229,1640,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,1,1,55 to 59 years,X,Main Library,February,2013,z,email,true,2003,true,
+0,ADULT,348,95,45 to 54 years,X,Main Library,May,2016,z,email,true,2003,false,
+0,ADULT,104,33,55 to 59 years,W4,Western Addition,August,2015,z,email,true,2003,false,
+0,ADULT,66,36,55 to 59 years,R3,Richmond,August,2014,p,phone,false,2003,false,
+0,ADULT,44,91,35 to 44 years,YB,Unknown,December,2014,z,email,true,2003,false,
+0,ADULT,17,0,35 to 44 years,X,Main Library,October,2013,z,email,true,2003,false,
+0,ADULT,291,30,45 to 54 years,X,Main Library,June,2016,z,email,true,2003,true,
+0,ADULT,39,3,55 to 59 years,X,Main Library,July,2014,z,email,true,2003,true,
+0,ADULT,108,95,60 to 64 years,X,Main Library,September,2014,z,email,true,2003,true,
+0,ADULT,3,9,25 to 34 years,P5,Portola,August,2006,z,email,true,2003,false,
+0,ADULT,1,0,20 to 24 years,S7,Sunset,December,2015,z,email,true,2012,false,
+3,SENIOR,9,2,65 to 74 years,C2,Chinatown,April,2004,z,email,true,2003,true,
+3,SENIOR,7,5,65 to 74 years,X,Main Library,August,2013,z,email,true,2003,true,
+0,ADULT,217,16,55 to 59 years,R3,Richmond,November,2013,z,email,true,2003,false,
+0,ADULT,815,7,60 to 64 years,R3,Richmond,July,2016,a,print,false,2003,false,
+0,ADULT,109,135,45 to 54 years,X,Main Library,July,2015,z,email,true,2003,true,
+0,ADULT,171,60,45 to 54 years,O7,Ortega,February,2016,z,email,true,2003,true,
+0,ADULT,743,842,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,101,8,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,June,2016,z,email,true,2003,false,
+0,ADULT,47,4,35 to 44 years,O7,Ortega,August,2010,a,print,false,2003,true,
+3,SENIOR,62,26,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,
+5,STAFF,74,19,45 to 54 years,X,Main Library,April,2011,z,email,true,2003,false,
+0,ADULT,112,47,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,true,
+3,SENIOR,1051,478,65 to 74 years,P9,Presidio,October,2013,z,email,true,2003,false,
+3,SENIOR,817,9,65 to 74 years,P9,Presidio,August,2013,p,phone,false,2003,false,
+0,ADULT,30,25,35 to 44 years,C2,Chinatown,March,2016,z,email,true,2003,true,
+0,ADULT,104,31,55 to 59 years,M6,Mission,June,2016,p,phone,false,2003,false,
+0,ADULT,17,0,45 to 54 years,X,Main Library,March,2016,z,email,true,2003,false,
+0,ADULT,282,357,45 to 54 years,X,Main Library,July,2015,z,email,true,2003,false,
+3,SENIOR,1434,159,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,
+0,ADULT,75,80,60 to 64 years,X,Main Library,April,2014,z,email,true,2003,true,
+0,ADULT,4162,1820,45 to 54 years,P5,Portola,July,2016,z,email,true,2003,true,
+0,ADULT,499,613,55 to 59 years,E9,Excelsior,June,2015,z,email,true,2003,false,
+0,ADULT,23,18,60 to 64 years,M4,Merced,December,2013,z,email,true,2003,true,
+0,ADULT,217,114,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2003,false,
+0,ADULT,14,8,25 to 34 years,M6,Mission,January,2013,z,email,true,2003,false,
+0,ADULT,1285,71,45 to 54 years,P7,Potrero,July,2016,z,email,true,2003,false,
+0,ADULT,130,13,35 to 44 years,E9,Excelsior,June,2015,z,email,true,2003,true,
+0,ADULT,456,360,60 to 64 years,X,Main Library,March,2016,z,email,true,2003,false,
+3,SENIOR,5,5,65 to 74 years,X,Main Library,May,2013,z,email,true,2003,true,
+0,ADULT,537,239,55 to 59 years,R3,Richmond,July,2016,z,email,true,2003,false,
+0,ADULT,896,35,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,
+0,ADULT,241,142,25 to 34 years,O7,Ortega,July,2016,z,email,true,2003,false,
+0,ADULT,301,20,45 to 54 years,E9,Excelsior,April,2016,z,email,true,2003,false,
+3,SENIOR,201,114,65 to 74 years,X,Main Library,June,2016,p,phone,false,2003,true,
+0,ADULT,388,321,60 to 64 years,C2,Chinatown,July,2016,z,email,true,2003,true,
+3,SENIOR,42,116,65 to 74 years,X,Main Library,May,2014,p,phone,false,2003,true,
+0,ADULT,560,95,45 to 54 years,M4,Merced,May,2016,z,email,true,2003,true,
+3,SENIOR,24,29,65 to 74 years,W2,West Portal,March,2014,z,email,true,2003,false,
+0,ADULT,105,108,60 to 64 years,R3,Richmond,July,2016,z,email,true,2003,true,
+3,SENIOR,367,109,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,
+0,ADULT,481,131,60 to 64 years,C2,Chinatown,September,2015,z,email,true,2003,true,
+0,ADULT,38,3,35 to 44 years,R3,Richmond,November,2015,p,phone,true,2003,false,
+0,ADULT,3186,556,25 to 34 years,X,Main Library,July,2016,z,email,true,2003,true,
+0,ADULT,36,84,60 to 64 years,X,Main Library,January,2015,z,email,true,2003,true,
+0,ADULT,983,1162,35 to 44 years,C2,Chinatown,July,2016,z,email,true,2003,true,
+0,ADULT,179,107,35 to 44 years,M8,Mission Bay,May,2015,z,email,true,2003,false,
+3,SENIOR,469,282,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,1
+0,ADULT,256,102,45 to 54 years,P5,Portola,July,2016,z,email,true,2003,false,9
+0,ADULT,552,105,55 to 59 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,581,159,60 to 64 years,X,Main Library,August,2013,z,email,true,2003,false,10
+0,ADULT,1245,1439,55 to 59 years,N6,North Beach,July,2016,z,email,true,2003,false,3
+3,SENIOR,421,272,65 to 74 years,A5,Anza,July,2016,z,email,true,2003,false,1
+3,SENIOR,98,29,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,251,252,35 to 44 years,A5,Anza,July,2016,z,email,true,2003,false,1
+0,ADULT,365,178,60 to 64 years,M6,Mission,August,2015,p,phone,false,2003,false,8
+0,ADULT,15,9,60 to 64 years,W2,West Portal,January,2016,z,email,true,2003,false,7
+0,ADULT,430,268,45 to 54 years,W2,West Portal,July,2016,p,phone,false,2003,false,7
+0,ADULT,901,60,55 to 59 years,X,Main Library,August,2013,z,email,true,2003,false,10
+0,ADULT,423,364,35 to 44 years,P1,Park,August,2015,z,email,true,2003,false,1
+0,ADULT,1597,645,45 to 54 years,O2,Ocean View,July,2016,z,email,true,2003,false,11
+0,ADULT,88,60,60 to 64 years,G4,Glen Park,May,2016,z,email,true,2003,false,8
+3,SENIOR,604,442,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+0,ADULT,228,30,35 to 44 years,N6,North Beach,April,2014,z,email,true,2003,false,11
+0,ADULT,157,24,60 to 64 years,X,Main Library,August,2014,p,phone,false,2003,false,2
+3,SENIOR,634,136,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+3,SENIOR,521,36,65 to 74 years,X,Main Library,July,2015,p,phone,false,2003,false,8
+0,ADULT,922,280,45 to 54 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,84,17,60 to 64 years,G4,Glen Park,March,2015,z,email,true,2003,false,9
+0,ADULT,952,263,45 to 54 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+3,SENIOR,723,475,65 to 74 years,M6,Mission,July,2016,z,email,true,2003,false,8
+0,ADULT,63,3,45 to 54 years,M4,Merced,March,2015,p,phone,false,2003,false,4
+0,ADULT,302,246,25 to 34 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+3,SENIOR,273,142,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,1947,1106,55 to 59 years,G4,Glen Park,July,2016,z,email,true,2003,false,4
+3,SENIOR,163,68,65 to 74 years,A5,Anza,September,2015,p,phone,false,2003,false,1
+0,ADULT,87,43,55 to 59 years,X,Main Library,December,2015,z,email,true,2003,false,10
+0,ADULT,1070,1438,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,7
+3,SENIOR,285,117,65 to 74 years,C2,Chinatown,December,2013,z,email,true,2003,false,3
+0,ADULT,18,0,55 to 59 years,R3,Richmond,July,2016,z,email,true,2003,false,7
+0,ADULT,747,409,35 to 44 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,1034,117,45 to 54 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,77,47,60 to 64 years,X,Main Library,January,2016,z,email,true,2003,false,5
+0,ADULT,31,19,25 to 34 years,S7,Sunset,May,2016,a,print,true,2003,false,5
+0,ADULT,1321,690,60 to 64 years,P5,Portola,July,2016,z,email,true,2003,false,9
+3,SENIOR,334,159,65 to 74 years,R3,Richmond,July,2016,z,email,true,2003,false,7
+3,SENIOR,146,8,65 to 74 years,A5,Anza,July,2016,z,email,true,2003,false,1
+3,SENIOR,500,122,65 to 74 years,O7,Ortega,August,2015,z,email,true,2003,false,4
+0,ADULT,19,12,55 to 59 years,X,Main Library,March,2015,z,email,true,2003,false,6
+0,ADULT,468,56,55 to 59 years,X,Main Library,February,2015,z,email,true,2003,false,8
+0,ADULT,327,73,55 to 59 years,C2,Chinatown,March,2016,z,email,true,2003,false,4
+0,ADULT,30,4,25 to 34 years,P5,Portola,February,2006,z,email,true,2003,false,9
+3,SENIOR,162,51,65 to 74 years,P1,Park,October,2015,z,email,true,2003,false,7
+0,ADULT,128,77,45 to 54 years,X,Main Library,August,2015,z,email,true,2003,false,9
+0,ADULT,6,0,45 to 54 years,M6,Mission,April,2007,z,email,true,2003,false,9
+0,ADULT,330,97,60 to 64 years,G4,Glen Park,July,2016,z,email,true,2003,false,11
+3,SENIOR,177,137,65 to 74 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+3,SENIOR,121,16,65 to 74 years,W2,West Portal,May,2016,p,phone,true,2003,false,7
+3,SENIOR,193,163,65 to 74 years,M4,Merced,May,2016,z,email,true,2003,false,7
+0,ADULT,88,5,45 to 54 years,B4,Bernal Heights,November,2015,z,email,true,2003,false,9
+3,SENIOR,431,418,65 to 74 years,M6,Mission,July,2016,p,phone,false,2003,false,8
+0,ADULT,89,206,65 to 74 years,X,Main Library,July,2015,p,phone,false,2003,false,5
+3,SENIOR,46,2,65 to 74 years,I5,Ingleside,December,2015,z,email,true,2003,false,11
+3,SENIOR,10,4,65 to 74 years,G4,Glen Park,March,2016,z,email,true,2003,false,8
+3,SENIOR,296,108,65 to 74 years,P7,Potrero,July,2016,z,email,true,2003,false,10
+0,ADULT,146,224,55 to 59 years,A5,Anza,September,2015,z,email,true,2003,false,1
+0,ADULT,123,8,60 to 64 years,X,Main Library,May,2016,z,email,true,2003,false,8
+0,ADULT,37,25,25 to 34 years,P7,Potrero,April,2015,z,email,true,2003,false,1
+0,ADULT,383,75,35 to 44 years,G4,Glen Park,March,2015,z,email,true,2003,false,8
+3,SENIOR,281,137,65 to 74 years,W4,Western Addition,July,2016,z,email,true,2003,false,7
+0,ADULT,24,9,45 to 54 years,A5,Anza,June,2016,z,email,true,2003,false,7
+0,ADULT,2,0,35 to 44 years,R3,Richmond,May,2016,z,email,true,2003,false,1
+0,ADULT,579,811,55 to 59 years,X,Main Library,June,2016,z,email,true,2003,false,1
+0,ADULT,39,31,60 to 64 years,R3,Richmond,November,2015,z,email,true,2003,false,1
+0,ADULT,540,239,55 to 59 years,A5,Anza,July,2016,z,email,true,2003,false,1
+3,SENIOR,579,209,65 to 74 years,X,Main Library,May,2016,z,email,true,2003,false,5
+0,ADULT,142,50,65 to 74 years,G4,Glen Park,June,2016,z,email,true,2003,false,9
+0,ADULT,4286,484,55 to 59 years,G4,Glen Park,July,2016,z,email,true,2003,false,7
+0,ADULT,0,0,35 to 44 years,S7,Sunset,March,2006,z,email,true,2003,false,5
+0,ADULT,59,2,45 to 54 years,P7,Potrero,November,2014,p,phone,false,2003,false,10
+3,SENIOR,255,6,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,June,2015,z,email,true,2003,false,5
+0,ADULT,30,18,55 to 59 years,P1,Park,May,2016,z,email,true,2003,false,5
+0,ADULT,28,14,45 to 54 years,X,Main Library,January,2015,z,email,true,2003,false,3
+0,ADULT,195,172,60 to 64 years,S7,Sunset,November,2014,p,phone,false,2003,false,4
+0,ADULT,78,28,45 to 54 years,G4,Glen Park,May,2016,p,phone,false,2003,false,8
+3,SENIOR,313,104,65 to 74 years,P9,Presidio,December,2012,z,email,true,2003,false,2
+0,ADULT,123,199,35 to 44 years,A5,Anza,July,2016,z,email,true,2003,false,1
+0,ADULT,636,143,55 to 59 years,C2,Chinatown,June,2016,z,email,true,2003,false,3
+5,STAFF,484,1124,25 to 34 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,570,293,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2003,false,11
+0,ADULT,231,173,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,1
+3,SENIOR,231,216,65 to 74 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+3,SENIOR,409,11,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,5
+0,ADULT,945,357,35 to 44 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+3,SENIOR,891,351,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,3
+0,ADULT,304,79,60 to 64 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,7,0,60 to 64 years,X,Main Library,June,2016,a,print,true,2003,false,9
+0,ADULT,173,204,60 to 64 years,B4,Bernal Heights,January,2016,z,email,true,2003,false,9
+3,SENIOR,377,41,65 to 74 years,N4,Noe Valley/Sally Brunn,June,2016,p,phone,false,2003,false,9
+3,SENIOR,880,325,65 to 74 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,54,12,35 to 44 years,E9,Excelsior,April,2016,z,email,true,2003,false,11
+0,ADULT,5,3,60 to 64 years,X,Main Library,July,2013,z,email,true,2003,false,10
+3,SENIOR,323,132,65 to 74 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,87,46,55 to 59 years,N4,Noe Valley/Sally Brunn,December,2013,z,email,true,2003,false,8
+0,ADULT,283,197,45 to 54 years,P5,Portola,July,2016,p,phone,false,2003,false,10
+0,ADULT,20,30,55 to 59 years,R3,Richmond,December,2015,p,phone,false,2003,false,1
+0,ADULT,61,9,60 to 64 years,G4,Glen Park,May,2016,z,email,true,2003,false,7
+0,ADULT,460,160,35 to 44 years,C2,Chinatown,September,2015,z,email,true,2003,false,10
+0,ADULT,503,449,60 to 64 years,G4,Glen Park,July,2016,z,email,true,2003,false,7
+0,ADULT,1009,378,45 to 54 years,N6,North Beach,July,2016,z,email,true,2003,false,3
+3,SENIOR,1192,655,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,6
+0,ADULT,1374,1439,35 to 44 years,V3,Visitacion Valley,July,2016,z,email,true,2003,false,10
+0,ADULT,82,47,55 to 59 years,M4,Merced,December,2014,z,email,true,2003,false,11
+3,SENIOR,777,757,65 to 74 years,S7,Sunset,July,2016,p,phone,false,2003,false,4
+3,SENIOR,47,11,65 to 74 years,G4,Glen Park,March,2015,p,phone,false,2003,false,7
+0,ADULT,336,254,55 to 59 years,X,Main Library,March,2016,p,phone,true,2003,false,5
+0,ADULT,114,108,45 to 54 years,X,Main Library,October,2012,p,phone,false,2003,false,10
+3,SENIOR,970,500,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,4
+3,SENIOR,376,81,65 to 74 years,S7,Sunset,September,2013,z,email,true,2003,false,4
+3,SENIOR,592,162,65 to 74 years,C2,Chinatown,May,2014,p,phone,false,2003,false,5
+3,SENIOR,70,33,65 to 74 years,B4,Bernal Heights,December,2015,p,phone,false,2003,false,9
+3,SENIOR,44,5,65 to 74 years,M2,Marina,June,2016,z,email,true,2003,false,2
+3,SENIOR,1303,4,65 to 74 years,C2,Chinatown,July,2016,a,print,false,2003,false,8
+0,ADULT,104,2,45 to 54 years,B2,Bayview/Linda Brooks-Burton,June,2016,p,phone,false,2003,false,10
+3,SENIOR,281,72,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,9
+0,ADULT,142,32,45 to 54 years,X,Main Library,August,2015,z,email,true,2003,false,2
+0,ADULT,158,26,45 to 54 years,X,Main Library,March,2016,p,phone,false,2003,false,9
+0,ADULT,35,20,60 to 64 years,P7,Potrero,June,2016,z,email,true,2003,false,10
+0,ADULT,549,355,45 to 54 years,X,Main Library,December,2015,z,email,true,2003,false,9
+0,ADULT,1256,395,55 to 59 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,597,310,60 to 64 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,334,194,55 to 59 years,B4,Bernal Heights,September,2013,z,email,true,2003,false,9
+0,ADULT,99,48,45 to 54 years,P7,Potrero,February,2016,z,email,true,2003,false,10
+0,ADULT,746,331,60 to 64 years,O7,Ortega,July,2016,p,phone,false,2003,false,4
+0,ADULT,45,37,25 to 34 years,X,Main Library,July,2015,z,email,true,2003,false,5
+0,ADULT,13,1,55 to 59 years,P9,Presidio,May,2016,a,print,false,2003,false,8
+3,SENIOR,887,901,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,94,31,35 to 44 years,E9,Excelsior,March,2016,z,email,true,2003,false,11
+0,ADULT,11,3,55 to 59 years,W4,Western Addition,July,2015,z,email,true,2003,false,5
+3,SENIOR,246,23,65 to 74 years,W2,West Portal,May,2016,z,email,true,2003,false,7
+0,ADULT,142,53,60 to 64 years,S7,Sunset,July,2015,z,email,true,2003,false,5
+3,SENIOR,84,31,65 to 74 years,B4,Bernal Heights,April,2016,z,email,true,2003,false,9
+0,ADULT,654,456,35 to 44 years,P1,Park,February,2015,z,email,true,2003,false,5
+3,SENIOR,1906,148,65 to 74 years,M4,Merced,July,2016,z,email,true,2003,false,7
+0,ADULT,38,22,25 to 34 years,N4,Noe Valley/Sally Brunn,July,2014,z,email,true,2003,false,8
+3,SENIOR,342,123,65 to 74 years,N6,North Beach,March,2016,z,email,true,2003,false,7
+3,SENIOR,67,78,65 to 74 years,R3,Richmond,March,2015,z,email,true,2003,false,1
+3,SENIOR,43,56,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,9
+0,ADULT,6,0,45 to 54 years,B2,Bayview/Linda Brooks-Burton,October,2014,a,print,false,2003,false,3
+0,ADULT,510,109,55 to 59 years,N6,North Beach,July,2016,z,email,true,2003,false,3
+0,ADULT,1836,1328,60 to 64 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+3,SENIOR,61,38,65 to 74 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,58,33,45 to 54 years,O7,Ortega,April,2016,z,email,true,2003,false,4
+3,SENIOR,84,53,65 to 74 years,P1,Park,January,2015,z,email,true,2003,false,5
+0,ADULT,67,46,60 to 64 years,W4,Western Addition,November,2015,z,email,true,2003,false,5
+0,ADULT,417,148,35 to 44 years,R3,Richmond,March,2014,z,email,true,2003,false,1
+0,ADULT,3372,3272,60 to 64 years,O7,Ortega,June,2014,z,email,true,2003,false,4
+3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,true,2016,true,
+0,ADULT,26,15,45 to 54 years,B2,Bayview/Linda Brooks-Burton,April,2016,z,email,true,2003,false,10
+3,SENIOR,245,127,65 to 74 years,S7,Sunset,January,2015,p,phone,false,2003,false,5
+0,ADULT,888,90,45 to 54 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,20,0,65 to 74 years,P3,Parkside,June,2016,z,email,true,2003,false,7
+0,ADULT,220,83,45 to 54 years,R3,Richmond,November,2015,z,email,true,2003,false,1
+3,SENIOR,2340,852,65 to 74 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+3,SENIOR,2257,246,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,5
+0,ADULT,23,0,55 to 59 years,N4,Noe Valley/Sally Brunn,June,2005,z,email,true,2003,false,8
+3,SENIOR,715,973,65 to 74 years,S7,Sunset,June,2014,z,email,true,2003,false,4
+0,ADULT,1210,468,55 to 59 years,X,Main Library,June,2016,z,email,true,2003,false,8
+0,ADULT,346,13,35 to 44 years,M2,Marina,July,2016,z,email,true,2003,false,5
+0,ADULT,40,12,60 to 64 years,S7,Sunset,October,2010,a,print,false,2003,false,4
+0,ADULT,3095,976,45 to 54 years,C2,Chinatown,July,2016,p,phone,false,2003,false,3
+0,ADULT,3880,1736,60 to 64 years,R3,Richmond,July,2016,p,phone,true,2003,false,9
+0,ADULT,418,291,45 to 54 years,C2,Chinatown,July,2016,p,phone,false,2003,false,4
+0,ADULT,393,89,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,7
+0,ADULT,125,84,45 to 54 years,S7,Sunset,July,2016,z,email,true,2003,false,11
+3,SENIOR,15,1,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,8
+0,ADULT,14,5,45 to 54 years,W2,West Portal,November,2012,z,email,true,2003,false,7
+0,ADULT,10,11,45 to 54 years,M6,Mission,December,2009,z,email,true,2003,false,11
+0,ADULT,34,36,45 to 54 years,X,Main Library,November,2015,z,email,true,2003,false,2
+3,SENIOR,323,54,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,8
+3,SENIOR,5,0,65 to 74 years,M4,Merced,December,2014,a,print,true,2003,false,7
+3,SENIOR,157,20,65 to 74 years,X,Main Library,July,2016,p,phone,true,2003,false,11
+3,SENIOR,260,73,65 to 74 years,P7,Potrero,February,2016,z,email,true,2003,false,3
+0,ADULT,85,77,35 to 44 years,W2,West Portal,September,2015,z,email,true,2003,false,4
+0,ADULT,24,37,45 to 54 years,X,Main Library,November,2014,z,email,true,2003,false,4
+0,ADULT,5673,208,60 to 64 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,3397,1186,45 to 54 years,G4,Glen Park,July,2016,z,email,true,2003,false,1
+0,ADULT,852,903,55 to 59 years,W4,Western Addition,July,2016,z,email,true,2003,false,1
+0,ADULT,529,331,45 to 54 years,B4,Bernal Heights,March,2016,z,email,true,2003,false,9
+0,ADULT,44,4,45 to 54 years,X,Main Library,October,2015,z,email,true,2003,false,2
+0,ADULT,780,135,45 to 54 years,N6,North Beach,May,2016,z,email,true,2003,false,3
+3,SENIOR,60,2,65 to 74 years,M6,Mission,February,2015,z,email,true,2003,false,8
+0,ADULT,346,682,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,5
+0,ADULT,341,45,60 to 64 years,M6,Mission,July,2016,p,phone,true,2003,false,10
+3,SENIOR,511,54,65 to 74 years,W2,West Portal,April,2016,z,email,true,2003,false,7
+0,ADULT,65,22,60 to 64 years,X,Main Library,May,2016,z,email,true,2003,false,5
+3,SENIOR,1775,769,65 to 74 years,O7,Ortega,July,2016,p,phone,false,2003,false,4
+0,ADULT,391,277,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,5
+0,ADULT,366,37,45 to 54 years,C2,Chinatown,October,2013,p,phone,false,2003,false,3
+0,ADULT,1136,3224,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,9
+0,ADULT,5158,201,45 to 54 years,O7,Ortega,July,2014,z,email,true,2003,false,9
+0,ADULT,337,206,60 to 64 years,R3,Richmond,June,2016,z,email,true,2003,false,1
+3,SENIOR,1019,455,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,5
+0,ADULT,3728,3640,55 to 59 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,1261,10,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,7
+0,ADULT,67,3,35 to 44 years,M6,Mission,April,2016,p,phone,false,2003,false,8
+0,ADULT,472,297,35 to 44 years,O7,Ortega,April,2016,z,email,true,2003,false,4
+0,ADULT,72,22,45 to 54 years,M4,Merced,September,2014,z,email,true,2003,false,7
+3,SENIOR,48,12,65 to 74 years,S7,Sunset,May,2016,z,email,true,2003,false,4
+3,SENIOR,3321,259,65 to 74 years,P3,Parkside,July,2016,p,phone,true,2003,false,7
+0,ADULT,43,125,60 to 64 years,O7,Ortega,May,2014,p,phone,false,2003,false,4
+0,ADULT,256,34,45 to 54 years,R3,Richmond,June,2016,z,email,true,2003,false,1
+0,ADULT,7,9,25 to 34 years,W2,West Portal,August,2014,p,phone,false,2003,false,10
+0,ADULT,1667,1362,35 to 44 years,I5,Ingleside,May,2016,z,email,true,2003,false,11
+0,ADULT,1991,15,55 to 59 years,E9,Excelsior,July,2016,p,phone,false,2003,false,11
+0,ADULT,2283,128,60 to 64 years,C2,Chinatown,July,2016,z,email,true,2003,false,10
+0,ADULT,798,157,35 to 44 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,225,3,35 to 44 years,C2,Chinatown,July,2016,a,print,false,2003,false,3
+3,SENIOR,2165,1592,65 to 74 years,G4,Glen Park,July,2016,p,phone,false,2003,false,7
+0,ADULT,163,22,45 to 54 years,R3,Richmond,July,2016,z,email,true,2003,false,2
+0,ADULT,15,10,45 to 54 years,M4,Merced,January,2015,z,email,true,2003,false,9
+0,ADULT,532,270,55 to 59 years,M4,Merced,July,2016,z,email,true,2003,false,7
+0,ADULT,382,308,60 to 64 years,X,Main Library,March,2015,z,email,true,2003,false,3
+0,ADULT,150,150,45 to 54 years,W2,West Portal,December,2014,z,email,true,2003,false,7
+3,SENIOR,92,14,65 to 74 years,M2,Marina,May,2016,a,print,false,2003,false,9
+0,ADULT,1871,75,45 to 54 years,G4,Glen Park,July,2016,z,email,true,2003,false,7
+0,ADULT,8,0,25 to 34 years,M6,Mission,September,2010,z,email,true,2003,false,11
+3,SENIOR,476,563,65 to 74 years,B4,Bernal Heights,June,2016,z,email,true,2003,false,9
+0,ADULT,190,64,45 to 54 years,X,Main Library,November,2014,z,email,true,2003,false,11
+0,ADULT,48,74,35 to 44 years,O7,Ortega,August,2013,z,email,true,2003,false,4
+0,ADULT,1433,5,35 to 44 years,M6,Mission,July,2016,z,email,true,2003,false,9
+0,ADULT,32,16,55 to 59 years,C2,Chinatown,March,2015,a,print,false,2003,false,11
+0,ADULT,13,0,60 to 64 years,W2,West Portal,March,2016,z,email,true,2003,false,7
+3,SENIOR,34,1,65 to 74 years,M4,Merced,December,2013,a,print,false,2003,false,7
+0,ADULT,728,158,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,p,phone,false,2003,false,8
+0,ADULT,358,35,45 to 54 years,X,Main Library,July,2014,z,email,true,2003,false,9
+0,ADULT,137,89,45 to 54 years,E9,Excelsior,June,2016,a,print,false,2003,false,11
+3,SENIOR,126,49,65 to 74 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+3,SENIOR,204,96,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,315,109,60 to 64 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,true,2003,false,8
+0,ADULT,15,13,25 to 34 years,X,Main Library,January,2008,z,email,true,2003,false,9
+0,ADULT,62,60,35 to 44 years,O2,Ocean View,June,2016,z,email,true,2003,false,11
+3,SENIOR,646,18,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,3
+3,SENIOR,385,178,65 to 74 years,W2,West Portal,May,2016,z,email,true,2003,false,7
+0,ADULT,55,0,45 to 54 years,X,Main Library,May,2016,p,phone,false,2003,false,8
+0,ADULT,1,2,35 to 44 years,C2,Chinatown,October,2004,z,email,true,2003,false,10
+0,ADULT,9,0,25 to 34 years,O7,Ortega,April,2013,z,email,true,2003,false,4
+0,ADULT,11,2,55 to 59 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,83,38,45 to 54 years,G4,Glen Park,April,2015,z,email,true,2003,false,9
+0,ADULT,238,24,45 to 54 years,N4,Noe Valley/Sally Brunn,July,2016,p,phone,false,2003,false,7
+3,SENIOR,169,149,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,7
+0,ADULT,525,76,60 to 64 years,G6,Golden Gate Valley,July,2016,z,email,true,2003,false,2
+0,ADULT,211,179,35 to 44 years,N4,Noe Valley/Sally Brunn,October,2015,z,email,true,2003,false,11
+0,ADULT,133,2,60 to 64 years,X,Main Library,July,2016,p,phone,false,2003,false,6
+3,SENIOR,306,135,65 to 74 years,P7,Potrero,July,2016,z,email,true,2003,false,10
+3,SENIOR,55,6,65 to 74 years,G4,Glen Park,June,2016,z,email,true,2003,false,8
+3,SENIOR,1309,1899,65 to 74 years,A5,Anza,July,2016,z,email,true,2003,false,1
+0,ADULT,191,208,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,April,2015,z,email,true,2003,false,8
+0,ADULT,299,245,45 to 54 years,M2,Marina,July,2016,z,email,true,2003,false,2
+3,SENIOR,189,27,65 to 74 years,P1,Park,October,2015,p,phone,false,2003,false,1
+0,ADULT,196,41,25 to 34 years,I5,Ingleside,April,2013,z,email,true,2003,false,7
+0,ADULT,834,264,60 to 64 years,M4,Merced,July,2016,z,email,true,2003,false,7
+0,ADULT,956,345,60 to 64 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+0,ADULT,37,2,35 to 44 years,P9,Presidio,September,2010,z,email,true,2003,false,1
+0,ADULT,2203,776,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+0,ADULT,1354,460,45 to 54 years,R3,Richmond,July,2016,z,email,true,2003,false,8
+0,ADULT,106,32,25 to 34 years,X,Main Library,July,2014,z,email,true,2003,false,4
+0,ADULT,16,20,55 to 59 years,X,Main Library,November,2014,z,email,true,2003,false,9
+0,ADULT,89,10,60 to 64 years,E9,Excelsior,September,2013,z,email,true,2003,false,9
+0,ADULT,107,120,25 to 34 years,R3,Richmond,May,2016,z,email,true,2003,false,1
+0,ADULT,325,129,60 to 64 years,G4,Glen Park,October,2014,z,email,true,2003,false,11
+0,ADULT,96,84,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,7
+0,ADULT,7,0,60 to 64 years,B4,Bernal Heights,November,2011,p,phone,true,2003,false,8
+3,SENIOR,948,1110,65 to 74 years,M4,Merced,July,2016,z,email,true,2003,false,7
+0,ADULT,83,21,55 to 59 years,G4,Glen Park,May,2015,p,phone,true,2003,false,1
+0,ADULT,240,71,45 to 54 years,C2,Chinatown,September,2013,z,email,true,2003,false,8
+3,SENIOR,36,9,65 to 74 years,W2,West Portal,May,2015,p,phone,false,2003,false,8
+3,SENIOR,303,229,65 to 74 years,M2,Marina,July,2016,p,phone,false,2003,false,2
+0,ADULT,96,35,45 to 54 years,P3,Parkside,November,2009,a,print,false,2003,false,4
+0,ADULT,801,1021,60 to 64 years,M6,Mission,July,2016,z,email,true,2003,false,8
+0,ADULT,43,104,25 to 34 years,R3,Richmond,July,2016,z,email,true,2003,false,5
+0,ADULT,22,0,45 to 54 years,E9,Excelsior,November,2014,z,email,true,2003,false,11
+0,ADULT,40,3,45 to 54 years,B4,Bernal Heights,January,2016,z,email,true,2003,false,9
+0,ADULT,68,19,60 to 64 years,S7,Sunset,July,2016,z,email,true,2003,false,5
+0,ADULT,79,15,45 to 54 years,W2,West Portal,February,2011,z,email,true,2003,false,7
+0,ADULT,321,0,55 to 59 years,M6,Mission,July,2016,p,phone,false,2003,false,11
+0,ADULT,231,70,60 to 64 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,567,7,45 to 54 years,X,Main Library,March,2014,a,print,false,2003,false,3
+0,ADULT,157,83,25 to 34 years,M6,Mission,July,2014,z,email,true,2003,false,8
+0,ADULT,154,46,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,2
+0,ADULT,1788,139,60 to 64 years,A5,Anza,July,2016,z,email,true,2003,false,1
+0,ADULT,2,1,35 to 44 years,X,Main Library,September,2010,z,email,true,2003,false,10
+0,ADULT,302,6,35 to 44 years,W2,West Portal,June,2015,z,email,true,2003,false,7
+0,ADULT,35,55,60 to 64 years,C2,Chinatown,October,2015,z,email,true,2003,false,11
+0,ADULT,91,23,55 to 59 years,R3,Richmond,March,2016,p,phone,false,2003,false,4
+3,SENIOR,572,364,65 to 74 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,64,39,35 to 44 years,P3,Parkside,August,2015,z,email,true,2003,false,4
+0,ADULT,64,15,60 to 64 years,P9,Presidio,November,2015,a,print,true,2003,false,2
+0,ADULT,133,23,55 to 59 years,B2,Bayview/Linda Brooks-Burton,July,2016,z,email,true,2003,false,10
+0,ADULT,775,27,45 to 54 years,G4,Glen Park,May,2016,z,email,true,2003,false,8
+55,RETIRED STAFF,652,182,55 to 59 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,218,231,45 to 54 years,O7,Ortega,June,2016,z,email,true,2003,false,4
+0,ADULT,164,33,35 to 44 years,P5,Portola,September,2013,z,email,true,2003,false,9
+3,SENIOR,1077,217,65 to 74 years,P3,Parkside,July,2016,z,email,true,2003,false,1
+0,ADULT,115,75,45 to 54 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,817,788,60 to 64 years,X,Main Library,June,2016,z,email,true,2003,false,1
+0,ADULT,1092,761,60 to 64 years,M6,Mission,July,2016,p,phone,false,2003,false,9
+0,ADULT,1339,1069,55 to 59 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+3,SENIOR,302,135,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,false,5
+0,ADULT,39,63,45 to 54 years,M6,Mission,January,2014,a,print,false,2003,false,8
+0,ADULT,3,0,45 to 54 years,C2,Chinatown,November,2014,z,email,true,2003,false,11
+0,ADULT,297,376,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,3
+0,ADULT,23,11,45 to 54 years,N4,Noe Valley/Sally Brunn,May,2015,p,phone,false,2003,false,9
+0,ADULT,56,38,55 to 59 years,M6,Mission,July,2015,p,phone,false,2003,false,10
+0,ADULT,177,54,60 to 64 years,R3,Richmond,December,2015,z,email,true,2003,false,1
+0,ADULT,225,452,55 to 59 years,W2,West Portal,October,2014,z,email,true,2003,false,7
+0,ADULT,60,61,35 to 44 years,W2,West Portal,August,2015,z,email,true,2003,false,7
+0,ADULT,1861,1200,45 to 54 years,P3,Parkside,February,2015,z,email,true,2003,false,4
+3,SENIOR,1,4,65 to 74 years,X,Main Library,August,2012,p,phone,false,2003,false,8
+0,ADULT,104,10,45 to 54 years,X,Main Library,January,2016,z,email,true,2003,false,10
+0,ADULT,440,181,25 to 34 years,I5,Ingleside,March,2016,z,email,true,2003,false,11
+3,SENIOR,2124,762,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,3
+3,SENIOR,566,532,65 to 74 years,P3,Parkside,October,2013,z,email,true,2003,false,4
+3,SENIOR,16,2,65 to 74 years,X,Main Library,November,2008,z,email,true,2003,false,11
+0,ADULT,852,456,60 to 64 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+3,SENIOR,4188,2483,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,3
+0,ADULT,459,45,60 to 64 years,A5,Anza,June,2016,z,email,true,2003,false,1
+0,ADULT,122,58,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,7
+3,SENIOR,884,49,65 to 74 years,P3,Parkside,July,2016,p,phone,false,2003,false,4
+0,ADULT,14,0,55 to 59 years,X,Main Library,February,2008,a,print,false,2003,false,8
+3,SENIOR,354,21,65 to 74 years,P9,Presidio,May,2016,z,email,true,2003,false,2
+0,ADULT,125,31,60 to 64 years,X,Main Library,April,2014,p,phone,false,2003,false,6
+0,ADULT,972,1407,45 to 54 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,87,142,60 to 64 years,X,Main Library,September,2015,z,email,true,2003,false,4
+0,ADULT,20,8,35 to 44 years,P9,Presidio,November,2013,p,phone,false,2003,false,5
+0,ADULT,395,100,60 to 64 years,S7,Sunset,July,2016,z,email,true,2003,false,7
+0,ADULT,120,31,60 to 64 years,W2,West Portal,February,2014,z,email,true,2003,false,7
+3,SENIOR,93,14,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,9
+0,ADULT,775,96,45 to 54 years,P1,Park,July,2016,z,email,true,2003,false,4
+3,SENIOR,305,91,65 to 74 years,S7,Sunset,November,2015,p,phone,false,2003,false,4
+0,ADULT,68,82,35 to 44 years,X,Main Library,September,2014,z,email,true,2003,false,9
+0,ADULT,86,14,35 to 44 years,B2,Bayview/Linda Brooks-Burton,July,2015,z,email,true,2003,false,10
+0,ADULT,1451,176,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,1
+0,ADULT,1434,266,45 to 54 years,W2,West Portal,June,2016,z,email,true,2003,false,7
+0,ADULT,30,1,55 to 59 years,X,Main Library,August,2009,p,phone,false,2003,false,6
+0,ADULT,676,829,35 to 44 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+3,SENIOR,238,184,65 to 74 years,S7,Sunset,June,2016,p,phone,false,2003,false,7
+3,SENIOR,379,235,65 to 74 years,S7,Sunset,October,2013,z,email,true,2003,false,7
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+0,ADULT,116,73,60 to 64 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+0,ADULT,9,3,45 to 54 years,X,Main Library,October,2014,p,phone,false,2003,false,9
+0,ADULT,8,4,25 to 34 years,I5,Ingleside,February,2013,z,email,true,2003,false,10
+0,ADULT,423,34,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,11
+3,SENIOR,393,78,65 to 74 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+0,ADULT,129,15,55 to 59 years,X,Main Library,August,2014,z,email,true,2003,false,5
+3,SENIOR,1807,1618,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,false,5
+3,SENIOR,5,2,65 to 74 years,P3,Parkside,October,2015,a,print,false,2003,false,4
+0,ADULT,63,51,45 to 54 years,X,Main Library,September,2015,z,email,true,2003,false,1
+0,ADULT,431,273,35 to 44 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,50,16,45 to 54 years,W2,West Portal,March,2014,z,email,true,2003,false,7
+0,ADULT,14,2,45 to 54 years,G4,Glen Park,June,2016,z,email,true,2003,false,7
+0,ADULT,27,49,45 to 54 years,E9,Excelsior,January,2016,z,email,true,2003,false,9
+0,ADULT,109,14,55 to 59 years,P9,Presidio,October,2014,z,email,true,2003,false,2
+0,ADULT,89,54,60 to 64 years,M4,Merced,July,2016,z,email,true,2003,false,7
+3,SENIOR,616,430,65 to 74 years,P7,Potrero,July,2016,z,email,true,2003,false,10
+0,ADULT,10,1,55 to 59 years,X,Main Library,March,2016,z,email,true,2003,false,8
+0,ADULT,167,5,35 to 44 years,M6,Mission,May,2014,p,phone,false,2003,false,9
+0,ADULT,64,13,55 to 59 years,M6,Mission,June,2010,z,email,true,2003,false,9
+3,SENIOR,107,33,65 to 74 years,G4,Glen Park,December,2013,z,email,true,2003,false,11
+3,SENIOR,115,9,65 to 74 years,X,Main Library,June,2016,z,email,true,2003,false,5
+0,ADULT,40,58,45 to 54 years,I5,Ingleside,January,2016,p,phone,false,2003,false,7
+0,ADULT,272,274,55 to 59 years,X,Main Library,July,2016,p,phone,false,2003,false,10
+0,ADULT,154,62,55 to 59 years,M2,Marina,August,2015,z,email,true,2003,false,2
+0,ADULT,834,1120,45 to 54 years,S7,Sunset,July,2016,z,email,true,2003,false,5
+0,ADULT,17,3,60 to 64 years,M4,Merced,April,2016,z,email,true,2003,false,9
+3,SENIOR,3707,389,65 to 74 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,3,2,45 to 54 years,B4,Bernal Heights,February,2014,z,email,true,2003,false,9
+0,ADULT,114,84,45 to 54 years,X,Main Library,July,2015,z,email,true,2003,false,1
+0,ADULT,503,578,60 to 64 years,M4,Merced,July,2016,z,email,true,2003,false,7
+3,SENIOR,48,24,65 to 74 years,M6,Mission,February,2016,z,email,true,2003,false,8
+0,ADULT,773,410,45 to 54 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,57,52,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,6
+0,ADULT,549,353,55 to 59 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,468,222,60 to 64 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,p,phone,true,2003,false,8
+0,ADULT,319,180,45 to 54 years,W2,West Portal,August,2015,z,email,true,2003,false,7
+3,SENIOR,2249,12,65 to 74 years,X,Main Library,July,2016,a,print,false,2003,false,6
+0,ADULT,89,34,45 to 54 years,X,Main Library,December,2015,z,email,true,2003,false,7
+3,SENIOR,1790,3370,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,p,phone,false,2003,false,8
+0,ADULT,679,1669,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,8
+3,SENIOR,188,19,65 to 74 years,W2,West Portal,August,2015,z,email,true,2003,false,7
+0,ADULT,70,38,60 to 64 years,X,Main Library,July,2015,z,email,true,2003,false,8
+0,ADULT,706,58,35 to 44 years,W2,West Portal,May,2016,z,email,true,2003,false,7
+0,ADULT,267,435,35 to 44 years,P5,Portola,June,2016,z,email,true,2003,false,10
+0,ADULT,726,965,45 to 54 years,A5,Anza,February,2016,z,email,true,2003,false,4
+0,ADULT,45,32,55 to 59 years,A5,Anza,March,2014,z,email,true,2003,false,1
+0,ADULT,4,8,35 to 44 years,X,Main Library,July,2015,z,email,true,2003,false,5
+3,SENIOR,252,169,65 to 74 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,444,15,60 to 64 years,X,Main Library,February,2013,z,email,true,2003,false,11
+3,SENIOR,211,114,65 to 74 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+0,ADULT,135,73,35 to 44 years,C2,Chinatown,July,2016,z,email,true,2003,false,10
+0,ADULT,57,12,60 to 64 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+3,SENIOR,2335,283,65 to 74 years,P3,Parkside,December,2015,z,email,true,2003,false,4
+0,ADULT,54,58,55 to 59 years,A5,Anza,June,2016,z,email,true,2003,false,1
+3,SENIOR,309,110,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,5
+0,ADULT,274,607,55 to 59 years,A5,Anza,June,2016,z,email,true,2003,false,1
+0,ADULT,546,702,55 to 59 years,S7,Sunset,March,2016,z,email,true,2003,false,7
+0,ADULT,230,27,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,2
+3,SENIOR,246,95,65 to 74 years,M2,Marina,June,2016,z,email,true,2003,false,2
+3,SENIOR,18,13,65 to 74 years,S7,Sunset,February,2016,z,email,true,2003,false,7
+3,SENIOR,419,289,65 to 74 years,I5,Ingleside,July,2016,z,email,true,2003,false,7
+0,ADULT,1262,101,60 to 64 years,S7,Sunset,July,2016,z,email,true,2003,false,8
+0,ADULT,174,38,45 to 54 years,X,Main Library,June,2016,z,email,true,2003,false,8
+0,ADULT,9,2,60 to 64 years,M2,Marina,October,2013,z,email,true,2003,false,2
+0,ADULT,107,93,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,10
+0,ADULT,537,995,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,3
+0,ADULT,4,4,45 to 54 years,E9,Excelsior,November,2007,p,phone,false,2003,false,5
+0,ADULT,327,20,60 to 64 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,1942,369,45 to 54 years,X,Main Library,July,2016,p,phone,true,2003,false,6
+0,ADULT,1922,255,60 to 64 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+3,SENIOR,191,63,65 to 74 years,X,Main Library,June,2016,z,email,true,2003,false,5
+0,ADULT,92,17,35 to 44 years,X,Main Library,March,2014,z,email,true,2003,false,5
+3,SENIOR,14,1,65 to 74 years,M6,Mission,January,2013,z,email,true,2003,false,8
+3,SENIOR,382,184,65 to 74 years,M2,Marina,July,2016,z,email,true,2003,false,2
+3,SENIOR,394,113,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,false,7
+0,ADULT,10521,621,60 to 64 years,X,Main Library,July,2016,p,phone,false,2003,false,6
+3,SENIOR,107,20,65 to 74 years,X,Main Library,April,2014,z,email,true,2003,false,2
+0,ADULT,4,0,60 to 64 years,B2,Bayview/Linda Brooks-Burton,June,2016,z,email,true,2003,false,11
+3,SENIOR,403,227,65 to 74 years,V3,Visitacion Valley,June,2016,z,email,true,2003,false,10
+0,ADULT,21,8,55 to 59 years,W2,West Portal,January,2015,z,email,true,2003,false,7
+3,SENIOR,98,107,65 to 74 years,P1,Park,November,2014,z,email,true,2003,false,5
+0,ADULT,262,77,55 to 59 years,X,Main Library,July,2014,z,email,true,2003,false,4
+0,ADULT,163,21,60 to 64 years,X,Main Library,July,2016,p,phone,false,2003,false,11
+0,ADULT,810,53,45 to 54 years,B2,Bayview/Linda Brooks-Burton,July,2016,z,email,true,2003,false,10
+3,SENIOR,121,17,65 to 74 years,X,Main Library,March,2016,z,email,true,2003,false,8
+0,ADULT,79,86,45 to 54 years,C2,Chinatown,August,2014,p,phone,false,2003,false,10
+3,SENIOR,1174,127,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,false,7
+0,ADULT,698,622,60 to 64 years,I5,Ingleside,February,2016,a,print,false,2003,false,11
+0,ADULT,1961,4793,45 to 54 years,C2,Chinatown,January,2016,z,email,true,2003,false,6
+0,ADULT,2294,173,45 to 54 years,M6,Mission,December,2015,p,phone,false,2003,false,9
+3,SENIOR,15,0,65 to 74 years,C2,Chinatown,April,2006,p,phone,false,2003,false,4
+0,ADULT,366,61,60 to 64 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+3,SENIOR,37,19,65 to 74 years,W2,West Portal,July,2016,p,phone,false,2003,false,7
+3,SENIOR,348,318,65 to 74 years,P3,Parkside,July,2016,z,email,true,2003,false,7
+3,SENIOR,182,43,65 to 74 years,R3,Richmond,July,2016,p,phone,true,2003,false,1
+0,ADULT,191,234,55 to 59 years,M8,Mission Bay,December,2014,z,email,true,2003,false,6
+0,ADULT,23,4,45 to 54 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+0,ADULT,558,491,60 to 64 years,M6,Mission,June,2016,z,email,true,2003,false,9
+0,ADULT,109,115,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,April,2016,z,email,true,2003,false,6
+0,ADULT,87,21,55 to 59 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+0,ADULT,210,9,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,2
+0,ADULT,705,3,55 to 59 years,C2,Chinatown,July,2016,p,phone,false,2003,false,3
+0,ADULT,17,4,60 to 64 years,W2,West Portal,January,2013,z,email,true,2003,false,11
+3,SENIOR,16,9,65 to 74 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,79,1,45 to 54 years,N6,North Beach,June,2016,z,email,true,2003,false,10
+0,ADULT,170,31,60 to 64 years,O7,Ortega,June,2016,z,email,true,2003,false,4
+0,ADULT,30,3,55 to 59 years,X,Main Library,May,2016,z,email,true,2003,false,2
+0,ADULT,2,0,35 to 44 years,E9,Excelsior,June,2016,p,phone,false,2003,false,11
+3,SENIOR,70,10,65 to 74 years,I5,Ingleside,February,2015,z,email,true,2003,false,7
+3,SENIOR,822,717,65 to 74 years,P5,Portola,July,2016,z,email,true,2003,false,10
+0,ADULT,382,619,45 to 54 years,E9,Excelsior,July,2016,z,email,true,2003,false,9
+0,ADULT,2,0,60 to 64 years,X,Main Library,April,2016,p,phone,false,2003,false,4
+0,ADULT,103,33,45 to 54 years,X,Main Library,July,2016,p,phone,false,2003,false,8
+0,ADULT,137,159,35 to 44 years,C2,Chinatown,December,2011,a,print,true,2003,false,7
+3,SENIOR,2324,2100,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,false,7
+0,ADULT,19,35,35 to 44 years,E9,Excelsior,April,2016,z,email,true,2003,false,11
+0,ADULT,507,532,45 to 54 years,X,Main Library,August,2015,z,email,true,2003,false,9
+3,SENIOR,2903,217,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,6
+0,ADULT,452,58,45 to 54 years,C2,Chinatown,August,2014,z,email,true,2003,false,6
+0,ADULT,71,23,55 to 59 years,N6,North Beach,January,2015,z,email,true,2003,false,3
+3,SENIOR,156,41,65 to 74 years,O7,Ortega,November,2014,z,email,true,2003,false,4
+0,ADULT,46,54,45 to 54 years,P1,Park,September,2015,z,email,true,2003,false,5
+0,ADULT,512,339,55 to 59 years,X,Main Library,October,2014,z,email,true,2003,false,3
+0,ADULT,9,16,35 to 44 years,P5,Portola,September,2014,z,email,true,2003,false,2
+0,ADULT,2,0,35 to 44 years,R3,Richmond,December,2004,a,print,false,2003,false,6
+3,SENIOR,231,38,65 to 74 years,N6,North Beach,July,2016,z,email,true,2003,false,3
+0,ADULT,483,465,45 to 54 years,S7,Sunset,May,2016,z,email,true,2003,false,4
+3,SENIOR,440,169,65 to 74 years,A5,Anza,July,2016,p,phone,false,2003,false,1
+0,ADULT,108,6,45 to 54 years,M6,Mission,May,2016,p,phone,false,2003,false,11
+0,ADULT,101,9,45 to 54 years,M6,Mission,March,2015,z,email,true,2003,false,9
+0,ADULT,1299,400,60 to 64 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,185,39,55 to 59 years,M4,Merced,June,2016,z,email,true,2003,false,7
+0,ADULT,31,54,55 to 59 years,S7,Sunset,July,2016,p,phone,false,2003,false,4
+0,ADULT,21,2,60 to 64 years,C2,Chinatown,February,2014,p,phone,false,2003,false,2
+3,SENIOR,2267,1070,65 to 74 years,R3,Richmond,July,2016,p,phone,true,2003,false,8
+0,ADULT,62,36,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,7
+0,ADULT,21,4,35 to 44 years,M6,Mission,June,2016,p,phone,false,2003,false,9
+0,ADULT,146,105,45 to 54 years,X,Main Library,June,2016,p,phone,false,2003,false,8
+0,ADULT,23,0,45 to 54 years,G4AAA,Unknown,July,2016,z,email,true,2003,false,9
+0,ADULT,79,88,35 to 44 years,M6,Mission,November,2015,z,email,true,2003,false,9
+0,ADULT,84,35,45 to 54 years,N6,North Beach,July,2016,z,email,true,2003,false,8
+0,ADULT,687,627,55 to 59 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,835,334,45 to 54 years,X,Main Library,October,2015,p,phone,true,2003,false,5
+3,SENIOR,2858,521,65 to 74 years,S7,Sunset,July,2016,p,phone,false,2003,false,4
+0,ADULT,32,31,25 to 34 years,P1,Park,December,2015,z,email,true,2003,false,5
+3,SENIOR,105,89,65 to 74 years,O7,Ortega,October,2014,z,email,true,2003,false,4
+0,ADULT,249,239,35 to 44 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+0,ADULT,145,56,60 to 64 years,P1,Park,July,2016,z,email,true,2003,false,9
+0,ADULT,410,319,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2003,false,10
+3,SENIOR,79,2,65 to 74 years,M6,Mission,October,2013,a,print,true,2003,false,8
+0,ADULT,709,231,60 to 64 years,P1,Park,March,2016,z,email,true,2003,false,8
+0,ADULT,8,0,35 to 44 years,C2,Chinatown,None,None,p,phone,false,2003,false,3
+0,ADULT,124,22,55 to 59 years,C2,Chinatown,July,2013,p,phone,false,2003,false,3
+3,SENIOR,46,25,65 to 74 years,X,Main Library,September,2014,z,email,true,2003,false,3
+0,ADULT,467,71,60 to 64 years,M2,Marina,July,2016,p,phone,false,2003,false,2
+0,ADULT,18,2,55 to 59 years,C2,Chinatown,January,2014,z,email,true,2003,false,4
+0,ADULT,45,13,35 to 44 years,C2,Chinatown,July,2016,z,email,true,2003,false,3
+0,ADULT,70,5,60 to 64 years,G6,Golden Gate Valley,January,2016,z,email,true,2003,false,2
+0,ADULT,2322,2814,45 to 54 years,G4,Glen Park,July,2016,z,email,true,2003,false,11
+0,ADULT,38,68,45 to 54 years,P1,Park,May,2013,z,email,true,2003,false,6
+0,ADULT,116,120,35 to 44 years,O7,Ortega,July,2016,z,email,true,2003,false,7
+0,ADULT,95,41,60 to 64 years,P9,Presidio,July,2016,z,email,true,2003,false,1
+3,SENIOR,246,66,65 to 74 years,G4,Glen Park,June,2016,z,email,true,2003,false,8
+0,ADULT,98,40,55 to 59 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+3,SENIOR,21,33,65 to 74 years,X,Main Library,October,2015,z,email,true,2003,false,3
+0,ADULT,1344,750,55 to 59 years,O7,Ortega,July,2016,z,email,true,2003,false,7
+0,ADULT,452,397,45 to 54 years,B4,Bernal Heights,July,2016,p,phone,true,2003,false,9
+3,SENIOR,1885,534,65 to 74 years,A5,Anza,July,2016,z,email,true,2003,false,1
+0,ADULT,298,114,60 to 64 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+0,ADULT,6,7,45 to 54 years,X,Main Library,March,2015,a,print,false,2003,false,2
+0,ADULT,236,55,55 to 59 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+3,SENIOR,29,0,65 to 74 years,P9,Presidio,September,2013,z,email,true,2003,false,7
+0,ADULT,179,26,35 to 44 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,38,4,45 to 54 years,A5,Anza,August,2013,a,print,true,2003,false,1
+0,ADULT,234,60,35 to 44 years,C2,Chinatown,January,2015,a,print,false,2003,false,10
+3,SENIOR,1009,591,65 to 74 years,P1,Park,July,2016,z,email,true,2003,false,5
+0,ADULT,6,11,45 to 54 years,X,Main Library,May,2016,z,email,true,2003,false,8
+0,ADULT,444,250,55 to 59 years,X,Main Library,April,2016,z,email,true,2003,false,8
+0,ADULT,316,258,35 to 44 years,X,Main Library,December,2014,z,email,true,2003,false,10
+0,ADULT,423,11,45 to 54 years,X,Main Library,February,2014,p,phone,false,2003,false,6
+0,ADULT,25,2,35 to 44 years,O7,Ortega,December,2015,a,print,true,2003,false,1
+3,SENIOR,79,26,65 to 74 years,X,Main Library,November,2014,z,email,true,2003,false,7
+0,ADULT,329,179,45 to 54 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,99,30,45 to 54 years,R3,Richmond,June,2014,z,email,true,2003,false,8
+3,SENIOR,295,112,65 to 74 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,252,71,60 to 64 years,A5,Anza,June,2016,z,email,true,2003,false,1
+0,ADULT,524,125,60 to 64 years,C2,Chinatown,October,2014,p,phone,false,2003,false,11
+0,ADULT,73,0,45 to 54 years,P1,Park,May,2013,z,email,true,2003,false,9
+0,ADULT,21,5,45 to 54 years,O7,Ortega,August,2015,z,email,true,2003,false,4
+0,ADULT,2890,734,55 to 59 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,99,54,35 to 44 years,X,Main Library,July,2016,p,phone,true,2003,false,9
+0,ADULT,798,381,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,5
+0,ADULT,68,29,45 to 54 years,R3,Richmond,January,2015,z,email,true,2003,false,1
+3,SENIOR,14,15,65 to 74 years,X,Main Library,May,2013,p,phone,false,2003,false,8
+3,SENIOR,144,34,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,November,2015,z,email,true,2003,false,8
+3,SENIOR,111,95,65 to 74 years,W2,West Portal,July,2012,z,email,true,2003,false,7
+0,ADULT,6335,375,60 to 64 years,R3,Richmond,July,2016,p,phone,false,2003,false,11
+0,ADULT,865,744,65 to 74 years,E9,Excelsior,May,2009,z,email,true,2003,false,11
+0,ADULT,608,312,45 to 54 years,O7,Ortega,February,2015,z,email,true,2003,false,4
+0,ADULT,139,38,35 to 44 years,R3,Richmond,September,2015,z,email,true,2003,false,1
+0,ADULT,449,252,55 to 59 years,M6,Mission,June,2016,z,email,true,2003,false,9
+3,SENIOR,321,81,65 to 74 years,B4,Bernal Heights,June,2016,p,phone,false,2003,false,9
+0,ADULT,141,148,60 to 64 years,P5,Portola,July,2016,z,email,true,2003,false,9
+0,ADULT,26,4,35 to 44 years,B2,Bayview/Linda Brooks-Burton,May,2014,p,phone,false,2003,false,10
+3,SENIOR,152,75,65 to 74 years,X,Main Library,November,2011,p,phone,true,2003,false,9
+0,ADULT,1524,671,35 to 44 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,4,0,35 to 44 years,I5,Ingleside,April,2008,z,email,true,2003,true,11
+0,ADULT,62,9,35 to 44 years,N6,North Beach,November,2013,z,email,true,2003,false,2
+3,SENIOR,16,12,65 to 74 years,E9,Excelsior,May,2014,z,email,true,2003,false,10
+0,ADULT,65,12,35 to 44 years,C2,Chinatown,June,2016,p,phone,false,2003,false,4
+0,ADULT,5,0,45 to 54 years,C2,Chinatown,July,2010,p,phone,false,2003,false,3
+3,SENIOR,67,1,65 to 74 years,C2,Chinatown,June,2013,a,print,false,2003,false,11
+3,SENIOR,407,172,65 to 74 years,S7,Sunset,July,2016,p,phone,false,2003,false,4
+3,SENIOR,658,348,65 to 74 years,X,Main Library,June,2016,z,email,true,2003,false,10
+0,ADULT,2568,1420,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+9,SPECIAL,3050,1565,65 to 74 years,YLW,Library on Wheels,March,2016,p,phone,true,2003,false,3
+3,SENIOR,96,95,65 to 74 years,G6,Golden Gate Valley,November,2014,z,email,true,2003,false,2
+0,ADULT,16,3,60 to 64 years,M6,Mission,May,2008,z,email,true,2003,false,8
+4,WELCOME,47,5,45 to 54 years,X,Main Library,April,2013,p,phone,false,2003,false,6
+0,ADULT,942,224,55 to 59 years,M6,Mission,July,2016,z,email,true,2003,false,9
+0,ADULT,426,406,45 to 54 years,X,Main Library,July,2016,p,phone,false,2003,false,10
+0,ADULT,73,9,55 to 59 years,X,Main Library,October,2015,z,email,true,2003,false,1
+0,ADULT,106,171,35 to 44 years,W2,West Portal,April,2016,z,email,true,2003,false,7
+0,ADULT,145,30,60 to 64 years,W2,West Portal,April,2016,z,email,true,2003,false,4
+0,ADULT,269,350,45 to 54 years,A5,Anza,July,2016,z,email,true,2003,false,1
+3,SENIOR,1511,17,65 to 74 years,C2,Chinatown,July,2016,p,phone,false,2003,false,5
+3,SENIOR,194,122,65 to 74 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,455,37,60 to 64 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,p,phone,false,2003,false,9
+0,ADULT,2064,4161,45 to 54 years,P9,Presidio,July,2016,p,phone,false,2003,false,2
+0,ADULT,75,57,45 to 54 years,I5,Ingleside,May,2014,z,email,true,2003,false,7
+0,ADULT,149,28,60 to 64 years,S7,Sunset,July,2016,p,phone,false,2003,false,7
+0,ADULT,93,58,45 to 54 years,X,Main Library,March,2013,z,email,true,2003,false,7
+3,SENIOR,32,12,65 to 74 years,P9,Presidio,September,2014,z,email,true,2003,false,2
+3,SENIOR,124,75,65 to 74 years,X,Main Library,February,2013,z,email,true,2003,false,6
+0,ADULT,235,189,35 to 44 years,O7,Ortega,April,2016,z,email,true,2003,false,7
+0,ADULT,25,0,60 to 64 years,X,Main Library,January,2014,z,email,true,2003,false,11
+0,ADULT,384,76,35 to 44 years,M6,Mission,September,2010,p,phone,false,2003,false,11
+3,SENIOR,54,46,65 to 74 years,X,Main Library,October,2013,z,email,true,2003,false,2
+0,ADULT,147,11,45 to 54 years,X,Main Library,January,2014,z,email,true,2003,false,7
+3,SENIOR,11,1,65 to 74 years,S7,Sunset,September,2013,z,email,true,2003,false,5
+0,ADULT,36,1,45 to 54 years,P3,Parkside,January,2016,z,email,true,2003,false,1
+0,ADULT,13,8,45 to 54 years,M6,Mission,March,2016,z,email,true,2011,false,
+0,ADULT,507,88,55 to 59 years,A5,Anza,July,2016,p,phone,false,2003,false,1
+3,SENIOR,137,45,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,2
+0,ADULT,71,9,60 to 64 years,G4,Glen Park,June,2016,z,email,true,2003,false,8
+0,ADULT,158,51,45 to 54 years,W4,Western Addition,July,2014,z,email,true,2003,false,5
+0,ADULT,71,23,45 to 54 years,M6,Mission,July,2015,z,email,true,2003,false,10
+0,ADULT,526,400,55 to 59 years,M6,Mission,July,2016,z,email,true,2003,false,10
+0,ADULT,0,0,35 to 44 years,S7,Sunset,May,2010,z,email,true,2003,false,5
+0,ADULT,18,0,55 to 59 years,W4,Western Addition,October,2015,p,phone,false,2003,false,5
+0,ADULT,288,425,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,5
+0,ADULT,84,50,45 to 54 years,P7,Potrero,April,2016,z,email,true,2003,false,10
+0,ADULT,74,10,45 to 54 years,P1,Park,January,2016,z,email,true,2003,false,8
+0,ADULT,172,31,60 to 64 years,X,Main Library,July,2015,p,phone,false,2003,false,10
+3,SENIOR,172,66,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,4
+3,SENIOR,18,2,65 to 74 years,X,Main Library,November,2013,z,email,true,2003,false,6
+0,ADULT,100,83,55 to 59 years,X,Main Library,July,2016,a,print,false,2003,false,4
+0,ADULT,20,0,60 to 64 years,X,Main Library,December,2015,z,email,true,2003,false,7
+0,ADULT,698,787,55 to 59 years,W4,Western Addition,June,2016,z,email,true,2003,false,5
+0,ADULT,201,162,60 to 64 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,333,189,45 to 54 years,W2,West Portal,July,2016,z,email,true,2003,false,8
+0,ADULT,140,6,35 to 44 years,S7,Sunset,December,2013,p,phone,false,2003,false,5
+0,ADULT,1410,475,55 to 59 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+3,SENIOR,19,0,65 to 74 years,E9,Excelsior,June,2015,p,phone,false,2003,false,11
+3,SENIOR,861,301,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,5
+0,ADULT,93,104,45 to 54 years,M2,Marina,July,2016,z,email,true,2003,false,2
+0,ADULT,50,16,60 to 64 years,G4,Glen Park,November,2015,z,email,true,2003,false,7
+0,ADULT,352,419,60 to 64 years,W2,West Portal,December,2013,z,email,true,2003,false,7
+3,SENIOR,47,10,65 to 74 years,X,Main Library,September,2015,p,phone,false,2003,false,5
+0,ADULT,2600,940,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,6
+3,SENIOR,35,11,65 to 74 years,X,Main Library,June,2016,z,email,true,2003,false,1
+0,ADULT,392,1,55 to 59 years,I5,Ingleside,July,2016,p,phone,false,2003,false,3
+0,ADULT,101,221,45 to 54 years,M4,Merced,August,2011,p,phone,false,2003,false,4
+0,ADULT,902,74,45 to 54 years,X,Main Library,November,2014,p,phone,false,2003,false,6
+0,ADULT,37,17,60 to 64 years,P7,Potrero,June,2015,z,email,true,2003,false,5
+0,ADULT,5040,2063,60 to 64 years,M6,Mission,June,2015,z,email,true,2003,false,9
+0,ADULT,350,344,45 to 54 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,40,28,35 to 44 years,P1,Park,July,2016,z,email,true,2003,false,10
+3,SENIOR,70,46,65 to 74 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,51,45,60 to 64 years,S7,Sunset,July,2016,p,phone,false,2003,false,4
+0,ADULT,533,48,55 to 59 years,N6,North Beach,September,2013,z,email,true,2003,false,8
+3,SENIOR,612,72,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,1
+0,ADULT,80,104,45 to 54 years,E9,Excelsior,May,2005,p,phone,false,2003,false,11
+0,ADULT,60,80,60 to 64 years,P3,Parkside,June,2016,z,email,true,2003,false,4
+3,SENIOR,16,40,65 to 74 years,N6,North Beach,November,2013,p,phone,false,2003,false,3
+0,ADULT,82,28,55 to 59 years,W2,West Portal,July,2016,p,phone,false,2003,false,7
+3,SENIOR,1090,413,65 to 74 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,616,121,35 to 44 years,S7,Sunset,August,2015,z,email,true,2003,false,4
+0,ADULT,5,20,45 to 54 years,X,Main Library,November,2015,z,email,true,2003,false,5
+0,ADULT,85,16,60 to 64 years,M6,Mission,November,2013,p,phone,false,2003,false,9
+0,ADULT,30,5,35 to 44 years,E9,Excelsior,November,2015,a,print,false,2003,false,11
+0,ADULT,1269,36,55 to 59 years,X,Main Library,February,2015,z,email,true,2003,false,5
+0,ADULT,920,579,55 to 59 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,298,133,55 to 59 years,M2,Marina,June,2016,p,phone,true,2003,false,1
+3,SENIOR,689,730,65 to 74 years,W2,West Portal,May,2015,p,phone,false,2003,false,4
+0,ADULT,156,213,45 to 54 years,W2,West Portal,July,2014,z,email,true,2003,false,7
+0,ADULT,115,31,35 to 44 years,R3,Richmond,September,2015,z,email,true,2003,false,11
+0,ADULT,957,446,35 to 44 years,C2,Chinatown,March,2016,z,email,true,2003,false,3
+3,SENIOR,333,117,65 to 74 years,X,Main Library,February,2016,p,phone,false,2003,false,2
+0,ADULT,651,1051,45 to 54 years,O7,Ortega,June,2016,z,email,true,2003,false,4
+3,SENIOR,2261,1206,65 to 74 years,M2,Marina,July,2016,z,email,true,2003,false,2
+3,SENIOR,450,12,65 to 74 years,N6,North Beach,November,2015,z,email,true,2003,false,3
+0,ADULT,6,0,60 to 64 years,M2,Marina,August,2007,z,email,true,2003,false,1
+0,ADULT,1438,90,45 to 54 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,283,15,35 to 44 years,M2,Marina,August,2013,z,email,true,2003,false,2
+0,ADULT,45,0,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,8
+0,ADULT,19,4,55 to 59 years,X,Main Library,September,2012,a,print,false,2003,false,9
+0,ADULT,19,0,55 to 59 years,X,Main Library,October,2005,z,email,true,2003,false,3
+0,ADULT,192,151,35 to 44 years,S7,Sunset,July,2016,z,email,true,2003,false,11
+0,ADULT,3196,59,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,6
+0,ADULT,134,47,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,December,2014,z,email,true,2003,false,10
+0,ADULT,692,85,45 to 54 years,M6,Mission,August,2013,p,phone,true,2003,false,8
+3,SENIOR,909,1145,65 to 74 years,S7,Sunset,July,2016,z,email,true,2003,false,7
+0,ADULT,1764,1012,45 to 54 years,M8,Mission Bay,July,2016,z,email,true,2003,false,6
+3,SENIOR,2625,1416,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,3
+0,ADULT,0,0,20 to 24 years,R3,Richmond,None,None,z,email,true,2016,true,
+0,ADULT,138,18,45 to 54 years,R3,Richmond,August,2014,z,email,true,2003,false,9
+0,ADULT,1509,48,60 to 64 years,X,Main Library,October,2015,p,phone,false,2003,false,4
+0,ADULT,96,6,60 to 64 years,X,Main Library,December,2014,p,phone,false,2003,false,11
+0,ADULT,4,0,55 to 59 years,X,Main Library,November,2012,p,phone,false,2003,false,9
+0,ADULT,317,406,55 to 59 years,M8,Mission Bay,July,2016,z,email,true,2003,false,6
+0,ADULT,140,34,60 to 64 years,R3,Richmond,June,2016,z,email,true,2003,false,1
+0,ADULT,519,259,55 to 59 years,X,Main Library,March,2016,p,phone,false,2003,false,7
+0,ADULT,9,5,45 to 54 years,C2,Chinatown,May,2012,z,email,true,2003,false,3
+0,ADULT,12740,2209,45 to 54 years,C2,Chinatown,July,2016,z,email,true,2003,false,3
+0,ADULT,11,10,55 to 59 years,X,Main Library,November,2015,z,email,true,2003,false,6
+0,ADULT,1116,903,45 to 54 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+3,SENIOR,348,308,65 to 74 years,P3,Parkside,November,2014,z,email,true,2003,false,4
+0,ADULT,672,195,45 to 54 years,G6,Golden Gate Valley,July,2016,z,email,true,2003,false,11
+0,ADULT,60,16,60 to 64 years,S7,Sunset,September,2015,p,phone,false,2003,false,1
+0,ADULT,631,7,45 to 54 years,X,Main Library,December,2015,a,print,false,2003,false,9
+0,ADULT,851,562,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,5
+0,ADULT,790,190,55 to 59 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+3,SENIOR,1265,718,65 to 74 years,X,Main Library,June,2016,a,print,false,2003,false,3
+0,ADULT,269,36,60 to 64 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+0,ADULT,255,383,55 to 59 years,X,Main Library,April,2016,z,email,true,2003,false,10
+3,SENIOR,102,119,65 to 74 years,X,Main Library,June,2016,z,email,true,2003,false,1
+0,ADULT,129,4,45 to 54 years,X,Main Library,April,2013,z,email,true,2003,false,3
+0,ADULT,138,33,60 to 64 years,B4,Bernal Heights,November,2015,z,email,true,2003,false,9
+0,ADULT,87,94,45 to 54 years,W2,West Portal,June,2014,z,email,true,2003,false,1
+0,ADULT,999,127,55 to 59 years,X,Main Library,July,2016,p,phone,false,2003,false,6
+3,SENIOR,13,26,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,2
+3,SENIOR,158,21,65 to 74 years,X,Main Library,February,2016,p,phone,false,2003,false,10
+3,SENIOR,38,10,65 to 74 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,101,37,55 to 59 years,E9,Excelsior,June,2014,z,email,true,2003,false,10
+3,SENIOR,1709,2659,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,3
+0,ADULT,13,0,55 to 59 years,M4,Merced,June,2005,p,phone,false,2003,false,11
+3,SENIOR,187,39,65 to 74 years,X,Main Library,April,2016,z,email,true,2003,false,4
+0,ADULT,1832,2,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,3
+3,SENIOR,868,239,65 to 74 years,M6,Mission,July,2016,z,email,true,2003,false,8
+3,SENIOR,43,10,65 to 74 years,G4,Glen Park,May,2016,p,phone,true,2003,false,8
+3,SENIOR,576,155,65 to 74 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,593,637,45 to 54 years,P5,Portola,July,2016,z,email,true,2003,false,3
+3,SENIOR,333,225,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,103,98,20 to 24 years,P5,Portola,July,2016,z,email,true,2003,false,9
+0,ADULT,849,616,60 to 64 years,E9,Excelsior,January,2013,z,email,true,2003,false,11
+0,ADULT,1364,1493,55 to 59 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,1283,119,25 to 34 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,106,3,35 to 44 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+3,SENIOR,473,141,65 to 74 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,166,19,25 to 34 years,M6,Mission,November,2013,z,email,true,2010,true,
+0,ADULT,80,80,25 to 34 years,X,Main Library,July,2016,z,email,true,2008,true,
+0,ADULT,47,5,35 to 44 years,E9,Excelsior,October,2011,z,email,true,2009,false,11
+0,ADULT,36,0,25 to 34 years,X,Main Library,May,2015,z,email,true,2014,false,5
+16,DIGITAL ACCESS CARD,0,0,20 to 24 years,O2,Ocean View,None,None,z,email,true,2014,false,11
+0,ADULT,8,8,35 to 44 years,P7,Potrero,July,2016,z,email,true,2014,false,10
+0,ADULT,716,283,35 to 44 years,S7,Sunset,July,2016,z,email,true,2007,false,7
+0,ADULT,41,33,20 to 24 years,X,Main Library,July,2016,z,email,true,2007,false,7
+0,ADULT,501,94,45 to 54 years,P9,Presidio,June,2016,z,email,true,2003,false,1
+0,ADULT,2,0,55 to 59 years,P1,Park,October,2007,z,email,true,2007,false,5
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2012,false,4
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2012,false,4
+0,ADULT,144,229,35 to 44 years,M6,Mission,July,2016,z,email,true,2011,false,7
+0,ADULT,430,247,55 to 59 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,3,0,35 to 44 years,G4,Glen Park,January,2016,z,email,true,2012,false,6
+0,ADULT,5,0,20 to 24 years,X,Main Library,June,2015,z,email,true,2011,false,6
+3,SENIOR,17,5,65 to 74 years,M8,Mission Bay,January,2016,p,phone,true,2006,true,
+0,ADULT,50,89,20 to 24 years,N4,Noe Valley/Sally Brunn,January,2015,z,email,true,2013,false,8
+3,SENIOR,3,3,65 to 74 years,X,Main Library,October,2012,z,email,true,2003,false,7
+0,ADULT,44,0,35 to 44 years,O7,Ortega,January,2016,z,email,true,2003,false,4
+3,SENIOR,938,357,65 to 74 years,X,Main Library,July,2016,p,phone,false,2003,false,5
+0,ADULT,14,3,25 to 34 years,X,Main Library,March,2015,z,email,true,2014,false,9
+0,ADULT,43,34,25 to 34 years,X,Main Library,December,2015,z,email,true,2003,false,11
+4,WELCOME,1,0,25 to 34 years,S7,Sunset,July,2013,z,email,true,2013,false,4
+4,WELCOME,1,0,25 to 34 years,S7,Sunset,July,2013,z,email,true,2013,false,4
+0,ADULT,5,3,25 to 34 years,X,Main Library,January,2016,z,email,true,2015,false,11
+0,ADULT,26,0,35 to 44 years,G4,Glen Park,June,2016,z,email,true,2015,false,7
+0,ADULT,1031,297,20 to 24 years,P5,Portola,September,2015,z,email,true,2004,false,3
+3,SENIOR,1018,1625,65 to 74 years,P3,Parkside,May,2016,z,email,true,2003,false,4
+0,ADULT,6,0,25 to 34 years,N4,Noe Valley/Sally Brunn,April,2014,z,email,true,2010,false,8
+0,ADULT,127,112,25 to 34 years,O7,Ortega,April,2014,a,print,false,2004,false,9
+0,ADULT,74,54,25 to 34 years,X,Main Library,July,2016,z,email,true,2013,false,
+0,ADULT,349,301,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,March,2016,z,email,true,2003,false,8
+3,SENIOR,660,2,65 to 74 years,R3,Richmond,July,2016,p,phone,false,2009,false,1
+0,ADULT,89,24,35 to 44 years,M2,Marina,July,2015,z,email,true,2013,false,2
+0,ADULT,1,0,45 to 54 years,X,Main Library,October,2015,z,email,true,2013,false,9
+0,ADULT,1,2,35 to 44 years,X,Main Library,September,2013,z,email,true,2013,false,5
+0,ADULT,2,0,35 to 44 years,P1,Park,October,2015,z,email,true,2012,false,8
+0,ADULT,231,271,45 to 54 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,true,2009,false,8
+0,ADULT,22,20,25 to 34 years,A5,Anza,July,2016,z,email,true,2014,false,1
+0,ADULT,0,0,45 to 54 years,X,Main Library,October,2013,z,email,true,2012,false,5
+0,ADULT,357,16,60 to 64 years,P1,Park,February,2016,p,phone,false,2006,false,4
+0,ADULT,40,19,35 to 44 years,B2,Bayview/Linda Brooks-Burton,November,2015,p,phone,false,2008,false,10
+0,ADULT,7,1,35 to 44 years,X,Main Library,January,2007,z,email,true,2003,true,
+0,ADULT,227,127,55 to 59 years,W2,West Portal,June,2016,z,email,true,2003,false,4
+0,ADULT,486,272,35 to 44 years,O7,Ortega,March,2016,z,email,true,2003,false,4
+0,ADULT,2,0,35 to 44 years,X,Main Library,January,2013,p,phone,false,2012,false,5
+0,ADULT,3,4,35 to 44 years,X,Main Library,December,2013,z,email,true,2013,false,9
+0,ADULT,26,10,25 to 34 years,X,Main Library,August,2013,z,email,true,2010,false,9
+0,ADULT,72,3,20 to 24 years,B2,Bayview/Linda Brooks-Burton,November,2014,z,email,true,2003,false,10
+0,ADULT,81,1,35 to 44 years,X,Main Library,February,2016,z,email,true,2012,true,
+0,ADULT,80,20,60 to 64 years,I5,Ingleside,November,2014,p,phone,true,2006,true,
+0,ADULT,1372,439,45 to 54 years,G4,Glen Park,July,2016,z,email,true,2003,false,11
+0,ADULT,459,148,35 to 44 years,R3,Richmond,February,2016,z,email,true,2011,false,
+0,ADULT,357,314,55 to 59 years,X,Main Library,June,2014,z,email,true,2010,false,8
+0,ADULT,3,0,35 to 44 years,M4,Merced,July,2015,z,email,true,2012,true,
+0,ADULT,47,9,55 to 59 years,M6,Mission,July,2015,p,phone,false,2005,false,11
+0,ADULT,7,0,45 to 54 years,O7,Ortega,May,2015,z,email,true,2014,false,
+0,ADULT,102,150,25 to 34 years,N4,Noe Valley/Sally Brunn,January,2016,z,email,true,2010,false,
+4,WELCOME,3,8,25 to 34 years,X,Main Library,July,2015,z,email,true,2014,true,
+0,ADULT,7,5,25 to 34 years,M6,Mission,July,2016,p,phone,true,2016,true,
+0,ADULT,142,50,45 to 54 years,M4,Merced,January,2015,a,print,true,2006,false,7
+0,ADULT,7,4,35 to 44 years,X,Main Library,October,2013,z,email,true,2012,true,
+0,ADULT,4,8,35 to 44 years,N4,Noe Valley/Sally Brunn,August,2009,z,email,true,2008,false,8
+0,ADULT,35,10,35 to 44 years,P1,Park,January,2014,z,email,true,2006,false,8
+0,ADULT,54,5,25 to 34 years,M8,Mission Bay,April,2014,p,phone,false,2013,false,
+0,ADULT,21,0,55 to 59 years,M2,Marina,December,2015,z,email,true,2009,false,2
+0,ADULT,113,88,25 to 34 years,C2,Chinatown,April,2014,z,email,true,2005,false,11
+0,ADULT,4,2,25 to 34 years,B4,Bernal Heights,July,2016,z,email,true,2008,true,
+0,ADULT,79,12,25 to 34 years,W4,Western Addition,October,2015,z,email,true,2013,false,5
+0,ADULT,34,5,35 to 44 years,O7,Ortega,June,2016,z,email,true,2003,false,4
+0,ADULT,80,14,55 to 59 years,X,Main Library,August,2012,z,email,true,2006,false,6
+0,ADULT,130,15,45 to 54 years,E9,Excelsior,December,2014,p,phone,false,2010,false,11
+0,ADULT,56,24,45 to 54 years,M8,Mission Bay,August,2014,z,email,true,2010,true,
+3,SENIOR,102,11,65 to 74 years,C2,Chinatown,July,2016,p,phone,false,2014,false,3
+0,ADULT,41,3,45 to 54 years,A5,Anza,March,2014,a,print,false,2009,false,1
+0,ADULT,4,5,25 to 34 years,X,Main Library,June,2015,z,email,true,2015,false,5
+0,ADULT,82,110,35 to 44 years,W4,Western Addition,August,2014,z,email,true,2012,false,
+4,WELCOME,4,0,45 to 54 years,X,Main Library,March,2015,p,phone,false,2013,false,9
+0,ADULT,14,5,35 to 44 years,P9,Presidio,January,2015,z,email,true,2011,false,2
+0,ADULT,2,4,20 to 24 years,X,Main Library,January,2014,z,email,true,2013,false,11
+0,ADULT,14,0,45 to 54 years,M6,Mission,December,2013,p,phone,false,2003,false,
+3,SENIOR,53,40,65 to 74 years,X,Main Library,October,2013,p,phone,false,2003,true,
+0,ADULT,1754,882,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,6
+4,WELCOME,1,1,45 to 54 years,M8,Mission Bay,February,2013,z,email,true,2013,true,
+0,ADULT,57,25,45 to 54 years,X,Main Library,June,2013,z,email,true,2008,false,5
+3,SENIOR,520,256,65 to 74 years,X,Main Library,September,2013,z,email,true,2003,false,8
+0,ADULT,38,14,25 to 34 years,M6,Mission,May,2016,z,email,true,2010,false,8
+0,ADULT,45,51,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2009,false,
+0,ADULT,14,30,20 to 24 years,X,Main Library,October,2015,z,email,true,2015,false,3
+0,ADULT,25,22,35 to 44 years,M2,Marina,June,2016,z,email,true,2008,false,1
+0,ADULT,45,16,25 to 34 years,X,Main Library,November,2014,z,email,true,2009,false,6
+0,ADULT,7,0,25 to 34 years,V3,Visitacion Valley,February,2016,z,email,true,2014,true,
+0,ADULT,852,1553,60 to 64 years,C2,Chinatown,July,2016,p,phone,false,2003,true,
+0,ADULT,295,176,45 to 54 years,B2,Bayview/Linda Brooks-Burton,June,2016,z,email,true,2003,false,10
+0,ADULT,2,0,25 to 34 years,X,Main Library,October,2014,z,email,true,2014,false,4
+4,WELCOME,1,0,25 to 34 years,M6,Mission,March,2014,z,email,true,2014,false,9
+0,ADULT,18,6,55 to 59 years,X,Main Library,September,2011,z,email,true,2010,true,
+0,ADULT,32,6,25 to 34 years,X,Main Library,August,2015,z,email,true,2011,true,
+0,ADULT,9,0,35 to 44 years,E9,Excelsior,June,2010,z,email,true,2008,false,11
+0,ADULT,1703,5,45 to 54 years,X,Main Library,March,2014,z,email,true,2009,false,3
+0,ADULT,0,0,35 to 44 years,X,Main Library,June,2015,z,email,true,2013,true,
+0,ADULT,2918,684,55 to 59 years,X,Main Library,May,2016,z,email,true,2003,false,3
+3,SENIOR,45,104,65 to 74 years,W4,Western Addition,June,2016,z,email,true,2009,false,3
+0,ADULT,134,29,55 to 59 years,P7,Potrero,July,2016,z,email,true,2003,true,
+0,ADULT,125,54,45 to 54 years,P1,Park,September,2012,z,email,true,2003,false,5
+0,ADULT,2,0,20 to 24 years,X,Main Library,March,2013,z,email,true,2013,false,4
+0,ADULT,620,894,35 to 44 years,R3,Richmond,December,2015,z,email,true,2003,false,1
+0,ADULT,6,0,25 to 34 years,M6,Mission,July,2013,z,email,true,2013,false,9
+3,SENIOR,37,20,65 to 74 years,R3,Richmond,May,2015,a,print,true,2006,false,
+0,ADULT,367,236,60 to 64 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,59,10,60 to 64 years,S7,Sunset,August,2013,z,email,true,2008,false,4
+3,SENIOR,26,8,65 to 74 years,M2,Marina,July,2016,z,email,true,2008,false,2
+0,ADULT,418,154,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2014,false,3
+3,SENIOR,244,75,65 to 74 years,R3,Richmond,July,2015,z,email,true,2003,true,
+0,ADULT,4,8,25 to 34 years,X,Main Library,July,2015,z,email,true,2012,false,3
+0,ADULT,7,3,25 to 34 years,R3,Richmond,December,2012,z,email,true,2012,false,
+0,ADULT,40,0,20 to 24 years,P3,Parkside,May,2013,z,email,true,2013,false,4
+4,WELCOME,0,0,35 to 44 years,X,Main Library,None,None,p,phone,false,2014,false,6
+0,ADULT,104,191,60 to 64 years,X,Main Library,March,2016,z,email,true,2008,true,
+0,ADULT,48,28,35 to 44 years,X,Main Library,May,2016,z,email,true,2007,false,3
+0,ADULT,43,5,20 to 24 years,X,Main Library,July,2016,z,email,true,2014,false,10
+0,ADULT,23,6,35 to 44 years,X,Main Library,November,2010,z,email,true,2010,false,5
+0,ADULT,1,3,25 to 34 years,P3,Parkside,April,2016,z,email,true,2016,true,
+5,STAFF,1774,562,45 to 54 years,M6,Mission,June,2016,z,email,true,2003,false,9
+0,ADULT,7,0,60 to 64 years,N4,Noe Valley/Sally Brunn,November,2015,z,email,true,2013,false,8
+0,ADULT,54,110,55 to 59 years,X,Main Library,September,2010,z,email,true,2003,false,4
+0,ADULT,138,167,25 to 34 years,N6,North Beach,August,2013,z,email,true,2006,false,3
+0,ADULT,4,1,20 to 24 years,S7,Sunset,December,2015,z,email,true,2015,false,10
+0,ADULT,1,0,25 to 34 years,M6,Mission,June,2013,z,email,true,2008,false,6
+0,ADULT,22,2,20 to 24 years,X,Main Library,March,2014,z,email,true,2013,true,
+0,ADULT,1,1,55 to 59 years,P5,Portola,January,2016,z,email,true,2015,false,9
+3,SENIOR,0,0,65 to 74 years,P3,Parkside,None,None,z,email,true,2011,true,
+3,SENIOR,0,0,65 to 74 years,P3,Parkside,None,None,z,email,true,2011,true,
+0,ADULT,29,9,25 to 34 years,P1,Park,November,2015,z,email,true,2013,false,
+0,ADULT,596,8,45 to 54 years,X,Main Library,October,2014,z,email,true,2008,false,5
+0,ADULT,11,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,August,2013,z,email,true,2003,true,
+0,ADULT,8,0,60 to 64 years,C2,Chinatown,December,2012,z,email,true,2012,false,3
+0,ADULT,7,1,45 to 54 years,M6,Mission,July,2016,z,email,true,2015,false,8
+0,ADULT,285,381,20 to 24 years,P5,Portola,July,2016,z,email,true,2009,false,10
+0,ADULT,25,27,55 to 59 years,M2,Marina,May,2015,z,email,true,2004,false,
+0,ADULT,20,4,20 to 24 years,M6,Mission,December,2015,z,email,true,2012,false,
+0,ADULT,26,6,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,April,2014,z,email,true,2003,false,8
+0,ADULT,83,23,45 to 54 years,P1,Park,August,2013,z,email,true,2012,false,5
+0,ADULT,60,33,20 to 24 years,M6,Mission,April,2016,z,email,true,2014,false,
+0,ADULT,59,0,35 to 44 years,O7,Ortega,October,2015,z,email,true,2009,false,1
+0,ADULT,5,0,25 to 34 years,O2,Ocean View,December,2014,p,phone,false,2013,false,11
+0,ADULT,373,46,45 to 54 years,W4,Western Addition,April,2016,z,email,true,2004,false,4
+0,ADULT,32,35,20 to 24 years,M6,Mission,April,2016,p,phone,true,2012,false,5
+0,ADULT,122,52,25 to 34 years,N6,North Beach,January,2015,z,email,true,2003,false,4
+0,ADULT,125,72,35 to 44 years,P1,Park,February,2016,z,email,true,2003,false,5
+3,SENIOR,37,6,65 to 74 years,X,Main Library,February,2014,p,phone,false,2003,false,8
+0,ADULT,1,0,20 to 24 years,M8,Mission Bay,November,2015,z,email,true,2015,false,7
+0,ADULT,454,396,55 to 59 years,P3,Parkside,February,2016,z,email,true,2003,false,3
+4,WELCOME,1,3,20 to 24 years,W4,Western Addition,July,2015,z,email,true,2015,false,5
+0,ADULT,1,0,55 to 59 years,X,Main Library,January,2015,z,email,true,2014,true,
+0,ADULT,57,21,20 to 24 years,I5,Ingleside,June,2016,z,email,true,2003,false,11
+0,ADULT,28,6,35 to 44 years,I5,Ingleside,July,2015,z,email,true,2015,true,
+0,ADULT,104,10,35 to 44 years,C2,Chinatown,September,2015,z,email,true,2011,false,3
+0,ADULT,712,323,35 to 44 years,G6,Golden Gate Valley,July,2016,z,email,true,2011,false,2
+0,ADULT,8,7,25 to 34 years,M4,Merced,June,2016,z,email,true,2014,false,7
+0,ADULT,66,5,35 to 44 years,M4,Merced,July,2016,z,email,true,2014,false,
+0,ADULT,6,3,25 to 34 years,X,Main Library,June,2016,z,email,true,2015,true,
+0,ADULT,6,3,25 to 34 years,X,Main Library,June,2016,z,email,true,2015,true,
+0,ADULT,88,132,55 to 59 years,X,Main Library,December,2013,p,phone,false,2003,false,
+0,ADULT,3,2,35 to 44 years,R3,Richmond,May,2016,p,phone,false,2013,false,
+0,ADULT,56,43,35 to 44 years,B4,Bernal Heights,February,2016,z,email,true,2011,false,9
+3,SENIOR,146,46,65 to 74 years,C2,Chinatown,November,2015,a,print,false,2008,false,9
+0,ADULT,238,32,60 to 64 years,O2,Ocean View,July,2016,z,email,true,2010,false,11
+0,ADULT,53,35,45 to 54 years,M6,Mission,March,2010,z,email,true,2003,false,
+0,ADULT,8,3,35 to 44 years,R3,Richmond,March,2015,z,email,true,2013,true,
+0,ADULT,113,32,25 to 34 years,B2,Bayview/Linda Brooks-Burton,November,2014,z,email,true,2008,true,
+15,TEACHER CARD,83,5,25 to 34 years,E9,Excelsior,July,2016,z,email,true,2015,false,11
+3,SENIOR,19,11,65 to 74 years,R3,Richmond,January,2007,z,email,true,2003,false,2
+0,ADULT,5,0,35 to 44 years,X,Main Library,July,2012,z,email,true,2003,false,8
+0,ADULT,200,183,25 to 34 years,X,Main Library,August,2014,z,email,true,2011,false,6
+0,ADULT,2,6,25 to 34 years,X,Main Library,September,2015,z,email,true,2015,false,3
+0,ADULT,27,0,35 to 44 years,A5,Anza,May,2016,z,email,true,2014,false,1
+0,ADULT,119,47,35 to 44 years,S7,Sunset,August,2013,z,email,true,2003,false,
+0,ADULT,6,1,35 to 44 years,M6,Mission,May,2016,z,email,true,2016,false,9
+0,ADULT,3,0,25 to 34 years,M4,Merced,April,2014,z,email,true,2014,true,
+3,SENIOR,489,48,65 to 74 years,X,Main Library,July,2016,z,email,true,2009,false,
+0,ADULT,29,1,45 to 54 years,R3,Richmond,June,2012,z,email,true,2009,false,1
+0,ADULT,1071,493,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+3,SENIOR,12,0,65 to 74 years,B2,Bayview/Linda Brooks-Burton,September,2015,z,email,true,2013,false,10
+15,TEACHER CARD,30,0,25 to 34 years,M4,Merced,February,2016,z,email,true,2016,false,11
+3,SENIOR,860,432,65 to 74 years,C2,Chinatown,April,2016,z,email,true,2003,false,3
+0,ADULT,45,11,45 to 54 years,M8,Mission Bay,May,2016,z,email,true,2016,false,
+0,ADULT,5,0,35 to 44 years,P3,Parkside,September,2013,z,email,true,2013,false,7
+0,ADULT,11,0,25 to 34 years,X,Main Library,April,2014,a,print,false,2010,false,10
+0,ADULT,96,6,60 to 64 years,O7,Ortega,February,2014,p,phone,false,2003,false,4
+0,ADULT,256,117,45 to 54 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+3,SENIOR,807,0,65 to 74 years,W4,Western Addition,January,2015,z,email,true,2003,false,
+0,ADULT,12,0,25 to 34 years,N6,North Beach,September,2015,z,email,true,2015,false,3
+0,ADULT,35,5,25 to 34 years,X,Main Library,October,2015,z,email,true,2012,false,10
+4,WELCOME,0,0,20 to 24 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,true,2013,false,10
+4,WELCOME,0,0,20 to 24 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,true,2013,false,10
+0,ADULT,7,1,25 to 34 years,B2,Bayview/Linda Brooks-Burton,July,2016,z,email,true,2006,false,
+0,ADULT,120,7,25 to 34 years,X,Main Library,May,2014,z,email,true,2005,false,5
+3,SENIOR,4,1,65 to 74 years,P5,Portola,May,2014,z,email,true,2011,false,9
+0,ADULT,166,104,20 to 24 years,P5,Portola,September,2015,z,email,true,2003,false,11
+0,ADULT,40,0,25 to 34 years,X,Main Library,January,2015,z,email,true,2014,false,6
+0,ADULT,5,0,25 to 34 years,M6,Mission,April,2016,z,email,true,2010,false,9
+0,ADULT,189,206,45 to 54 years,I5,Ingleside,March,2013,z,email,true,2004,false,7
+0,ADULT,2,3,35 to 44 years,P9,Presidio,June,2013,z,email,true,2013,true,
+3,SENIOR,22,34,65 to 74 years,M8,Mission Bay,May,2015,z,email,true,2013,false,3
+0,ADULT,23,0,45 to 54 years,X,Main Library,February,2016,z,email,true,2009,false,
+0,ADULT,12,0,35 to 44 years,P5,Portola,May,2015,z,email,true,2015,false,10
+0,ADULT,16,0,20 to 24 years,YB,Unknown,May,2015,z,email,true,2014,false,
+15,TEACHER CARD,19,0,25 to 34 years,B4,Bernal Heights,June,2015,z,email,true,2015,false,8
+0,ADULT,9,1,20 to 24 years,P7,Potrero,August,2015,p,phone,false,2003,false,10
+0,ADULT,0,0,20 to 24 years,W4,Western Addition,None,None,z,email,true,2014,false,3
+0,ADULT,0,0,20 to 24 years,W4,Western Addition,None,None,z,email,true,2014,false,3
+0,ADULT,62,36,45 to 54 years,C2,Chinatown,September,2013,p,phone,false,2003,false,10
+3,SENIOR,24,19,65 to 74 years,X,Main Library,April,2015,z,email,true,2004,true,
+0,ADULT,44,39,45 to 54 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,518,97,35 to 44 years,M6,Mission,July,2016,z,email,true,2009,false,8
+0,ADULT,108,167,35 to 44 years,M6,Mission,July,2016,z,email,true,2003,false,10
+0,ADULT,7,0,55 to 59 years,X,Main Library,July,2015,p,phone,false,2015,false,6
+0,ADULT,9,4,25 to 34 years,O7,Ortega,February,2013,a,print,false,2012,false,4
+0,ADULT,0,0,55 to 59 years,P3,Parkside,None,None,z,email,true,2015,false,4
+0,ADULT,0,0,55 to 59 years,P3,Parkside,None,None,z,email,true,2015,false,4
+0,ADULT,0,0,55 to 59 years,P3,Parkside,None,None,z,email,true,2015,false,4
+0,ADULT,0,0,55 to 59 years,P3,Parkside,None,None,z,email,true,2015,false,4
+0,ADULT,0,0,55 to 59 years,P3,Parkside,None,None,z,email,true,2015,false,4
+0,ADULT,0,0,55 to 59 years,P3,Parkside,None,None,z,email,true,2015,false,4
+0,ADULT,555,0,35 to 44 years,W4,Western Addition,June,2016,a,print,false,2003,false,5
+3,SENIOR,6,0,65 to 74 years,X,Main Library,November,2014,a,print,false,2011,false,6
+0,ADULT,353,209,20 to 24 years,M6,Mission,May,2016,z,email,true,2008,false,9
+0,ADULT,598,217,60 to 64 years,P1,Park,July,2016,z,email,true,2003,false,8
+0,ADULT,0,0,25 to 34 years,E9,Excelsior,None,None,z,email,true,2016,false,4
+0,ADULT,232,36,35 to 44 years,X,Main Library,July,2016,z,email,true,2008,false,3
+0,ADULT,110,6,45 to 54 years,V3,Visitacion Valley,October,2014,p,phone,false,2003,false,10
+0,ADULT,43,53,25 to 34 years,O7,Ortega,May,2016,z,email,true,2015,false,4
+0,ADULT,436,133,60 to 64 years,E7,Eureka Valley/Harvey Milk Memorial,June,2016,p,phone,false,2006,false,8
+0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,p,phone,false,2009,true,
+0,ADULT,190,241,25 to 34 years,C2,Chinatown,July,2016,z,email,true,2005,false,3
+0,ADULT,134,56,55 to 59 years,G4,Glen Park,June,2016,z,email,true,2003,false,8
+0,ADULT,613,852,25 to 34 years,G4,Glen Park,July,2016,z,email,true,2003,false,
+0,ADULT,2,1,25 to 34 years,P1,Park,July,2016,z,email,true,2016,false,5
+0,ADULT,2,1,25 to 34 years,P1,Park,July,2016,z,email,true,2016,false,5
+0,ADULT,146,9,45 to 54 years,V3,Visitacion Valley,April,2012,p,phone,false,2006,false,10
+0,ADULT,6,14,35 to 44 years,X,Main Library,January,2014,z,email,true,2013,false,5
+4,WELCOME,1,3,45 to 54 years,X,Main Library,August,2013,z,email,true,2013,true,
+0,ADULT,4,10,25 to 34 years,X,Main Library,July,2013,z,email,true,2009,true,
+0,ADULT,26,28,20 to 24 years,N6,North Beach,January,2014,z,email,true,2009,true,
+0,ADULT,3,0,45 to 54 years,X,Main Library,March,2014,z,email,true,2014,true,
+0,ADULT,352,190,25 to 34 years,P5,Portola,January,2013,z,email,true,2003,false,10
+0,ADULT,254,266,45 to 54 years,X,Main Library,June,2015,z,email,true,2003,true,
+0,ADULT,1,2,55 to 59 years,S7,Sunset,August,2015,z,email,true,2010,true,
+0,ADULT,20,29,35 to 44 years,R3,Richmond,July,2016,z,email,true,2015,false,1
+0,ADULT,4,0,60 to 64 years,E9,Excelsior,September,2013,p,phone,false,2013,false,11
+0,ADULT,25,9,20 to 24 years,X,Main Library,July,2014,z,email,true,2014,false,6
+0,ADULT,511,232,55 to 59 years,X,Main Library,June,2016,z,email,true,2003,false,
+0,ADULT,7,0,25 to 34 years,R3,Richmond,April,2016,z,email,true,2015,false,
+0,ADULT,30,5,20 to 24 years,X,Main Library,July,2016,z,email,true,2013,false,1
+0,ADULT,11,13,25 to 34 years,N6,North Beach,April,2014,z,email,true,2009,false,2
+0,ADULT,27,53,60 to 64 years,X,Main Library,July,2016,p,phone,false,2012,false,1
+3,SENIOR,484,1,65 to 74 years,G6,Golden Gate Valley,December,2015,z,email,true,2003,false,2
+0,ADULT,25,1,25 to 34 years,B2,Bayview/Linda Brooks-Burton,April,2015,p,phone,false,2013,false,10
+0,ADULT,0,0,45 to 54 years,X,Main Library,April,2014,z,email,true,2014,false,6
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2015,false,11
+0,ADULT,208,1,20 to 24 years,O7,Ortega,February,2014,z,email,true,2003,false,4
+0,ADULT,90,90,35 to 44 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,
+0,ADULT,305,1,45 to 54 years,S7,Sunset,July,2015,z,email,true,2003,false,5
+0,ADULT,963,391,45 to 54 years,X,Main Library,July,2014,z,email,true,2003,true,
+0,ADULT,633,570,45 to 54 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,10,0,55 to 59 years,X,Main Library,May,2016,p,phone,false,2008,true,
+0,ADULT,432,71,45 to 54 years,S7,Sunset,July,2016,z,email,true,2009,false,4
+0,ADULT,1,3,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,August,2014,z,email,true,2014,false,8
+0,ADULT,2,0,20 to 24 years,M4,Merced,December,2015,z,email,true,2015,false,7
+0,ADULT,57,0,20 to 24 years,X,Main Library,March,2013,z,email,true,2012,false,5
+0,ADULT,6,12,25 to 34 years,X,Main Library,November,2015,z,email,true,2015,false,5
+0,ADULT,15,16,45 to 54 years,X,Main Library,May,2013,z,email,true,2013,false,5
+0,ADULT,48,0,55 to 59 years,B2,Bayview/Linda Brooks-Burton,October,2013,p,phone,false,2005,false,10
+0,ADULT,32,19,45 to 54 years,R3,Richmond,February,2015,z,email,true,2013,false,4
+0,ADULT,9,0,25 to 34 years,M6,Mission,April,2013,z,email,true,2013,false,5
+0,ADULT,221,140,55 to 59 years,X,Main Library,March,2016,z,email,true,2003,true,
+4,WELCOME,1,0,25 to 34 years,M8,Mission Bay,April,2014,z,email,true,2013,false,
+3,SENIOR,4,0,65 to 74 years,C2,Chinatown,November,2008,p,phone,false,2008,false,3
+0,ADULT,691,253,20 to 24 years,P3,Parkside,August,2013,z,email,true,2003,false,4
+0,ADULT,0,0,20 to 24 years,P1,Park,None,None,z,email,true,2014,false,5
+0,ADULT,0,0,20 to 24 years,P1,Park,None,None,z,email,true,2014,false,5
+0,ADULT,0,0,20 to 24 years,P1,Park,None,None,z,email,true,2014,false,5
+3,SENIOR,397,253,65 to 74 years,X,Main Library,July,2013,z,email,true,2003,false,7
+0,ADULT,166,37,45 to 54 years,B4,Bernal Heights,June,2016,z,email,true,2005,false,9
+0,ADULT,310,134,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+0,ADULT,20,21,45 to 54 years,X,Main Library,September,2014,z,email,true,2011,true,
+15,TEACHER CARD,17,12,25 to 34 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,true,2014,false,8
+0,ADULT,1709,836,55 to 59 years,P5,Portola,July,2016,z,email,true,2008,false,6
+0,ADULT,16,11,55 to 59 years,X,Main Library,June,2014,z,email,true,2010,true,
+0,ADULT,319,127,45 to 54 years,B2,Bayview/Linda Brooks-Burton,September,2014,p,phone,false,2007,false,10
+0,ADULT,689,37,45 to 54 years,R3,Richmond,July,2016,z,email,true,2003,false,8
+0,ADULT,11,11,60 to 64 years,X,Main Library,March,2014,z,email,true,2003,false,
+0,ADULT,17,1,25 to 34 years,P9,Presidio,January,2013,z,email,true,2012,false,4
+0,ADULT,9,0,20 to 24 years,B2,Bayview/Linda Brooks-Burton,June,2014,z,email,true,2013,false,10
+4,WELCOME,0,0,35 to 44 years,W2,West Portal,None,None,z,email,true,2015,false,
+0,ADULT,76,62,25 to 34 years,M4,Merced,January,2015,z,email,true,2012,true,
+0,ADULT,219,276,45 to 54 years,C2,Chinatown,June,2016,z,email,true,2011,true,
+0,ADULT,1,0,45 to 54 years,O7,Ortega,April,2014,z,email,true,2012,false,4
+0,ADULT,3,0,45 to 54 years,M8,Mission Bay,July,2015,z,email,true,2015,true,
+0,ADULT,82,28,20 to 24 years,O2,Ocean View,July,2016,p,phone,false,2003,false,10
+0,ADULT,7,8,60 to 64 years,C2,Chinatown,June,2015,a,print,false,2013,true,
+0,ADULT,54,12,45 to 54 years,P9,Presidio,October,2015,z,email,true,2003,false,1
+0,ADULT,12,7,25 to 34 years,E9,Excelsior,August,2014,z,email,true,2012,false,11
+0,ADULT,214,83,60 to 64 years,I5,Ingleside,July,2016,z,email,true,2003,false,11
+0,ADULT,1,0,25 to 34 years,M6,Mission,November,2015,p,phone,false,2015,true,
+0,ADULT,1,0,25 to 34 years,M6,Mission,November,2015,p,phone,false,2015,true,
+0,ADULT,6,2,45 to 54 years,X,Main Library,September,2015,z,email,true,2010,false,
+0,ADULT,23,12,25 to 34 years,B4,Bernal Heights,February,2016,z,email,true,2015,false,9
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2011,false,8
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2011,false,8
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2011,false,8
+0,ADULT,7,0,25 to 34 years,M8,Mission Bay,December,2015,z,email,true,2014,false,
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,z,email,true,2014,false,9
+0,ADULT,12,0,35 to 44 years,W4,Western Addition,September,2015,z,email,true,2009,false,5
+0,ADULT,52,73,55 to 59 years,I5,Ingleside,March,2015,z,email,true,2007,false,7
+0,ADULT,6,6,45 to 54 years,X,Main Library,July,2011,z,email,true,2010,true,
+0,ADULT,4969,1101,20 to 24 years,P3,Parkside,April,2015,p,phone,false,2004,false,4
+0,ADULT,1164,760,25 to 34 years,X,Main Library,July,2016,z,email,true,2003,false,10
+0,ADULT,5,8,35 to 44 years,X,Main Library,September,2014,z,email,true,2014,false,7
+0,ADULT,3,0,35 to 44 years,M8,Mission Bay,May,2014,z,email,true,2012,false,10
+3,SENIOR,1310,227,65 to 74 years,A5,Anza,April,2016,z,email,true,2010,false,
+0,ADULT,11,20,25 to 34 years,R3,Richmond,June,2014,z,email,true,2011,false,5
+0,ADULT,770,36,45 to 54 years,M6,Mission,July,2016,z,email,true,2008,true,
+0,ADULT,116,110,55 to 59 years,P3,Parkside,July,2016,p,phone,true,2003,false,4
+3,SENIOR,306,307,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,May,2016,z,email,true,2003,false,8
+0,ADULT,13,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,September,2013,z,email,true,2013,false,10
+4,WELCOME,1,2,25 to 34 years,M8,Mission Bay,May,2016,z,email,true,2016,false,6
+0,ADULT,304,6,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,October,2014,z,email,true,2013,false,3
+0,ADULT,487,128,45 to 54 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,27,35,25 to 34 years,W4,Western Addition,January,2014,z,email,true,2011,false,5
+3,SENIOR,91,20,65 to 74 years,E9,Excelsior,November,2014,z,email,true,2008,false,10
+0,ADULT,4,12,25 to 34 years,X,Main Library,December,2015,z,email,true,2008,false,10
+0,ADULT,2,0,35 to 44 years,I5,Ingleside,August,2013,p,phone,false,2010,false,7
+0,ADULT,7,32,25 to 34 years,X,Main Library,May,2016,z,email,true,2016,false,
+0,ADULT,32,2,35 to 44 years,M6,Mission,September,2006,z,email,true,2003,false,9
+0,ADULT,113,33,35 to 44 years,C2,Chinatown,January,2014,z,email,true,2003,false,
+0,ADULT,2,0,25 to 34 years,A5,Anza,May,2016,p,phone,false,2016,false,1
+0,ADULT,12,3,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,November,2015,z,email,true,2013,false,8
+0,ADULT,157,47,45 to 54 years,P5,Portola,July,2016,p,phone,false,2003,false,
+0,ADULT,77,37,35 to 44 years,R3,Richmond,December,2015,z,email,true,2004,false,
+0,ADULT,0,0,45 to 54 years,G4,Glen Park,None,None,z,email,true,2009,false,
+0,ADULT,0,0,45 to 54 years,G4,Glen Park,None,None,z,email,true,2009,false,
+0,ADULT,48,0,25 to 34 years,R3,Richmond,July,2016,z,email,true,2012,false,1
+0,ADULT,0,0,35 to 44 years,P1,Park,September,2012,z,email,true,2012,false,10
+0,ADULT,4,5,60 to 64 years,X,Main Library,September,2005,z,email,true,2003,false,
+3,SENIOR,55,13,65 to 74 years,X,Main Library,August,2014,z,email,true,2011,false,3
+0,ADULT,934,374,20 to 24 years,E9,Excelsior,November,2013,p,phone,true,2003,false,
+0,ADULT,4,0,25 to 34 years,E9,Excelsior,April,2013,z,email,true,2003,false,10
+0,ADULT,88,68,45 to 54 years,M4,Merced,July,2016,z,email,true,2011,false,11
+0,ADULT,97,15,60 to 64 years,M4,Merced,July,2016,z,email,true,2008,false,7
+0,ADULT,42,69,35 to 44 years,M8,Mission Bay,November,2015,z,email,true,2013,false,
+0,ADULT,0,0,35 to 44 years,M8,Mission Bay,June,2015,z,email,true,2015,false,6
+0,ADULT,228,50,20 to 24 years,M6,Mission,December,2012,z,email,true,2009,false,9
+0,ADULT,374,250,25 to 34 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,36,11,25 to 34 years,O7,Ortega,March,2014,z,email,true,2011,false,4
+0,ADULT,307,23,60 to 64 years,M2,Marina,June,2016,z,email,true,2015,false,2
+0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,p,phone,false,2016,false,6
+0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,p,phone,false,2016,false,6
+0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,p,phone,false,2016,false,6
+0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,p,phone,false,2016,false,6
+0,ADULT,7,4,25 to 34 years,M6,Mission,June,2016,z,email,true,2015,false,7
+0,ADULT,55,73,35 to 44 years,X,Main Library,January,2013,z,email,true,2011,false,8
+4,WELCOME,211,168,45 to 54 years,X,Main Library,June,2016,z,email,true,2010,false,6
+0,ADULT,1024,156,20 to 24 years,R3,Richmond,May,2016,z,email,true,2003,false,1
+0,ADULT,36,16,20 to 24 years,C2,Chinatown,October,2014,z,email,true,2011,false,11
+3,SENIOR,129,89,65 to 74 years,X,Main Library,June,2016,z,email,true,2003,false,2
+0,ADULT,139,145,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,April,2016,z,email,true,2007,false,8
+0,ADULT,17,0,25 to 34 years,M6,Mission,October,2015,z,email,true,2006,true,
+0,ADULT,7,0,25 to 34 years,W4,Western Addition,November,2015,z,email,true,2014,false,2
+0,ADULT,69,0,45 to 54 years,S7,Sunset,November,2012,z,email,true,2012,false,5
+16,DIGITAL ACCESS CARD,0,0,45 to 54 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,83,51,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,5
+0,ADULT,1,0,20 to 24 years,G4,Glen Park,September,2013,z,email,true,2013,false,11
+0,ADULT,15,22,45 to 54 years,X,Main Library,March,2010,z,email,true,2009,true,
+0,ADULT,34,1,35 to 44 years,M4,Merced,January,2016,z,email,true,2015,true,
+3,SENIOR,2267,398,65 to 74 years,I5,Ingleside,July,2016,z,email,true,2003,false,11
+0,ADULT,132,156,45 to 54 years,W4,Western Addition,July,2016,z,email,true,2004,false,5
+0,ADULT,12,2,35 to 44 years,W4,Western Addition,July,2016,p,phone,true,2015,false,2
+0,ADULT,4,1,25 to 34 years,P9,Presidio,August,2013,z,email,true,2013,false,2
+0,ADULT,115,143,45 to 54 years,V3,Visitacion Valley,October,2015,z,email,true,2003,true,
+0,ADULT,45,6,45 to 54 years,X,Main Library,June,2016,z,email,true,2014,false,11
+0,ADULT,28,2,60 to 64 years,P9,Presidio,January,2016,z,email,true,2003,false,2
+0,ADULT,336,20,45 to 54 years,B4,Bernal Heights,June,2016,z,email,true,2003,false,9
+0,ADULT,363,340,35 to 44 years,O7,Ortega,June,2016,z,email,true,2004,false,4
+4,WELCOME,1,0,45 to 54 years,V3,Visitacion Valley,December,2015,z,email,true,2015,false,
+0,ADULT,410,848,35 to 44 years,X,Main Library,July,2016,z,email,true,2011,false,3
+0,ADULT,11,1,60 to 64 years,W2,West Portal,March,2015,z,email,true,2012,false,7
+0,ADULT,6,0,25 to 34 years,M8,Mission Bay,March,2015,z,email,true,2015,false,6
+0,ADULT,450,599,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,May,2016,z,email,true,2009,false,8
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2009,false,
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2009,false,
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2009,false,
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2009,false,
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2009,false,
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2009,false,
+0,ADULT,139,132,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,June,2016,z,email,true,2003,false,8
+0,ADULT,308,147,25 to 34 years,G4,Glen Park,July,2016,z,email,true,2003,false,7
+0,ADULT,14,12,45 to 54 years,W4,Western Addition,October,2015,z,email,true,2008,true,
+0,ADULT,20,0,35 to 44 years,A5,Anza,October,2013,z,email,true,2013,false,1
+0,ADULT,32,21,25 to 34 years,X,Main Library,December,2015,z,email,true,2014,false,10
+0,ADULT,11,2,25 to 34 years,S7,Sunset,November,2012,z,email,true,2004,true,
+0,ADULT,2,0,45 to 54 years,M6,Mission,July,2013,z,email,true,2013,false,6
+16,DIGITAL ACCESS CARD,0,0,65 to 74 years,X,Main Library,None,None,p,phone,false,2015,false,6
+0,ADULT,5,8,25 to 34 years,I5,Ingleside,February,2016,z,email,true,2015,false,7
+0,ADULT,115,2,45 to 54 years,X,Main Library,October,2014,p,phone,false,2008,false,11
+0,ADULT,8,10,20 to 24 years,P7,Potrero,June,2016,z,email,true,2016,true,
+0,ADULT,1,1,20 to 24 years,P3,Parkside,August,2012,z,email,true,2012,false,
+0,ADULT,8,0,45 to 54 years,R3,Richmond,October,2014,a,print,false,2014,false,1
+0,ADULT,11,17,35 to 44 years,X,Main Library,June,2016,z,email,true,2014,false,
+3,SENIOR,21,28,65 to 74 years,I5,Ingleside,July,2013,z,email,true,2003,false,11
+0,ADULT,9,22,35 to 44 years,X,Main Library,October,2013,z,email,true,2009,false,7
+3,SENIOR,898,1129,65 to 74 years,S7,Sunset,July,2014,z,email,true,2003,false,4
+0,ADULT,1,0,35 to 44 years,M8,Mission Bay,May,2015,z,email,true,2015,false,3
+0,ADULT,53,15,35 to 44 years,G4,Glen Park,July,2016,z,email,true,2003,false,5
+0,ADULT,18,0,20 to 24 years,S7,Sunset,May,2010,z,email,true,2003,false,8
+0,ADULT,4,2,25 to 34 years,P1,Park,September,2013,z,email,true,2013,true,
+0,ADULT,7,6,60 to 64 years,R3,Richmond,January,2013,z,email,true,2012,false,2
+0,ADULT,10,31,25 to 34 years,M6,Mission,October,2015,z,email,true,2014,false,9
+3,SENIOR,324,157,65 to 74 years,M4,Merced,July,2016,p,phone,false,2003,false,7
+0,ADULT,339,11,45 to 54 years,X,Main Library,September,2015,z,email,true,2012,false,6
+0,ADULT,7,2,25 to 34 years,B2,Bayview/Linda Brooks-Burton,June,2016,p,phone,true,2016,false,10
+0,ADULT,157,68,35 to 44 years,I5,Ingleside,January,2016,a,print,false,2011,false,11
+0,ADULT,5,30,25 to 34 years,X,Main Library,November,2015,a,print,false,2015,false,10
+0,ADULT,22,42,35 to 44 years,C2,Chinatown,July,2014,a,print,false,2003,false,
+0,ADULT,12,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,October,2013,p,phone,true,2008,false,10
+0,ADULT,1,2,45 to 54 years,X,Main Library,December,2012,z,email,true,2012,true,
+0,ADULT,515,19,55 to 59 years,C2,Chinatown,July,2016,a,print,false,2003,true,
+0,ADULT,0,0,55 to 59 years,P9,Presidio,None,None,z,email,true,2003,true,
+0,ADULT,292,157,60 to 64 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+0,ADULT,14,1,20 to 24 years,W2,West Portal,October,2012,a,print,false,2003,false,7
+0,ADULT,2,0,35 to 44 years,B4,Bernal Heights,December,2012,z,email,true,2012,false,10
+0,ADULT,5,5,25 to 34 years,X,Main Library,May,2015,z,email,true,2015,false,2
+0,ADULT,13,4,20 to 24 years,X,Main Library,August,2013,z,email,true,2008,true,
+0,ADULT,1,0,45 to 54 years,G4,Glen Park,January,2015,z,email,true,2014,true,
+0,ADULT,55,23,25 to 34 years,W4,Western Addition,May,2016,z,email,true,2014,false,5
+4,WELCOME,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2013,false,8
+0,ADULT,797,22,65 to 74 years,P7,Potrero,July,2016,z,email,true,2003,false,10
+0,ADULT,1087,46,20 to 24 years,X,Main Library,September,2014,p,phone,false,2008,false,
+3,SENIOR,9,6,65 to 74 years,P7,Potrero,March,2014,z,email,true,2013,true,
+0,ADULT,57,50,25 to 34 years,M6,Mission,October,2015,z,email,true,2009,false,9
+0,ADULT,11,1,25 to 34 years,X,Main Library,May,2014,z,email,true,2014,false,8
+0,ADULT,1847,1607,55 to 59 years,E9,Excelsior,July,2016,z,email,true,2003,false,9
+0,ADULT,18,0,25 to 34 years,X,Main Library,July,2015,z,email,true,2015,false,3
+0,ADULT,9,1,35 to 44 years,E9,Excelsior,April,2014,z,email,true,2011,false,11
+0,ADULT,68,22,55 to 59 years,N4,Noe Valley/Sally Brunn,December,2014,z,email,true,2003,false,8
+3,SENIOR,1927,94,65 to 74 years,X,Main Library,December,2014,p,phone,false,2007,false,5
+4,WELCOME,2,0,25 to 34 years,B4,Bernal Heights,May,2016,a,print,false,2016,false,9
+0,ADULT,6,0,35 to 44 years,X,Main Library,March,2014,z,email,true,2012,true,
+0,ADULT,17,10,45 to 54 years,G4,Glen Park,February,2016,z,email,true,2003,false,8
+0,ADULT,0,0,45 to 54 years,X,Main Library,December,2015,z,email,true,2013,true,
+0,ADULT,0,0,35 to 44 years,P3,Parkside,None,None,z,email,true,2009,false,4
+0,ADULT,41,0,25 to 34 years,X,Main Library,February,2012,a,print,false,2011,false,6
+0,ADULT,186,126,25 to 34 years,I5,Ingleside,July,2016,z,email,true,2006,false,7
+0,ADULT,306,62,35 to 44 years,P1,Park,July,2016,z,email,true,2006,false,5
+0,ADULT,14,2,45 to 54 years,X,Main Library,May,2015,p,phone,false,2003,false,11
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,8
+0,ADULT,1,0,25 to 34 years,X,Main Library,March,2013,z,email,true,2012,false,1
+0,ADULT,1,3,45 to 54 years,X,Main Library,February,2014,z,email,true,2013,true,
+0,ADULT,8,4,25 to 34 years,O7,Ortega,May,2016,z,email,true,2011,false,9
+0,ADULT,23,6,35 to 44 years,W4,Western Addition,July,2015,z,email,true,2006,false,10
+0,ADULT,0,0,45 to 54 years,M2,Marina,None,None,p,phone,false,2010,true,
+4,WELCOME,1,0,20 to 24 years,P9,Presidio,July,2013,p,phone,false,2013,false,1
+0,ADULT,35,2,55 to 59 years,V3,Visitacion Valley,August,2007,p,phone,false,2007,false,10
+0,ADULT,9,8,35 to 44 years,X,Main Library,May,2013,z,email,true,2011,true,
+0,ADULT,12,28,35 to 44 years,M6,Mission,July,2016,z,email,true,2013,false,9
+0,ADULT,5,0,25 to 34 years,S7,Sunset,December,2013,z,email,true,2013,false,7
+0,ADULT,272,84,35 to 44 years,M6,Mission,July,2016,z,email,true,2003,false,
+0,ADULT,14,15,25 to 34 years,X,Main Library,May,2016,z,email,true,2013,false,3
+0,ADULT,175,159,35 to 44 years,G4,Glen Park,April,2013,z,email,true,2003,false,7
+0,ADULT,16,14,25 to 34 years,N6,North Beach,October,2014,z,email,true,2011,false,2
+0,ADULT,29,0,25 to 34 years,C2,Chinatown,July,2014,z,email,true,2012,false,3
+0,ADULT,51,4,20 to 24 years,M6,Mission,July,2016,z,email,true,2016,false,8
+0,ADULT,3,4,25 to 34 years,M6,Mission,July,2015,z,email,true,2014,false,9
+0,ADULT,4,0,35 to 44 years,X,Main Library,February,2015,z,email,true,2014,false,4
+0,ADULT,49,99,45 to 54 years,X,Main Library,February,2016,z,email,true,2003,false,
+0,ADULT,32,17,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,May,2016,z,email,true,2015,true,
+0,ADULT,638,280,45 to 54 years,P3,Parkside,July,2016,z,email,true,2012,false,4
+0,ADULT,38,4,60 to 64 years,A5,Anza,December,2014,z,email,true,2007,false,2
+0,ADULT,4,2,35 to 44 years,G4,Glen Park,April,2008,z,email,true,2007,true,
+0,ADULT,456,255,60 to 64 years,X,Main Library,June,2016,a,print,false,2008,false,6
+0,ADULT,3,0,55 to 59 years,S7,Sunset,December,2012,a,print,false,2012,false,
+0,ADULT,75,54,25 to 34 years,X,Main Library,July,2016,z,email,true,2015,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,false,8
+0,ADULT,69,21,35 to 44 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2016,false,8
+0,ADULT,5,10,25 to 34 years,I5,Ingleside,March,2014,z,email,true,2013,true,
+0,ADULT,35,15,25 to 34 years,S7,Sunset,July,2010,z,email,true,2010,false,
+0,ADULT,5,0,45 to 54 years,N6,North Beach,February,2016,z,email,true,2016,false,2
+0,ADULT,0,0,20 to 24 years,M6,Mission,None,None,p,phone,false,2013,false,8
+0,ADULT,4,9,20 to 24 years,X,Main Library,July,2016,z,email,true,2015,true,
+0,ADULT,1,5,25 to 34 years,X,Main Library,May,2013,z,email,true,2012,false,3
+0,ADULT,3,0,20 to 24 years,R3,Richmond,April,2016,z,email,true,2016,false,1
+0,ADULT,5,0,25 to 34 years,X,Main Library,September,2013,z,email,true,2013,false,10
+0,ADULT,50,71,60 to 64 years,S7,Sunset,May,2014,z,email,true,2003,false,4
+0,ADULT,58,5,25 to 34 years,P3,Parkside,February,2016,z,email,true,2015,true,
+0,ADULT,10,12,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2015,false,6
+3,SENIOR,17,0,65 to 74 years,V3,Visitacion Valley,July,2013,p,phone,false,2011,false,10
+0,ADULT,7,11,35 to 44 years,X,Main Library,November,2013,a,print,false,2010,false,9
+3,SENIOR,3,0,65 to 74 years,X,Main Library,September,2010,z,email,true,2003,false,5
+0,ADULT,48,24,20 to 24 years,C2,Chinatown,December,2014,z,email,true,2011,false,3
+0,ADULT,81,10,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,8
+0,ADULT,43,25,25 to 34 years,X,Main Library,May,2016,z,email,true,2014,false,6
+0,ADULT,2,0,35 to 44 years,B4,Bernal Heights,May,2014,p,phone,true,2014,false,
+0,ADULT,64,92,45 to 54 years,M6,Mission,April,2014,z,email,true,2012,false,11
+0,ADULT,135,9,35 to 44 years,W4,Western Addition,May,2015,z,email,true,2013,false,1
+0,ADULT,4,3,20 to 24 years,B4,Bernal Heights,July,2016,z,email,true,2014,false,9
+0,ADULT,8,1,35 to 44 years,P7,Potrero,July,2013,z,email,true,2011,false,10
+0,ADULT,0,0,45 to 54 years,P7,Potrero,None,None,p,phone,false,2007,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,true,2016,false,10
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,true,2016,false,10
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,None,None,z,email,true,2016,false,10
+0,ADULT,51,6,45 to 54 years,S7,Sunset,September,2014,p,phone,false,2013,false,4
+0,ADULT,12,17,60 to 64 years,S7,Sunset,March,2010,z,email,true,2009,false,7
+0,ADULT,6,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,February,2016,p,phone,true,2016,false,10
+0,ADULT,4,3,25 to 34 years,R3,Richmond,April,2016,z,email,true,2015,false,1
+3,SENIOR,18,19,65 to 74 years,I5,Ingleside,September,2014,p,phone,false,2006,false,7
+3,SENIOR,2163,2238,65 to 74 years,C2,Chinatown,July,2016,z,email,true,2003,false,3
+0,ADULT,3072,1391,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,2
+0,ADULT,10,2,45 to 54 years,X,Main Library,July,2016,z,email,true,2016,false,5
+0,ADULT,56,27,20 to 24 years,P3,Parkside,August,2015,z,email,true,2003,false,4
+0,ADULT,178,159,35 to 44 years,W2,West Portal,July,2013,z,email,true,2008,false,
+0,ADULT,1372,1122,60 to 64 years,O7,Ortega,July,2016,a,print,false,2003,false,11
+0,ADULT,60,8,25 to 34 years,S7,Sunset,July,2016,z,email,true,2008,false,5
+0,ADULT,1,1,35 to 44 years,S7,Sunset,May,2016,p,phone,false,2003,false,4
+3,SENIOR,79,105,65 to 74 years,W2,West Portal,March,2016,z,email,true,2003,false,7
+3,SENIOR,0,0,65 to 74 years,M6,Mission,None,None,z,email,true,2012,false,2
+4,WELCOME,59,7,45 to 54 years,X,Main Library,November,2008,z,email,true,2003,false,6
+0,ADULT,51,24,35 to 44 years,X,Main Library,September,2014,z,email,true,2007,true,
+0,ADULT,93,5,55 to 59 years,B4,Bernal Heights,February,2013,z,email,true,2003,false,9
+0,ADULT,140,119,45 to 54 years,N6,North Beach,July,2015,p,phone,false,2003,false,3
+0,ADULT,68,32,45 to 54 years,N6,North Beach,November,2013,z,email,true,2008,false,3
+0,ADULT,1,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,March,2015,z,email,true,2015,false,10
+0,ADULT,1716,1996,55 to 59 years,M4,Merced,July,2016,z,email,true,2003,false,7
+0,ADULT,1086,425,35 to 44 years,C2,Chinatown,July,2016,p,phone,false,2003,false,11
+0,ADULT,5,9,20 to 24 years,R3,Richmond,December,2015,z,email,true,2010,false,8
+0,ADULT,4,0,25 to 34 years,P9,Presidio,April,2016,z,email,true,2015,false,2
+0,ADULT,48,36,55 to 59 years,X,Main Library,June,2016,z,email,true,2011,false,11
+0,ADULT,18,7,25 to 34 years,X,Main Library,September,2015,z,email,true,2010,false,3
+0,ADULT,871,137,45 to 54 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,18,24,35 to 44 years,X,Main Library,December,2012,z,email,true,2008,false,6
+0,ADULT,2,1,25 to 34 years,M6,Mission,June,2015,z,email,true,2015,true,
+0,ADULT,0,0,25 to 34 years,M6,Mission,April,2014,z,email,true,2014,false,8
+0,ADULT,0,0,25 to 34 years,N6,North Beach,February,2016,z,email,true,2014,false,3
+0,ADULT,0,0,25 to 34 years,X,Main Library,January,2016,z,email,true,2014,false,5
+0,ADULT,85,1,20 to 24 years,M6,Mission,March,2015,p,phone,false,2003,false,2
+0,ADULT,109,56,45 to 54 years,X,Main Library,June,2016,z,email,true,2003,false,9
+0,ADULT,203,160,55 to 59 years,C2,Chinatown,May,2015,z,email,true,2011,false,4
+0,ADULT,59,95,35 to 44 years,V3,Visitacion Valley,December,2015,z,email,true,2010,false,
+4,WELCOME,1,1,25 to 34 years,X,Main Library,July,2014,z,email,true,2014,false,9
+0,ADULT,6,1,25 to 34 years,X,Main Library,July,2014,z,email,true,2013,false,3
+0,ADULT,160,56,25 to 34 years,X,Main Library,July,2016,z,email,true,2008,false,
+0,ADULT,6,0,60 to 64 years,X,Main Library,December,2013,z,email,true,2013,false,
+3,SENIOR,3,0,65 to 74 years,N6,North Beach,February,2016,z,email,true,2014,false,3
+3,SENIOR,99,38,65 to 74 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,8
+0,ADULT,1,0,20 to 24 years,E9,Excelsior,December,2014,p,phone,false,2014,false,11
+3,SENIOR,103,18,65 to 74 years,X,Main Library,July,2016,z,email,true,2008,false,4
+0,ADULT,173,348,60 to 64 years,S7,Sunset,July,2016,z,email,true,2003,false,5
+0,ADULT,1,0,25 to 34 years,I5,Ingleside,September,2014,z,email,true,2014,true,
+0,ADULT,36,0,45 to 54 years,X,Main Library,September,2015,z,email,true,2015,false,6
+0,ADULT,1,0,25 to 34 years,X,Main Library,June,2016,z,email,true,2013,false,6
+0,ADULT,138,6,60 to 64 years,N6,North Beach,June,2015,z,email,true,2005,false,3
+0,ADULT,196,77,35 to 44 years,X,Main Library,July,2016,z,email,true,2009,false,1
+0,ADULT,15,14,25 to 34 years,P9,Presidio,July,2016,z,email,true,2014,false,1
+0,ADULT,49,22,35 to 44 years,A5,Anza,May,2016,z,email,true,2014,true,
+0,ADULT,103,57,60 to 64 years,E9,Excelsior,June,2016,z,email,true,2003,false,11
+0,ADULT,0,0,55 to 59 years,O2,Ocean View,None,None,z,email,true,2008,false,11
+0,ADULT,14,5,25 to 34 years,X,Main Library,January,2014,z,email,true,2011,false,4
+0,ADULT,3,1,20 to 24 years,M6,Mission,April,2009,z,email,true,2007,false,9
+0,ADULT,9,0,25 to 34 years,X,Main Library,October,2015,p,phone,false,2014,true,
+0,ADULT,834,182,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,11
+4,WELCOME,1,4,25 to 34 years,X,Main Library,May,2016,z,email,true,2014,false,8
+0,ADULT,14,1,35 to 44 years,P3,Parkside,September,2008,p,phone,false,2003,false,8
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,p,phone,false,2009,false,5
+0,ADULT,328,56,35 to 44 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,9
+0,ADULT,17,17,35 to 44 years,O7,Ortega,July,2011,z,email,true,2009,false,4
+0,ADULT,1,0,45 to 54 years,M6,Mission,March,2014,z,email,true,2005,false,8
+0,ADULT,19,0,35 to 44 years,M6,Mission,October,2015,p,phone,false,2012,false,6
+3,SENIOR,23,1,65 to 74 years,E9,Excelsior,January,2014,a,print,false,2007,false,11
+0,ADULT,54,0,25 to 34 years,N6,North Beach,July,2016,p,phone,true,2014,false,3
+0,ADULT,174,4,25 to 34 years,O7,Ortega,October,2014,z,email,true,2005,false,4
+0,ADULT,99,126,45 to 54 years,X,Main Library,July,2016,z,email,true,2009,true,
+0,ADULT,193,246,25 to 34 years,P7,Potrero,August,2013,z,email,true,2009,false,5
+4,WELCOME,0,0,20 to 24 years,M6,Mission,None,None,z,email,true,2014,false,
+0,ADULT,0,0,35 to 44 years,X,Main Library,November,2014,z,email,true,2014,true,
+0,ADULT,0,0,35 to 44 years,X,Main Library,November,2014,z,email,true,2014,true,
+0,ADULT,0,0,35 to 44 years,X,Main Library,November,2014,z,email,true,2014,true,
+0,ADULT,172,68,60 to 64 years,X,Main Library,September,2013,z,email,true,2003,false,9
+0,ADULT,283,71,25 to 34 years,O7,Ortega,February,2010,z,email,true,2003,false,4
+0,ADULT,11,24,25 to 34 years,X,Main Library,September,2014,z,email,true,2013,false,3
+0,ADULT,23,0,35 to 44 years,I5,Ingleside,July,2012,a,print,false,2012,false,3
+0,ADULT,0,0,60 to 64 years,X,Main Library,None,None,a,print,false,2015,false,4
+0,ADULT,39,1,45 to 54 years,X,Main Library,February,2013,a,print,false,2012,false,5
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,0,0,35 to 44 years,M6,Mission,None,None,z,email,true,2016,true,
+0,ADULT,473,1,45 to 54 years,X,Main Library,August,2015,p,phone,false,2014,false,6
+0,ADULT,281,565,25 to 34 years,N6,North Beach,May,2016,z,email,true,2007,false,3
+0,ADULT,15,8,25 to 34 years,E9,Excelsior,May,2011,z,email,true,2010,false,11
+0,ADULT,1,0,35 to 44 years,M2,Marina,June,2011,z,email,true,2011,false,2
+4,WELCOME,3,4,20 to 24 years,M6,Mission,May,2014,z,email,true,2013,false,
+0,ADULT,1246,2139,60 to 64 years,M6,Mission,July,2016,z,email,true,2003,false,
+0,ADULT,372,49,35 to 44 years,O7,Ortega,July,2016,z,email,true,2009,false,4
+0,ADULT,16,0,25 to 34 years,S7,Sunset,August,2008,z,email,true,2003,false,10
+0,ADULT,1132,216,35 to 44 years,P5,Portola,June,2016,z,email,true,2005,false,10
+0,ADULT,68,95,35 to 44 years,X,Main Library,August,2014,z,email,true,2009,false,
+3,SENIOR,7,6,65 to 74 years,P9,Presidio,March,2016,z,email,true,2005,false,2
+0,ADULT,859,642,25 to 34 years,X,Main Library,July,2016,z,email,true,2007,false,6
+0,ADULT,29,89,60 to 64 years,P9,Presidio,July,2016,z,email,true,2015,true,
+3,SENIOR,21,0,65 to 74 years,P9,Presidio,June,2015,z,email,true,2015,true,
+0,ADULT,1,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,February,2015,a,print,false,2011,false,10
+0,ADULT,740,172,55 to 59 years,P5,Portola,October,2015,z,email,true,2003,false,9
+0,ADULT,0,0,45 to 54 years,W2,West Portal,None,None,z,email,true,2010,false,4
+0,ADULT,0,0,45 to 54 years,W2,West Portal,None,None,z,email,true,2010,false,4
+0,ADULT,2,2,35 to 44 years,X,Main Library,September,2012,z,email,true,2012,false,3
+0,ADULT,0,0,45 to 54 years,B2,Bayview/Linda Brooks-Burton,None,None,a,print,false,2013,false,10
+0,ADULT,0,0,45 to 54 years,B2,Bayview/Linda Brooks-Burton,None,None,a,print,false,2013,false,10
+0,ADULT,0,0,45 to 54 years,B2,Bayview/Linda Brooks-Burton,None,None,a,print,false,2013,false,10
+0,ADULT,0,0,45 to 54 years,B2,Bayview/Linda Brooks-Burton,None,None,a,print,false,2013,false,10
+0,ADULT,0,0,45 to 54 years,B2,Bayview/Linda Brooks-Burton,None,None,a,print,false,2013,false,10
+0,ADULT,0,0,35 to 44 years,M8,Mission Bay,April,2013,z,email,true,2013,false,6
+0,ADULT,1,2,60 to 64 years,G4,Glen Park,November,2015,a,print,false,2015,false,10
+0,ADULT,0,0,35 to 44 years,X,Main Library,None,None,a,print,false,2014,false,9
+0,ADULT,94,0,35 to 44 years,M6,Mission,April,2011,z,email,true,2004,false,
+0,ADULT,24,52,35 to 44 years,M4,Merced,December,2015,z,email,true,2013,true,
+0,ADULT,181,52,55 to 59 years,M8,Mission Bay,February,2013,z,email,true,2006,false,8
+0,ADULT,1,2,20 to 24 years,M4,Merced,December,2012,z,email,true,2012,false,7
+0,ADULT,112,14,35 to 44 years,N6,North Beach,April,2016,z,email,true,2003,false,3
+0,ADULT,0,0,35 to 44 years,R3,Richmond,None,None,z,email,true,2012,false,2
+0,ADULT,0,0,35 to 44 years,R3,Richmond,None,None,z,email,true,2012,false,2
+0,ADULT,1688,2395,25 to 34 years,E9,Excelsior,June,2016,z,email,true,2003,false,11
+0,ADULT,261,442,55 to 59 years,X,Main Library,July,2016,a,print,true,2003,false,7
+0,ADULT,50,19,25 to 34 years,C2,Chinatown,February,2015,z,email,true,2003,false,9
+0,ADULT,12,1,25 to 34 years,X,Main Library,March,2015,z,email,true,2012,false,8
+0,ADULT,2,1,35 to 44 years,X,Main Library,June,2014,z,email,true,2014,true,
+0,ADULT,122,0,35 to 44 years,M4,Merced,July,2015,z,email,true,2014,false,7
+0,ADULT,50,59,35 to 44 years,R3,Richmond,July,2014,z,email,true,2013,false,1
+0,ADULT,117,63,25 to 34 years,P1,Park,July,2016,z,email,true,2009,false,
+0,ADULT,36,20,45 to 54 years,X,Main Library,June,2016,z,email,true,2008,false,
+0,ADULT,1495,293,60 to 64 years,P9,Presidio,July,2016,z,email,true,2003,false,
+0,ADULT,9,16,25 to 34 years,X,Main Library,May,2013,z,email,true,2013,true,
+0,ADULT,99,63,45 to 54 years,P1,Park,August,2014,z,email,true,2005,false,5
+0,ADULT,6,4,25 to 34 years,X,Main Library,May,2013,a,print,false,2013,true,
+0,ADULT,2003,673,60 to 64 years,X,Main Library,July,2016,z,email,true,2007,false,3
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2016,true,
+0,ADULT,2,2,25 to 34 years,I5,Ingleside,December,2015,z,email,true,2015,false,11
+0,ADULT,25,0,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,April,2013,z,email,true,2013,false,5
+0,ADULT,24,11,35 to 44 years,P1,Park,February,2016,p,phone,false,2008,true,
+0,ADULT,368,312,25 to 34 years,W2,West Portal,May,2016,z,email,true,2003,true,
+3,SENIOR,0,0,65 to 74 years,G4,Glen Park,None,None,z,email,true,2016,false,
+0,ADULT,2,1,25 to 34 years,P7,Potrero,October,2012,z,email,true,2012,false,7
+0,ADULT,13,2,25 to 34 years,M6,Mission,October,2014,p,phone,false,2010,false,9
+0,ADULT,6,3,45 to 54 years,X,Main Library,August,2014,z,email,true,2010,false,5
+0,ADULT,64,6,25 to 34 years,X,Main Library,May,2015,z,email,true,2009,false,10
+0,ADULT,80,65,25 to 34 years,M6,Mission,July,2016,z,email,true,2013,false,9
+4,WELCOME,1,1,45 to 54 years,X,Main Library,December,2015,z,email,true,2015,false,6
+0,ADULT,1,1,20 to 24 years,M4,Merced,March,2015,z,email,true,2015,false,7
+0,ADULT,8,2,25 to 34 years,E9,Excelsior,July,2016,z,email,true,2010,false,5
+0,ADULT,1,0,25 to 34 years,E9,Excelsior,October,2012,z,email,true,2012,true,
+0,ADULT,1,2,45 to 54 years,A5,Anza,October,2015,z,email,true,2011,false,
+0,ADULT,12,16,45 to 54 years,M2,Marina,August,2015,z,email,true,2010,false,1
+0,ADULT,0,0,20 to 24 years,M4,Merced,None,None,z,email,true,2015,false,6
+0,ADULT,0,0,20 to 24 years,M4,Merced,None,None,z,email,true,2015,false,6
+0,ADULT,0,0,25 to 34 years,I5,Ingleside,None,None,a,print,false,2016,true,
+0,ADULT,123,25,45 to 54 years,W2,West Portal,July,2016,z,email,true,2003,false,1
+0,ADULT,155,29,55 to 59 years,V3,Visitacion Valley,April,2016,z,email,true,2003,false,10
+0,ADULT,45,7,20 to 24 years,P9,Presidio,June,2016,z,email,true,2014,false,6
+0,ADULT,10,3,20 to 24 years,X,Main Library,April,2014,z,email,true,2013,true,
+0,ADULT,5,4,25 to 34 years,C2,Chinatown,January,2016,z,email,true,2015,false,2
+0,ADULT,1,0,20 to 24 years,M4,Merced,December,2011,z,email,true,2011,false,7
+0,ADULT,24,32,55 to 59 years,X,Main Library,March,2015,z,email,true,2006,true,
+0,ADULT,94,131,25 to 34 years,S7,Sunset,December,2014,z,email,true,2013,false,7
+0,ADULT,14,0,45 to 54 years,G4,Glen Park,March,2014,z,email,true,2004,false,8
+0,ADULT,212,96,35 to 44 years,X,Main Library,June,2016,z,email,true,2009,false,1
+0,ADULT,98,67,60 to 64 years,G4,Glen Park,March,2016,z,email,true,2011,false,8
+0,ADULT,34,22,25 to 34 years,R3,Richmond,August,2013,z,email,true,2012,false,4
+0,ADULT,3022,720,60 to 64 years,X,Main Library,July,2016,p,phone,false,2003,false,3
+3,SENIOR,6,1,65 to 74 years,B2,Bayview/Linda Brooks-Burton,August,2015,z,email,true,2007,false,11
+3,SENIOR,27,0,65 to 74 years,I5,Ingleside,May,2015,z,email,true,2012,false,7
+0,ADULT,42,26,45 to 54 years,S7,Sunset,July,2013,p,phone,false,2003,false,7
+4,WELCOME,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2012,false,4
+0,ADULT,401,260,60 to 64 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,157,16,25 to 34 years,C2,Chinatown,May,2016,p,phone,false,2004,false,9
+0,ADULT,115,80,35 to 44 years,M2,Marina,August,2015,p,phone,false,2008,false,8
+0,ADULT,2,0,25 to 34 years,R3,Richmond,May,2014,z,email,true,2014,false,1
+0,ADULT,2,0,25 to 34 years,R3,Richmond,May,2014,z,email,true,2014,false,1
+0,ADULT,44,65,35 to 44 years,M6,Mission,March,2016,z,email,true,2004,false,9
+0,ADULT,18,3,25 to 34 years,S7,Sunset,August,2015,z,email,true,2010,true,
+0,ADULT,5,2,35 to 44 years,S7,Sunset,May,2013,p,phone,false,2005,false,11
+0,ADULT,664,773,20 to 24 years,O7,Ortega,July,2016,z,email,true,2004,false,4
+0,ADULT,73,47,35 to 44 years,X,Main Library,July,2016,z,email,true,2012,false,2
+0,ADULT,69,13,45 to 54 years,B2,Bayview/Linda Brooks-Burton,July,2016,p,phone,false,2003,false,10
+0,ADULT,77,33,25 to 34 years,X,Main Library,June,2016,z,email,true,2009,false,8
+3,SENIOR,310,368,65 to 74 years,W4,Western Addition,May,2013,z,email,true,2003,false,
+0,ADULT,385,115,60 to 64 years,X,Main Library,July,2016,z,email,true,2005,false,3
+0,ADULT,23,0,45 to 54 years,X,Main Library,April,2015,z,email,true,2006,false,5
+0,ADULT,5,1,25 to 34 years,P7,Potrero,June,2014,z,email,true,2014,false,10
+0,ADULT,4,0,20 to 24 years,M4,Merced,April,2016,z,email,true,2016,false,7
+0,ADULT,6,10,45 to 54 years,S7,Sunset,July,2016,z,email,true,2015,false,7
+0,ADULT,57,79,45 to 54 years,X,Main Library,July,2015,z,email,true,2003,false,
+4,WELCOME,0,0,35 to 44 years,X,Main Library,None,None,p,phone,false,2015,false,9
+4,WELCOME,0,0,35 to 44 years,X,Main Library,None,None,p,phone,false,2015,false,9
+0,ADULT,271,31,55 to 59 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,35,22,25 to 34 years,W2,West Portal,June,2016,p,phone,false,2012,false,5
+0,ADULT,0,0,60 to 64 years,B4,Bernal Heights,June,2014,p,phone,false,2014,false,9
+0,ADULT,8,8,35 to 44 years,S7,Sunset,July,2016,z,email,true,2016,false,
+0,ADULT,253,26,35 to 44 years,B4,Bernal Heights,April,2016,z,email,true,2003,false,9
+0,ADULT,76,1,45 to 54 years,R3,Richmond,April,2012,z,email,true,2003,false,
+0,ADULT,38,3,20 to 24 years,C2,Chinatown,March,2014,z,email,true,2010,false,9
+0,ADULT,245,376,45 to 54 years,X,Main Library,August,2015,z,email,true,2010,true,
+0,ADULT,14,8,35 to 44 years,P3,Parkside,April,2013,z,email,true,2007,true,
+0,ADULT,39,7,25 to 34 years,M6,Mission,May,2014,z,email,true,2012,false,11
+0,ADULT,7,7,25 to 34 years,M8,Mission Bay,September,2013,z,email,true,2013,false,6
+3,SENIOR,230,209,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,May,2016,p,phone,false,2008,false,8
+0,ADULT,104,48,20 to 24 years,X,Main Library,November,2013,z,email,true,2004,false,7
+3,SENIOR,362,14,65 to 74 years,C2,Chinatown,May,2009,a,print,false,2008,false,3
+0,ADULT,19,0,45 to 54 years,X,Main Library,August,2015,p,phone,false,2011,false,9
+0,ADULT,153,101,45 to 54 years,M6,Mission,August,2014,p,phone,false,2012,true,
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,0,0,25 to 34 years,X,Main Library,None,None,a,print,false,2014,false,6
+0,ADULT,92,41,35 to 44 years,W2,West Portal,July,2016,z,email,true,2011,false,7
+0,ADULT,8,5,35 to 44 years,M8,Mission Bay,June,2015,z,email,true,2015,false,6
+0,ADULT,823,628,60 to 64 years,M6,Mission,October,2015,z,email,true,2005,false,10
+0,ADULT,12,20,35 to 44 years,C2,Chinatown,June,2016,z,email,true,2011,false,3
+0,ADULT,15,17,60 to 64 years,R3,Richmond,May,2014,z,email,true,2011,false,
+3,SENIOR,8,0,65 to 74 years,P5,Portola,June,2010,z,email,true,2003,false,4
+0,ADULT,772,1052,55 to 59 years,M8,Mission Bay,July,2016,z,email,true,2003,false,10
+0,ADULT,9,9,20 to 24 years,X,Main Library,June,2016,z,email,true,2015,false,2
+0,ADULT,71,8,35 to 44 years,M6,Mission,February,2016,z,email,true,2003,false,9
+0,ADULT,3908,943,45 to 54 years,X,Main Library,May,2016,z,email,true,2003,false,3
+0,ADULT,8,24,45 to 54 years,M8,Mission Bay,January,2013,z,email,true,2012,true,
+3,SENIOR,2,0,65 to 74 years,X,Main Library,March,2013,z,email,true,2013,false,6
+0,ADULT,32,33,45 to 54 years,P5,Portola,December,2015,z,email,true,2014,false,9
+3,SENIOR,4,0,65 to 74 years,S7,Sunset,July,2014,z,email,true,2014,true,
+0,ADULT,0,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,None,None,p,phone,true,2016,false,9
+0,ADULT,7390,1610,60 to 64 years,X,Main Library,July,2016,z,email,true,2003,false,3
+0,ADULT,116,4,25 to 34 years,X,Main Library,May,2014,z,email,true,2013,false,4
+0,ADULT,5,0,35 to 44 years,P7,Potrero,June,2016,z,email,true,2014,false,10
+4,WELCOME,0,0,20 to 24 years,O7,Ortega,None,None,z,email,true,2015,false,11
+0,ADULT,293,210,25 to 34 years,M4,Merced,March,2016,z,email,true,2003,false,5
+0,ADULT,5,0,55 to 59 years,W4,Western Addition,October,2014,p,phone,false,2014,false,5
+15,TEACHER CARD,4,6,35 to 44 years,X,Main Library,July,2015,z,email,true,2015,false,10
+0,ADULT,8,0,25 to 34 years,X,Main Library,July,2016,z,email,true,2016,false,5
+0,ADULT,8,0,25 to 34 years,X,Main Library,July,2016,z,email,true,2016,false,5
+0,ADULT,91,27,25 to 34 years,R3,Richmond,June,2016,z,email,true,2006,false,
+0,ADULT,19,0,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,February,2014,z,email,true,2013,true,
+0,ADULT,6,8,35 to 44 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2016,false,8
+0,ADULT,67,56,45 to 54 years,W2,West Portal,December,2014,z,email,true,2003,false,7
+0,ADULT,6,7,25 to 34 years,X,Main Library,September,2014,z,email,true,2014,false,3
+0,ADULT,6,24,60 to 64 years,M6,Mission,July,2015,z,email,true,2009,true,
+3,SENIOR,1023,713,65 to 74 years,M8,Mission Bay,July,2016,z,email,true,2006,true,
+0,ADULT,10,20,25 to 34 years,X,Main Library,August,2015,z,email,true,2014,false,10
+0,ADULT,3,2,25 to 34 years,A5,Anza,March,2009,z,email,true,2008,false,1
+0,ADULT,17,19,25 to 34 years,M6,Mission,November,2015,z,email,true,2012,false,9
+0,ADULT,88,223,35 to 44 years,X,Main Library,October,2014,z,email,true,2006,true,
+0,ADULT,1133,385,25 to 34 years,P3,Parkside,November,2015,z,email,true,2003,false,4
+0,ADULT,133,43,55 to 59 years,W2,West Portal,January,2014,z,email,true,2007,false,4
+0,ADULT,5,0,60 to 64 years,R3,Richmond,March,2016,z,email,true,2013,false,2
+0,ADULT,6,3,35 to 44 years,X,Main Library,March,2016,z,email,true,2003,true,
+0,ADULT,22,2,55 to 59 years,I5,Ingleside,August,2015,z,email,true,2014,false,6
+0,ADULT,26,27,35 to 44 years,X,Main Library,September,2004,z,email,true,2003,false,5
+3,SENIOR,12,0,65 to 74 years,M8,Mission Bay,June,2013,z,email,true,2013,false,6
+0,ADULT,43,55,25 to 34 years,A5,Anza,June,2016,z,email,true,2011,false,1
+3,SENIOR,1,0,65 to 74 years,X,Main Library,May,2008,z,email,true,2006,false,6
+0,ADULT,205,82,35 to 44 years,M6,Mission,November,2015,p,phone,false,2007,false,5
+0,ADULT,2,2,25 to 34 years,X,Main Library,November,2015,z,email,true,2015,false,6
+0,ADULT,16,21,45 to 54 years,P7,Potrero,October,2014,z,email,true,2011,false,4
+0,ADULT,25,0,55 to 59 years,E9,Excelsior,March,2014,a,print,false,2010,false,1
+0,ADULT,518,143,25 to 34 years,X,Main Library,November,2012,z,email,true,2008,false,1
+3,SENIOR,0,0,65 to 74 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,true,
+3,SENIOR,0,0,65 to 74 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,true,
+3,SENIOR,0,0,65 to 74 years,N4,Noe Valley/Sally Brunn,None,None,z,email,true,2014,true,
+0,ADULT,10,3,25 to 34 years,G6,Golden Gate Valley,August,2015,z,email,true,2014,false,2
+0,ADULT,3,0,35 to 44 years,P3,Parkside,January,2015,z,email,true,2014,false,8
+0,ADULT,48,28,20 to 24 years,V3,Visitacion Valley,January,2016,z,email,true,2014,true,
+0,ADULT,263,37,45 to 54 years,X,Main Library,January,2014,p,phone,false,2003,false,10
+0,ADULT,88,29,55 to 59 years,P1,Park,June,2016,z,email,true,2008,false,5
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2012,false,2
+4,WELCOME,0,0,25 to 34 years,X,Main Library,None,None,z,email,true,2012,false,2
+3,SENIOR,1227,381,65 to 74 years,I5,Ingleside,July,2016,z,email,true,2003,false,7
+0,ADULT,2,1,25 to 34 years,X,Main Library,April,2014,z,email,true,2014,false,9
+3,SENIOR,12,0,65 to 74 years,S7,Sunset,November,2013,z,email,true,2009,false,4
+0,ADULT,10,5,25 to 34 years,R3,Richmond,July,2016,z,email,true,2015,true,
+0,ADULT,0,0,60 to 64 years,B4,Bernal Heights,None,None,z,email,true,2014,false,8
+4,WELCOME,2,0,20 to 24 years,I5,Ingleside,April,2013,z,email,true,2012,false,7
+0,ADULT,77,20,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,8
+0,ADULT,17,0,35 to 44 years,X,Main Library,February,2013,z,email,true,2003,false,6
+0,ADULT,226,174,45 to 54 years,A5,Anza,June,2016,z,email,true,2010,false,1
+0,ADULT,1991,2811,45 to 54 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,46,2,20 to 24 years,S7,Sunset,March,2015,z,email,true,2012,true,
+0,ADULT,2190,85,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,6
+3,SENIOR,609,0,65 to 74 years,R3,Richmond,May,2016,p,phone,false,2011,false,1
+0,ADULT,14,0,45 to 54 years,X,Main Library,August,2015,z,email,true,2015,false,5
+0,ADULT,1,0,45 to 54 years,I5,Ingleside,December,2013,z,email,true,2010,false,7
+0,ADULT,15,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,January,2014,z,email,true,2013,false,10
+0,ADULT,3,3,35 to 44 years,N6,North Beach,March,2016,z,email,true,2014,false,3
+0,ADULT,10,0,60 to 64 years,YJJ,Children's Bookmobile,May,2013,p,phone,false,2006,false,
+0,ADULT,9,10,45 to 54 years,P3,Parkside,March,2013,z,email,true,2012,false,4
+0,ADULT,38,8,35 to 44 years,R3,Richmond,March,2012,z,email,true,2003,true,
+0,ADULT,225,161,60 to 64 years,W2,West Portal,January,2014,z,email,true,2006,false,7
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+16,DIGITAL ACCESS CARD,0,0,25 to 34 years,P1,Park,None,None,a,print,false,2015,false,
+0,ADULT,84,3,25 to 34 years,E9,Excelsior,April,2014,z,email,true,2008,false,
+0,ADULT,24,25,25 to 34 years,X,Main Library,April,2015,z,email,true,2010,false,5
+0,ADULT,2,0,25 to 34 years,W2,West Portal,September,2013,z,email,true,2013,false,7
+0,ADULT,4,0,45 to 54 years,I5,Ingleside,August,2014,p,phone,true,2012,false,11
+0,ADULT,440,136,55 to 59 years,P9,Presidio,July,2016,z,email,true,2003,false,2
+4,WELCOME,1,0,25 to 34 years,M8,Mission Bay,May,2015,z,email,true,2014,false,6
+0,ADULT,53,2,20 to 24 years,A5,Anza,September,2014,z,email,true,2012,false,1
+3,SENIOR,2,0,65 to 74 years,W2,West Portal,September,2013,z,email,true,2010,false,7
+0,ADULT,2,0,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,January,2013,p,phone,false,2012,false,4
+0,ADULT,102,160,35 to 44 years,M6,Mission,November,2015,z,email,true,2005,false,10
+0,ADULT,4,8,25 to 34 years,C2,Chinatown,June,2016,z,email,true,2016,false,6
+0,ADULT,32,31,35 to 44 years,X,Main Library,January,2016,z,email,true,2008,true,
+0,ADULT,11,7,25 to 34 years,X,Main Library,July,2016,z,email,true,2016,false,6
+3,SENIOR,0,0,65 to 74 years,B4,Bernal Heights,None,None,z,email,true,2012,false,9
+3,SENIOR,0,0,65 to 74 years,B4,Bernal Heights,None,None,z,email,true,2012,false,9
+3,SENIOR,0,0,65 to 74 years,B4,Bernal Heights,None,None,z,email,true,2012,false,9
+0,ADULT,3,0,55 to 59 years,G6,Golden Gate Valley,February,2015,z,email,true,2015,true,
+0,ADULT,22,0,35 to 44 years,X,Main Library,July,2016,z,email,true,2016,false,3
+0,ADULT,31,0,45 to 54 years,O7,Ortega,August,2012,z,email,true,2003,false,4
+0,ADULT,54,108,25 to 34 years,M6,Mission,May,2016,z,email,true,2014,false,
+0,ADULT,68,1,55 to 59 years,X,Main Library,December,2011,p,phone,false,2009,false,9
+0,ADULT,1037,784,35 to 44 years,M6,Mission,July,2016,z,email,true,2004,false,
+3,SENIOR,719,187,65 to 74 years,X,Main Library,July,2016,z,email,true,2003,false,
+0,ADULT,57,0,45 to 54 years,X,Main Library,March,2016,p,phone,false,2014,true,
+3,SENIOR,14,1,65 to 74 years,G4,Glen Park,September,2014,z,email,true,2011,false,
+0,ADULT,307,84,45 to 54 years,X,Main Library,August,2013,z,email,true,2012,true,
+0,ADULT,36,1,25 to 34 years,X,Main Library,July,2016,z,email,true,2008,false,10
+3,SENIOR,613,367,65 to 74 years,M4,Merced,July,2016,p,phone,false,2003,false,5
+0,ADULT,10,14,25 to 34 years,X,Main Library,April,2016,z,email,true,2015,false,5
+0,ADULT,3,0,25 to 34 years,X,Main Library,October,2015,a,print,false,2015,false,6
+0,ADULT,208,52,20 to 24 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+0,ADULT,211,71,25 to 34 years,X,Main Library,April,2016,z,email,true,2008,false,4
+0,ADULT,11,6,25 to 34 years,N4,Noe Valley/Sally Brunn,February,2016,z,email,true,2014,false,8
+0,ADULT,1,0,25 to 34 years,I5,Ingleside,March,2016,z,email,true,2016,false,11
+0,ADULT,1,0,25 to 34 years,I5,Ingleside,March,2016,z,email,true,2016,false,11
+0,ADULT,2,0,20 to 24 years,X,Main Library,September,2014,p,phone,false,2014,true,
+0,ADULT,436,443,35 to 44 years,X,Main Library,January,2016,z,email,true,2009,true,
+0,ADULT,19,9,35 to 44 years,X,Main Library,December,2015,z,email,true,2008,false,3
+0,ADULT,4,6,25 to 34 years,X,Main Library,November,2015,z,email,true,2012,false,
+3,SENIOR,20,4,65 to 74 years,N6,North Beach,March,2014,z,email,true,2005,false,3
+3,SENIOR,77,6,65 to 74 years,X,Main Library,June,2013,a,print,false,2007,true,
+0,ADULT,29,10,55 to 59 years,X,Main Library,August,2015,p,phone,false,2003,true,
+0,ADULT,83,99,25 to 34 years,X,Main Library,July,2013,z,email,true,2008,false,4
+0,ADULT,2,0,20 to 24 years,W4,Western Addition,September,2014,z,email,true,2011,false,10
+0,ADULT,1,0,45 to 54 years,M6,Mission,September,2014,p,phone,false,2012,false,10
+4,WELCOME,0,0,20 to 24 years,X,Main Library,March,2014,z,email,true,2014,false,6
+0,ADULT,0,0,25 to 34 years,P7,Potrero,None,None,z,email,true,2014,false,9
+0,ADULT,0,0,25 to 34 years,P7,Potrero,None,None,z,email,true,2014,false,9
+0,ADULT,39,6,45 to 54 years,X,Main Library,March,2015,z,email,true,2014,false,6
+0,ADULT,2,0,25 to 34 years,P3,Parkside,November,2014,z,email,true,2014,false,4
+0,ADULT,386,270,45 to 54 years,I5,Ingleside,October,2014,z,email,true,2003,false,7
+0,ADULT,14,0,55 to 59 years,X,Main Library,September,2013,z,email,true,2009,false,6
+0,ADULT,68,41,60 to 64 years,S7,Sunset,July,2016,z,email,true,2015,false,5
+3,SENIOR,18,7,65 to 74 years,P9,Presidio,August,2015,z,email,true,2008,false,2
+0,ADULT,4,0,35 to 44 years,W2,West Portal,April,2015,z,email,true,2015,true,
+0,ADULT,206,222,35 to 44 years,P1,Park,July,2016,z,email,true,2003,false,1
+0,ADULT,27,2,25 to 34 years,X,Main Library,May,2013,p,phone,false,2013,true,
+4,WELCOME,9,0,25 to 34 years,X,Main Library,December,2014,z,email,true,2014,false,
+0,ADULT,208,44,20 to 24 years,X,Main Library,February,2016,p,phone,false,2008,false,6
+0,ADULT,164,43,35 to 44 years,M6,Mission,January,2014,z,email,true,2005,false,8
+0,ADULT,6,0,25 to 34 years,M2,Marina,April,2009,z,email,true,2008,false,2
+0,ADULT,77,1,20 to 24 years,P5,Portola,October,2013,z,email,true,2009,false,10
+0,ADULT,1,1,20 to 24 years,M4,Merced,January,2016,z,email,true,2015,true,
+0,ADULT,1,1,20 to 24 years,M4,Merced,January,2016,z,email,true,2015,true,
+3,SENIOR,1,0,65 to 74 years,W2,West Portal,April,2014,z,email,true,2014,false,7
+0,ADULT,169,81,35 to 44 years,N4,Noe Valley/Sally Brunn,May,2016,z,email,true,2010,false,8
+3,SENIOR,972,281,65 to 74 years,A5,Anza,July,2016,z,email,true,2006,false,
+3,SENIOR,2,0,65 to 74 years,X,Main Library,October,2012,a,print,false,2012,false,
+0,ADULT,15,24,25 to 34 years,X,Main Library,October,2015,z,email,true,2010,true,
+0,ADULT,36,0,55 to 59 years,X,Main Library,February,2015,z,email,true,2013,false,6
+0,ADULT,13,18,25 to 34 years,N6,North Beach,July,2015,z,email,true,2014,false,
+0,ADULT,23,4,45 to 54 years,M6,Mission,July,2016,p,phone,true,2016,false,9
+0,ADULT,435,221,45 to 54 years,G4,Glen Park,June,2016,z,email,true,2003,false,7
+0,ADULT,262,304,25 to 34 years,X,Main Library,June,2016,z,email,true,2003,false,8
+4,WELCOME,0,0,20 to 24 years,M2,Marina,None,None,z,email,true,2014,false,2
+0,ADULT,9,8,35 to 44 years,P7,Potrero,December,2013,p,phone,true,2013,false,
+0,ADULT,273,216,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2010,false,6
+0,ADULT,32,2,45 to 54 years,X,Main Library,May,2014,p,phone,false,2003,false,8
+0,ADULT,12,19,25 to 34 years,W4,Western Addition,January,2016,p,phone,true,2011,false,8
+0,ADULT,1,2,35 to 44 years,X,Main Library,June,2016,a,print,false,2016,true,
+0,ADULT,0,0,35 to 44 years,S7,Sunset,None,None,z,email,true,2015,false,2
+3,SENIOR,41,0,65 to 74 years,P5,Portola,June,2015,z,email,true,2013,false,9
+0,ADULT,218,52,35 to 44 years,S7,Sunset,July,2013,z,email,true,2009,false,4
+0,ADULT,109,194,35 to 44 years,N4,Noe Valley/Sally Brunn,June,2016,z,email,true,2008,false,7
+0,ADULT,218,8,25 to 34 years,C2,Chinatown,July,2013,p,phone,false,2010,false,3
+3,SENIOR,32,0,65 to 74 years,X,Main Library,May,2014,a,print,false,2010,false,6
+0,ADULT,369,184,45 to 54 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,8,0,25 to 34 years,X,Main Library,July,2016,z,email,true,2016,false,3
+0,ADULT,8,0,25 to 34 years,X,Main Library,July,2016,z,email,true,2016,false,3
+0,ADULT,0,0,45 to 54 years,P3,Parkside,None,None,z,email,true,2016,true,
+0,ADULT,0,0,45 to 54 years,P3,Parkside,None,None,z,email,true,2016,true,
+0,ADULT,0,0,45 to 54 years,P3,Parkside,None,None,z,email,true,2016,true,
+0,ADULT,0,0,45 to 54 years,P3,Parkside,None,None,z,email,true,2016,true,
+0,ADULT,3,0,35 to 44 years,R3,Richmond,June,2010,p,phone,false,2009,false,7
+0,ADULT,117,160,45 to 54 years,X,Main Library,April,2016,z,email,true,2003,false,4
+0,ADULT,224,81,45 to 54 years,B2,Bayview/Linda Brooks-Burton,July,2016,z,email,true,2010,false,10
+16,DIGITAL ACCESS CARD,0,0,35 to 44 years,A5,Anza,None,None,z,email,true,2015,false,
+0,ADULT,69,45,35 to 44 years,W4,Western Addition,April,2014,z,email,true,2008,true,
+0,ADULT,1,0,35 to 44 years,M8,Mission Bay,December,2013,z,email,true,2013,false,6
+0,ADULT,1,0,35 to 44 years,M8,Mission Bay,December,2013,z,email,true,2013,false,6
+0,ADULT,22,0,60 to 64 years,N6,North Beach,March,2016,z,email,true,2014,false,3
+0,ADULT,367,10,25 to 34 years,P5,Portola,March,2016,z,email,true,2004,false,10
+0,ADULT,50,11,35 to 44 years,X,Main Library,June,2016,z,email,true,2003,false,
+0,ADULT,49,29,45 to 54 years,X,Main Library,January,2016,p,phone,false,2008,false,6
+0,ADULT,75,111,35 to 44 years,N4,Noe Valley/Sally Brunn,October,2015,z,email,true,2004,false,8
+0,ADULT,305,62,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,June,2016,z,email,true,2009,false,5
+0,ADULT,530,521,45 to 54 years,M4,Merced,June,2016,z,email,true,2008,true,
+0,ADULT,31,67,35 to 44 years,R3,Richmond,January,2014,z,email,true,2008,false,1
+0,ADULT,33,0,20 to 24 years,P1,Park,July,2016,z,email,true,2016,false,5
+0,ADULT,14,0,60 to 64 years,X,Main Library,November,2013,z,email,true,2003,false,
+0,ADULT,29,8,35 to 44 years,X,Main Library,July,2016,z,email,true,2006,false,10
+0,ADULT,179,64,25 to 34 years,R3,Richmond,January,2016,a,print,true,2003,false,1
+0,ADULT,22,8,35 to 44 years,C2,Chinatown,December,2015,z,email,true,2009,true,
+0,ADULT,7,0,55 to 59 years,X,Main Library,March,2012,z,email,true,2011,true,
+0,ADULT,170,141,25 to 34 years,S7,Sunset,May,2015,z,email,true,2007,false,4
+0,ADULT,22,13,20 to 24 years,R3,Richmond,July,2016,z,email,true,2016,false,2
+0,ADULT,100,92,25 to 34 years,X,Main Library,August,2014,z,email,true,2010,false,1
+0,ADULT,37,1,35 to 44 years,C2,Chinatown,November,2014,p,phone,false,2004,false,4
+0,ADULT,3,4,25 to 34 years,R3,Richmond,August,2014,z,email,true,2014,false,1
+0,ADULT,6,10,25 to 34 years,M4,Merced,June,2013,z,email,true,2012,false,7
+0,ADULT,14,0,35 to 44 years,M2,Marina,May,2011,z,email,true,2009,false,2
+0,ADULT,5,0,35 to 44 years,I5,Ingleside,April,2016,z,email,true,2016,false,8
+0,ADULT,8,6,25 to 34 years,S7,Sunset,July,2013,z,email,true,2013,false,7
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,p,phone,false,2012,false,5
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2011,false,
+0,ADULT,0,0,45 to 54 years,X,Main Library,None,None,z,email,true,2011,false,
+0,ADULT,52,4,45 to 54 years,M8,Mission Bay,March,2009,z,email,true,2003,false,10
+0,ADULT,1,4,20 to 24 years,M6,Mission,February,2015,z,email,true,2014,false,9
+0,ADULT,252,94,45 to 54 years,X,Main Library,May,2014,p,phone,false,2012,false,5
+0,ADULT,31,34,25 to 34 years,M2,Marina,May,2016,z,email,true,2013,false,2
+0,ADULT,279,73,25 to 34 years,R3,Richmond,October,2014,z,email,true,2013,false,
+0,ADULT,4,0,55 to 59 years,X,Main Library,February,2016,a,print,false,2016,true,
+0,ADULT,19,2,60 to 64 years,B4,Bernal Heights,April,2016,z,email,true,2012,false,9
+3,SENIOR,20,6,65 to 74 years,E9,Excelsior,April,2015,z,email,true,2003,false,11
+0,ADULT,46,43,25 to 34 years,C2,Chinatown,August,2015,z,email,true,2014,false,5
+0,ADULT,6,6,45 to 54 years,X,Main Library,November,2015,p,phone,false,2015,false,4
+0,ADULT,3,2,25 to 34 years,P3,Parkside,July,2016,z,email,true,2016,true,
+0,ADULT,4,0,35 to 44 years,X,Main Library,October,2013,z,email,true,2013,false,5
+0,ADULT,83,0,60 to 64 years,X,Main Library,January,2016,p,phone,false,2012,false,6
+0,ADULT,32,1,25 to 34 years,C2,Chinatown,December,2014,p,phone,false,2014,false,11
+0,ADULT,46,3,35 to 44 years,X,Main Library,February,2014,z,email,true,2013,true,
+0,ADULT,31,8,25 to 34 years,I5,Ingleside,January,2014,z,email,true,2003,false,11
+0,ADULT,5,0,25 to 34 years,V3,Visitacion Valley,September,2014,p,phone,false,2013,false,10
+0,ADULT,157,27,45 to 54 years,X,Main Library,January,2016,z,email,true,2008,false,7
+0,ADULT,18,11,25 to 34 years,G6,Golden Gate Valley,July,2016,z,email,true,2016,false,
+0,ADULT,31,26,60 to 64 years,M2,Marina,March,2013,p,phone,true,2003,true,
+0,ADULT,2,0,25 to 34 years,M2,Marina,August,2015,p,phone,true,2015,false,2
+0,ADULT,736,182,60 to 64 years,M4,Merced,May,2016,z,email,true,2003,false,4
+0,ADULT,838,206,60 to 64 years,M4,Merced,July,2016,z,email,true,2003,false,11
+0,ADULT,61,34,25 to 34 years,C2,Chinatown,September,2015,p,phone,false,2003,false,3
+0,ADULT,3056,2345,45 to 54 years,M2,Marina,July,2016,z,email,true,2007,false,2
+0,ADULT,9,0,25 to 34 years,M6,Mission,September,2012,z,email,true,2011,false,9
+0,ADULT,2,0,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,May,2014,z,email,true,2014,false,5
+3,SENIOR,3,0,65 to 74 years,I5,Ingleside,June,2016,z,email,true,2016,false,7
+3,SENIOR,18,2,65 to 74 years,X,Main Library,November,2015,z,email,true,2003,true,
+0,ADULT,96,98,65 to 74 years,X,Main Library,February,2014,z,email,true,2006,true,
+4,WELCOME,0,0,45 to 54 years,X,Main Library,August,2013,p,phone,false,2012,false,9
+0,ADULT,1,0,25 to 34 years,S7,Sunset,February,2013,z,email,true,2012,false,4
+0,ADULT,0,0,35 to 44 years,M4,Merced,None,None,z,email,true,2012,false,
+0,ADULT,3,0,25 to 34 years,W4,Western Addition,September,2013,z,email,true,2011,false,5
+0,ADULT,227,69,20 to 24 years,P3,Parkside,July,2016,z,email,true,2003,false,7
+0,ADULT,26,14,35 to 44 years,X,Main Library,April,2015,z,email,true,2012,false,5
+4,WELCOME,1,0,20 to 24 years,X,Main Library,January,2015,z,email,true,2014,false,7
+0,ADULT,26,0,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,January,2015,z,email,true,2006,false,5
+0,ADULT,109,122,35 to 44 years,X,Main Library,June,2015,z,email,true,2003,false,4
+0,ADULT,2,0,45 to 54 years,G4,Glen Park,February,2016,z,email,true,2010,false,10
+0,ADULT,1,0,55 to 59 years,X,Main Library,April,2015,z,email,true,2014,true,
+0,ADULT,55,0,35 to 44 years,X,Main Library,January,2013,p,phone,false,2012,false,6
+0,ADULT,353,55,55 to 59 years,X,Main Library,May,2016,z,email,true,2012,false,11
+0,ADULT,3,0,45 to 54 years,A5,Anza,January,2015,z,email,true,2011,true,
+0,ADULT,3,9,25 to 34 years,I5,Ingleside,August,2014,z,email,true,2014,false,
+3,SENIOR,7,5,55 to 59 years,X,Main Library,June,2015,z,email,true,2014,true,
+0,ADULT,1292,167,20 to 24 years,C2,Chinatown,July,2016,z,email,true,2003,true,
+0,ADULT,22,35,20 to 24 years,E9,Excelsior,September,2015,z,email,true,2012,false,11
+0,ADULT,16,0,25 to 34 years,P7,Potrero,June,2016,z,email,true,2014,false,9
+0,ADULT,15,4,35 to 44 years,X,Main Library,July,2013,z,email,true,2008,false,
+0,ADULT,2014,821,45 to 54 years,E9,Excelsior,July,2016,z,email,true,2003,false,11
+0,ADULT,318,48,20 to 24 years,E9,Excelsior,June,2014,p,phone,false,2010,true,
+3,SENIOR,63,11,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,April,2016,z,email,true,2007,false,8
+0,ADULT,13,0,45 to 54 years,N6,North Beach,April,2016,z,email,true,2004,false,3
+0,ADULT,8,18,25 to 34 years,P5,Portola,December,2015,p,phone,true,2013,false,9
+0,ADULT,375,116,35 to 44 years,M6,Mission,July,2016,z,email,true,2004,true,
+0,ADULT,4,0,25 to 34 years,M2,Marina,April,2016,z,email,true,2016,false,5
+0,ADULT,4,0,25 to 34 years,M2,Marina,April,2016,z,email,true,2016,false,5
+0,ADULT,13,23,25 to 34 years,A5,Anza,October,2015,z,email,true,2011,false,1
+0,ADULT,9,10,25 to 34 years,M8,Mission Bay,July,2016,z,email,true,2015,false,6
+0,ADULT,0,0,25 to 34 years,P5,Portola,None,None,a,print,false,2013,false,9
+0,ADULT,13,0,45 to 54 years,X,Main Library,May,2006,z,email,true,2006,false,
+0,ADULT,521,5,60 to 64 years,E9,Excelsior,August,2015,p,phone,false,2010,false,6
+0,ADULT,7,6,25 to 34 years,M8,Mission Bay,April,2015,z,email,true,2014,false,1
+0,ADULT,26,6,45 to 54 years,S7,Sunset,April,2015,z,email,true,2008,false,5
+0,ADULT,28,0,35 to 44 years,X,Main Library,December,2013,z,email,true,2003,false,
+100,AT USER ADULT,6,11,25 to 34 years,X,Main Library,July,2016,z,email,true,2013,false,3
+0,ADULT,2,3,25 to 34 years,X,Main Library,April,2013,z,email,true,2012,true,
+0,ADULT,124,22,25 to 34 years,S7,Sunset,August,2013,z,email,true,2010,false,4
+0,ADULT,3,1,35 to 44 years,X,Main Library,May,2009,z,email,true,2008,true,
+0,ADULT,8,0,25 to 34 years,X,Main Library,June,2016,p,phone,false,2016,false,6
+0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,true,2014,false,1
+0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,true,2014,false,1
+0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,true,2014,false,1
+0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,true,2014,false,1
+0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,true,2014,false,1
+0,ADULT,0,0,60 to 64 years,R3,Richmond,None,None,z,email,true,2014,false,1
+0,ADULT,14,0,55 to 59 years,B4,Bernal Heights,June,2005,a,print,false,2003,false,
+0,ADULT,23,21,60 to 64 years,A5,Anza,May,2014,z,email,true,2012,false,1
+0,ADULT,33,10,45 to 54 years,C2,Chinatown,September,2014,z,email,true,2009,true,
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2016,false,11
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2016,false,11
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2016,false,11
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2016,false,11
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2016,false,11
+0,ADULT,0,0,20 to 24 years,X,Main Library,None,None,z,email,true,2016,false,11
+4,WELCOME,1,1,20 to 24 years,N4,Noe Valley/Sally Brunn,March,2016,z,email,true,2016,false,8
+0,ADULT,15,0,45 to 54 years,X,Main Library,September,2011,p,phone,false,2009,false,1
+0,ADULT,8,0,25 to 34 years,M6,Mission,June,2015,z,email,true,2009,false,10
+0,ADULT,239,8,20 to 24 years,C2,Chinatown,March,2011,z,email,true,2005,false,9
+0,ADULT,7,0,60 to 64 years,V3,Visitacion Valley,July,2013,z,email,true,2009,false,10
+0,ADULT,519,443,60 to 64 years,I5,Ingleside,July,2016,z,email,true,2003,false,7
+0,ADULT,8,0,20 to 24 years,V3,Visitacion Valley,October,2013,z,email,true,2012,false,10
+4,WELCOME,3,0,25 to 34 years,E9,Excelsior,July,2015,p,phone,true,2015,false,11
+0,ADULT,10,0,45 to 54 years,O7,Ortega,November,2015,z,email,true,2012,true,
+0,ADULT,31,0,45 to 54 years,M6,Mission,May,2014,z,email,true,2003,false,11
+0,ADULT,193,1,35 to 44 years,G6,Golden Gate Valley,June,2015,z,email,true,2011,false,2
+0,ADULT,41,1,60 to 64 years,M8,Mission Bay,August,2013,p,phone,false,2009,false,11
+0,ADULT,2420,219,20 to 24 years,C2,Chinatown,July,2014,p,phone,false,2003,false,3
+0,ADULT,0,0,25 to 34 years,B4,Bernal Heights,January,2015,z,email,true,2014,false,8
+16,DIGITAL ACCESS CARD,0,0,35 to 44 years,X,Main Library,June,2015,a,print,false,2015,true,
+10,VISITOR,10,0,20 to 24 years,M8,Mission Bay,July,2016,z,email,true,2016,false,6
+0,ADULT,16,0,20 to 24 years,M4,Merced,March,2007,z,email,true,2003,false,7
+0,ADULT,27,16,35 to 44 years,P7,Potrero,March,2016,z,email,true,2010,false,10
+0,ADULT,445,374,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,January,2015,z,email,true,2008,false,
+0,ADULT,380,268,25 to 34 years,O7,Ortega,July,2016,z,email,true,2003,false,4
+4,WELCOME,1,0,25 to 34 years,M6,Mission,August,2015,p,phone,true,2015,false,3
+0,ADULT,645,69,35 to 44 years,X,Main Library,July,2016,z,email,true,2008,true,
+0,ADULT,541,11,45 to 54 years,X,Main Library,March,2013,z,email,true,2012,false,
+0,ADULT,1,0,35 to 44 years,X,Main Library,October,2015,z,email,true,2015,false,3
+0,ADULT,1,0,35 to 44 years,X,Main Library,October,2015,z,email,true,2015,false,3
+0,ADULT,179,49,20 to 24 years,E9,Excelsior,August,2014,z,email,true,2003,false,9
+0,ADULT,82,67,35 to 44 years,X,Main Library,November,2015,z,email,true,2009,false,2
+0,ADULT,21,21,25 to 34 years,S7,Sunset,June,2013,z,email,true,2011,false,4
+0,ADULT,2,0,25 to 34 years,M6,Mission,March,2013,z,email,true,2012,false,9
+0,ADULT,0,0,60 to 64 years,E9,Excelsior,February,2015,p,phone,false,2009,false,11
+0,ADULT,64,16,35 to 44 years,P3,Parkside,July,2016,p,phone,false,2008,false,4
+0,ADULT,10,5,45 to 54 years,X,Main Library,February,2014,z,email,true,2009,true,
+4,WELCOME,1,0,20 to 24 years,X,Main Library,January,2016,z,email,true,2015,false,7
+4,WELCOME,1,0,35 to 44 years,X,Main Library,March,2016,a,print,false,2015,true,
+0,ADULT,60,137,25 to 34 years,M8,Mission Bay,September,2014,z,email,true,2011,true,
+0,ADULT,117,171,45 to 54 years,S7,Sunset,June,2014,z,email,true,2003,false,4
+0,ADULT,0,0,45 to 54 years,R3,Richmond,None,None,z,email,true,2014,false,2
+0,ADULT,0,0,45 to 54 years,R3,Richmond,None,None,z,email,true,2014,false,2
+0,ADULT,0,0,45 to 54 years,R3,Richmond,None,None,z,email,true,2014,false,2
+0,ADULT,8,0,35 to 44 years,X,Main Library,March,2011,z,email,true,2009,false,
+0,ADULT,2361,1945,25 to 34 years,P3,Parkside,July,2016,z,email,true,2007,true,
+0,ADULT,41,33,25 to 34 years,R3,Richmond,June,2016,z,email,true,2012,false,1
+0,ADULT,114,8,20 to 24 years,N6,North Beach,October,2013,p,phone,false,2012,false,9
+0,ADULT,15,13,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2013,false,8
+0,ADULT,95,18,35 to 44 years,G6,Golden Gate Valley,July,2016,z,email,true,2007,false,2
+0,ADULT,442,312,25 to 34 years,I5,Ingleside,February,2015,z,email,true,2011,false,11
+0,ADULT,17,8,25 to 34 years,P9,Presidio,January,2014,z,email,true,2011,false,2
+3,SENIOR,80,13,65 to 74 years,E9,Excelsior,November,2014,a,print,false,2003,false,11
+0,ADULT,419,442,35 to 44 years,M8,Mission Bay,July,2016,z,email,true,2003,false,4
+0,ADULT,173,28,20 to 24 years,S7,Sunset,October,2015,z,email,true,2003,false,7
+0,ADULT,370,198,20 to 24 years,G4,Glen Park,January,2015,z,email,true,2003,false,8
+0,ADULT,1,1,35 to 44 years,X,Main Library,December,2012,z,email,true,2012,true,
+0,ADULT,2,1,60 to 64 years,I5,Ingleside,April,2014,p,phone,true,2013,false,11
+0,ADULT,0,0,45 to 54 years,W2,West Portal,None,None,z,email,true,2015,false,8
+0,ADULT,0,0,45 to 54 years,W2,West Portal,None,None,z,email,true,2015,false,8
+0,ADULT,670,224,20 to 24 years,C2,Chinatown,May,2015,z,email,true,2003,false,3
+0,ADULT,1,2,20 to 24 years,X,Main Library,December,2014,z,email,true,2014,false,6
+3,SENIOR,4,0,65 to 74 years,R3,Richmond,July,2016,z,email,true,2014,false,4
+3,SENIOR,13,11,65 to 74 years,E7,Eureka Valley/Harvey Milk Memorial,February,2016,z,email,true,2015,true,
+0,ADULT,47,0,20 to 24 years,M6,Mission,December,2015,z,email,true,2011,false,3
+0,ADULT,106,114,45 to 54 years,M4,Merced,June,2015,p,phone,false,2003,true,
+0,ADULT,182,6,45 to 54 years,M6,Mission,July,2013,z,email,true,2003,false,8
+0,ADULT,4,2,25 to 34 years,G6,Golden Gate Valley,August,2013,p,phone,false,2013,false,4
+0,ADULT,6,0,25 to 34 years,E9,Excelsior,July,2016,z,email,true,2015,false,11
+0,ADULT,9,11,25 to 34 years,P1,Park,June,2016,z,email,true,2012,false,5
+0,ADULT,421,5,35 to 44 years,M6,Mission,June,2012,p,phone,false,2003,false,
+0,ADULT,205,55,45 to 54 years,R3,Richmond,July,2016,z,email,true,2003,false,1
+0,ADULT,153,277,35 to 44 years,W4,Western Addition,May,2016,z,email,true,2003,true,
+0,ADULT,3,0,45 to 54 years,W4,Western Addition,April,2013,z,email,true,2013,false,8
+0,ADULT,265,74,55 to 59 years,I5,Ingleside,July,2016,z,email,true,2003,false,7
+0,ADULT,25,0,25 to 34 years,M6,Mission,March,2013,z,email,true,2012,false,8
+0,ADULT,99,52,55 to 59 years,W2,West Portal,July,2016,z,email,true,2013,false,7
+0,ADULT,40,0,45 to 54 years,X,Main Library,September,2015,z,email,true,2012,false,9
+4,WELCOME,8,0,55 to 59 years,X,Main Library,August,2014,z,email,true,2014,false,4
+0,ADULT,0,0,35 to 44 years,X,Main Library,September,2010,z,email,true,2009,false,8
+0,ADULT,6,0,35 to 44 years,X,Main Library,April,2013,z,email,true,2013,true,
+0,ADULT,102,0,25 to 34 years,X,Main Library,January,2011,z,email,true,2006,false,6
+15,TEACHER CARD,73,0,35 to 44 years,B2,Bayview/Linda Brooks-Burton,December,2015,z,email,true,2014,false,10
+0,ADULT,64,0,55 to 59 years,I5,Ingleside,December,2013,p,phone,false,2009,false,11
+0,ADULT,108,0,25 to 34 years,X,Main Library,July,2012,z,email,true,2012,false,6
+0,ADULT,1,3,25 to 34 years,X,Main Library,October,2013,z,email,true,2013,false,7
+0,ADULT,9,18,25 to 34 years,R3,Richmond,July,2016,z,email,true,2013,false,
+0,ADULT,546,341,60 to 64 years,W2,West Portal,July,2016,z,email,true,2003,false,4
+0,ADULT,7,13,55 to 59 years,N6,North Beach,June,2016,z,email,true,2015,false,
+0,ADULT,19,0,20 to 24 years,R3,Richmond,August,2013,z,email,true,2010,false,1
+0,ADULT,14,4,45 to 54 years,P9,Presidio,July,2013,z,email,true,2009,false,
+0,ADULT,10,23,25 to 34 years,C2,Chinatown,October,2015,z,email,true,2012,false,3
+0,ADULT,227,333,55 to 59 years,W4,Western Addition,March,2014,p,phone,false,2003,false,2
+4,WELCOME,17,1,35 to 44 years,E9,Excelsior,July,2014,z,email,true,2007,true,
+0,ADULT,44,5,35 to 44 years,P9,Presidio,May,2015,z,email,true,2014,false,2
+0,ADULT,4,4,45 to 54 years,M6,Mission,July,2016,z,email,true,2016,false,8
+0,ADULT,0,0,45 to 54 years,X,Main Library,August,2015,a,print,false,2010,false,
+4,WELCOME,1,0,25 to 34 years,X,Main Library,June,2015,z,email,true,2014,false,10
+0,ADULT,21,12,35 to 44 years,A5,Anza,January,2016,z,email,true,2007,false,1
+0,ADULT,9,2,35 to 44 years,X,Main Library,November,2012,z,email,true,2012,true,
+0,ADULT,18,12,45 to 54 years,M6,Mission,October,2013,a,print,false,2007,false,1
+0,ADULT,132,119,25 to 34 years,X,Main Library,December,2014,z,email,true,2006,false,9
+3,SENIOR,759,666,65 to 74 years,G4,Glen Park,July,2016,z,email,true,2003,false,8
+0,ADULT,21,10,60 to 64 years,C2,Chinatown,July,2016,p,phone,false,2011,false,10
+0,ADULT,96,43,35 to 44 years,B2,Bayview/Linda Brooks-Burton,July,2014,p,phone,false,2005,false,10
+3,SENIOR,2,0,65 to 74 years,B4,Bernal Heights,August,2014,z,email,true,2010,false,9
+3,SENIOR,17,2,65 to 74 years,X,Main Library,February,2014,z,email,true,2008,false,8
+0,ADULT,1391,283,60 to 64 years,P3,Parkside,July,2016,z,email,true,2003,false,4
+0,ADULT,17,0,35 to 44 years,P3,Parkside,June,2013,z,email,true,2011,false,10
+0,ADULT,66,2,20 to 24 years,P5,Portola,October,2013,z,email,true,2003,false,9
+0,ADULT,67,8,20 to 24 years,B4,Bernal Heights,May,2016,z,email,true,2012,false,9
+0,ADULT,2,0,45 to 54 years,R3,Richmond,April,2014,z,email,true,2012,false,1
+0,ADULT,184,26,45 to 54 years,O7,Ortega,February,2014,z,email,true,2006,false,4
+3,SENIOR,1,0,65 to 74 years,X,Main Library,September,2014,a,print,false,2014,false,
+0,ADULT,7,0,25 to 34 years,P1,Park,July,2016,p,phone,false,2012,false,5
+3,SENIOR,5,0,65 to 74 years,X,Main Library,June,2006,z,email,true,2006,true,
+0,ADULT,826,297,60 to 64 years,S7,Sunset,January,2016,z,email,true,2003,true,
+0,ADULT,34,7,45 to 54 years,O7,Ortega,September,2013,z,email,true,2011,false,4
+0,ADULT,175,177,55 to 59 years,X,Main Library,July,2016,z,email,true,2003,false,10
+0,ADULT,58,0,35 to 44 years,I5,Ingleside,June,2014,z,email,true,2004,false,
+0,ADULT,46,35,35 to 44 years,M4,Merced,March,2016,z,email,true,2009,false,1
+0,ADULT,34,0,20 to 24 years,M6,Mission,July,2016,z,email,true,2012,false,11
+0,ADULT,5,1,25 to 34 years,W2,West Portal,May,2014,z,email,true,2011,false,4
+0,ADULT,13,0,60 to 64 years,X,Main Library,July,2015,z,email,true,2011,false,8
+0,ADULT,102,33,25 to 34 years,P9,Presidio,May,2016,z,email,true,2013,false,2
+0,ADULT,40,16,20 to 24 years,W4,Western Addition,February,2013,z,email,true,2003,false,2
+0,ADULT,178,128,35 to 44 years,W4,Western Addition,July,2016,z,email,true,2003,false,5
+0,ADULT,17,0,60 to 64 years,R3,Richmond,April,2009,p,phone,true,2006,false,7
+0,ADULT,0,0,35 to 44 years,R3,Richmond,September,2013,z,email,true,2012,false,
+4,WELCOME,1,0,20 to 24 years,X,Main Library,October,2014,z,email,true,2014,false,5
+0,ADULT,7,2,20 to 24 years,X,Main Library,February,2016,a,print,false,2009,false,
+0,ADULT,218,25,25 to 34 years,P9,Presidio,July,2014,z,email,true,2007,false,5
+0,ADULT,3,0,25 to 34 years,X,Main Library,May,2015,z,email,true,2013,true,
+0,ADULT,5,0,20 to 24 years,X,Main Library,March,2016,z,email,true,2016,false,6
+0,ADULT,1,1,20 to 24 years,X,Main Library,February,2016,z,email,true,2015,false,8
+0,ADULT,0,0,55 to 59 years,X,Main Library,None,None,a,print,false,2014,false,7
+0,ADULT,73,0,25 to 34 years,C2,Chinatown,September,2010,a,print,false,2008,false,11
+0,ADULT,45,14,45 to 54 years,W2,West Portal,March,2016,p,phone,false,2007,false,7
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,25 to 34 years,X,Main Library,August,2013,z,email,true,2013,false,6
+4,WELCOME,1,0,35 to 44 years,X,Main Library,May,2016,z,email,true,2015,false,6
+0,ADULT,1,1,20 to 24 years,X,Main Library,October,2015,a,print,false,2015,false,6
+0,ADULT,31,4,25 to 34 years,P1,Park,July,2016,z,email,true,2014,false,5
+0,ADULT,62,17,45 to 54 years,M2,Marina,October,2013,z,email,true,2008,false,2
+0,ADULT,20,43,25 to 34 years,R3,Richmond,March,2016,z,email,true,2014,false,1
+0,ADULT,114,169,45 to 54 years,P9,Presidio,July,2016,z,email,true,2010,true,
+3,SENIOR,0,0,60 to 64 years,W4,Western Addition,None,None,a,print,false,2015,true,
+0,ADULT,0,0,35 to 44 years,P3,Parkside,None,None,a,print,false,2014,false,4
+0,ADULT,3,0,25 to 34 years,G4,Glen Park,August,2014,z,email,true,2014,false,7
+0,ADULT,22,14,20 to 24 years,X,Main Library,July,2016,z,email,true,2015,false,1
+3,SENIOR,34,4,65 to 74 years,A5,Anza,July,2013,z,email,true,2011,false,1
+0,ADULT,59,179,25 to 34 years,X,Main Library,July,2016,z,email,true,2013,false,4
+0,ADULT,7,4,25 to 34 years,N6,North Beach,May,2016,z,email,true,2016,false,3
+0,ADULT,404,146,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,July,2016,z,email,true,2003,false,10
+4,WELCOME,0,0,25 to 34 years,X,Main Library,July,2015,z,email,true,2015,false,1
+0,ADULT,8,0,25 to 34 years,B2,Bayview/Linda Brooks-Burton,June,2013,z,email,true,2013,false,10
+0,ADULT,1,0,25 to 34 years,I5,Ingleside,July,2013,z,email,true,2010,false,5
+0,ADULT,7,0,25 to 34 years,I5,Ingleside,April,2016,z,email,true,2014,false,11
+0,ADULT,5,0,25 to 34 years,X,Main Library,June,2016,z,email,true,2012,true,
+0,ADULT,11,1,45 to 54 years,N6,North Beach,March,2016,z,email,true,2010,false,3
+0,ADULT,17,18,25 to 34 years,E9,Excelsior,July,2014,z,email,true,2009,false,11
+0,ADULT,0,0,25 to 34 years,M4,Merced,None,None,z,email,true,2011,true,
+3,SENIOR,385,23,65 to 74 years,C2,Chinatown,October,2015,p,phone,false,2009,false,7
+4,WELCOME,1,0,45 to 54 years,X,Main Library,December,2014,a,print,false,2014,false,6
+0,ADULT,2,1,20 to 24 years,S7,Sunset,July,2014,z,email,true,2014,false,5
+0,ADULT,23,4,35 to 44 years,X,Main Library,February,2009,z,email,true,2003,false,8
+0,ADULT,225,206,25 to 34 years,R3,Richmond,June,2016,z,email,true,2009,false,
+3,SENIOR,43,5,65 to 74 years,X,Main Library,November,2015,z,email,true,2012,false,6
+0,ADULT,62,14,35 to 44 years,M2,Marina,February,2016,z,email,true,2008,false,2
+0,ADULT,127,65,35 to 44 years,R3,Richmond,April,2016,z,email,true,2011,true,
+0,ADULT,11,16,35 to 44 years,X,Main Library,November,2013,z,email,true,2005,true,
+0,ADULT,7,16,20 to 24 years,X,Main Library,September,2015,z,email,true,2014,false,6
+0,ADULT,59,36,35 to 44 years,E9,Excelsior,November,2014,z,email,true,2013,false,11
+0,ADULT,0,0,60 to 64 years,W2,West Portal,None,None,a,print,false,2015,false,7
+0,ADULT,617,256,20 to 24 years,S7,Sunset,July,2013,z,email,true,2003,false,
+0,ADULT,8,8,25 to 34 years,M8,Mission Bay,July,2016,z,email,true,2016,false,6
+3,SENIOR,31,16,65 to 74 years,N6,North Beach,July,2016,z,email,true,2003,false,2
+3,SENIOR,1142,210,65 to 74 years,P5,Portola,July,2016,a,print,false,2003,false,5
+0,ADULT,2,2,25 to 34 years,X,Main Library,February,2014,a,print,false,2010,false,10
+4,WELCOME,0,0,25 to 34 years,P1,Park,None,None,z,email,true,2011,false,5
+0,ADULT,3,8,55 to 59 years,X,Main Library,May,2015,z,email,true,2014,false,8
+0,ADULT,49,13,25 to 34 years,P5,Portola,July,2016,z,email,true,2015,false,9
+0,ADULT,42,29,25 to 34 years,W4,Western Addition,July,2015,z,email,true,2008,false,5
+0,ADULT,1,0,20 to 24 years,M2,Marina,January,2016,z,email,true,2016,true,
+0,ADULT,999,510,35 to 44 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+0,ADULT,1,1,25 to 34 years,C2,Chinatown,July,2014,z,email,true,2014,false,11
+0,ADULT,25,8,35 to 44 years,X,Main Library,July,2016,z,email,true,2016,false,
+0,ADULT,33,10,60 to 64 years,N6,North Beach,March,2015,z,email,true,2003,false,8
+4,WELCOME,2,1,25 to 34 years,R3,Richmond,October,2013,z,email,true,2011,false,1
+0,ADULT,34,16,35 to 44 years,G4,Glen Park,April,2014,z,email,true,2010,false,8
+0,ADULT,7,15,25 to 34 years,P9,Presidio,September,2014,z,email,true,2013,false,2
+0,ADULT,25,16,35 to 44 years,X,Main Library,August,2015,z,email,true,2014,true,
+0,ADULT,3,0,25 to 34 years,B4,Bernal Heights,September,2015,z,email,true,2012,false,9
+0,ADULT,137,87,35 to 44 years,YB9,Unknown,August,2013,z,email,true,2006,false,8
+0,ADULT,6,14,35 to 44 years,X,Main Library,March,2016,z,email,true,2012,false,8
+0,ADULT,16,0,55 to 59 years,E7,Eureka Valley/Harvey Milk Memorial,July,2014,a,print,false,2014,false,11
+0,ADULT,211,65,35 to 44 years,S7,Sunset,July,2016,z,email,true,2003,false,4
+0,ADULT,13,0,20 to 24 years,X,Main Library,October,2015,z,email,true,2003,false,5
+0,ADULT,10,8,35 to 44 years,N6,North Beach,April,2016,p,phone,false,2010,false,3
+0,ADULT,81,105,25 to 34 years,X,Main Library,July,2016,z,email,true,2004,true,
+3,SENIOR,319,123,65 to 74 years,X,Main Library,March,2014,z,email,true,2003,true,
+0,ADULT,2,0,45 to 54 years,R3,Richmond,May,2015,z,email,true,2015,false,1
+0,ADULT,21,22,35 to 44 years,X,Main Library,July,2016,z,email,true,2010,false,3
+0,ADULT,38,42,25 to 34 years,X,Main Library,June,2016,z,email,true,2009,false,8
+4,WELCOME,1,0,45 to 54 years,M6,Mission,June,2014,z,email,true,2014,false,9
+0,ADULT,18,0,55 to 59 years,M2,Marina,November,2012,z,email,true,2007,false,2
+0,ADULT,2056,4,60 to 64 years,N6,North Beach,July,2016,a,print,false,2013,false,3
+0,ADULT,66,21,25 to 34 years,X,Main Library,December,2013,z,email,true,2008,false,2
+0,ADULT,36,8,35 to 44 years,C2,Chinatown,August,2015,z,email,true,2003,false,9
+0,ADULT,113,62,45 to 54 years,X,Main Library,March,2014,p,phone,false,2003,false,6
+0,ADULT,691,110,55 to 59 years,X,Main Library,September,2014,z,email,true,2003,false,11
+0,ADULT,24,10,25 to 34 years,X,Main Library,November,2015,z,email,true,2014,false,2
+0,ADULT,31,3,35 to 44 years,V3,Visitacion Valley,March,2016,p,phone,false,2007,false,
+0,ADULT,34,6,45 to 54 years,M6,Mission,July,2016,z,email,true,2005,false,9
+0,ADULT,646,176,25 to 34 years,X,Main Library,July,2016,z,email,true,2003,false,7
+0,ADULT,247,40,25 to 34 years,O7,Ortega,November,2014,a,print,false,2013,false,
+0,ADULT,31,34,45 to 54 years,M2,Marina,October,2013,z,email,true,2012,false,2
+0,ADULT,3,0,20 to 24 years,E9,Excelsior,May,2015,p,phone,false,2015,false,11
+0,ADULT,1,0,25 to 34 years,X,Main Library,August,2012,z,email,true,2012,false,3
+0,ADULT,1,0,25 to 34 years,X,Main Library,August,2012,z,email,true,2012,false,3
+0,ADULT,1,0,25 to 34 years,X,Main Library,August,2012,z,email,true,2012,false,3
+0,ADULT,3,0,35 to 44 years,X,Main Library,August,2015,p,phone,false,2015,false,6
+0,ADULT,6,0,35 to 44 years,X,Main Library,October,2013,z,email,true,2011,false,
+0,ADULT,1,0,25 to 34 years,R3,Richmond,May,2015,z,email,true,2014,false,1
+0,ADULT,46,38,25 to 34 years,X,Main Library,October,2015,z,email,true,2009,true,
+0,ADULT,68,42,35 to 44 years,B4,Bernal Heights,August,2013,z,email,true,2006,false,9
+0,ADULT,0,0,35 to 44 years,R3,Richmond,None,None,p,phone,false,2013,false,1
+0,ADULT,1916,768,45 to 54 years,X,Main Library,July,2016,z,email,true,2003,false,6
+4,WELCOME,3,0,25 to 34 years,B4,Bernal Heights,November,2015,z,email,true,2015,false,9
+0,ADULT,13,0,45 to 54 years,O7,Ortega,October,2015,p,phone,false,2014,false,2
+3,SENIOR,7,1,65 to 74 years,A5,Anza,May,2016,p,phone,false,2015,false,1
+3,SENIOR,68,20,65 to 74 years,N4,Noe Valley/Sally Brunn,July,2016,z,email,true,2003,false,8
+0,ADULT,8,16,35 to 44 years,P9,Presidio,January,2012,z,email,true,2009,false,
+3,SENIOR,6,0,65 to 74 years,X,Main Library,June,2015,a,print,false,2013,false,6
+3,SENIOR,111,13,65 to 74 years,M4,Merced,April,2010,z,email,true,2003,false,7
+0,ADULT,317,84,35 to 44 years,S7,Sunset,February,2015,z,email,true,2005,false,1
+0,ADULT,0,0,25 to 34 years,C2,Chinatown,June,2016,z,email,true,2016,true,
+0,ADULT,62,0,45 to 54 years,V3,Visitacion Valley,May,2015,p,phone,false,2003,false,10
+0,ADULT,9,5,35 to 44 years,M6,Mission,May,2008,p,phone,false,2005,false,9
+0,ADULT,26,3,35 to 44 years,V3,Visitacion Valley,February,2015,z,email,true,2005,false,10
+3,SENIOR,27,1,65 to 74 years,P9,Presidio,October,2015,z,email,true,2008,false,2
+3,SENIOR,1445,791,65 to 74 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,94,14,20 to 24 years,E9,Excelsior,July,2016,a,print,false,2009,false,
+4,WELCOME,1,0,25 to 34 years,P3,Parkside,May,2016,z,email,true,2016,false,4
+0,ADULT,3,14,20 to 24 years,W2,West Portal,June,2014,z,email,true,2014,true,
+0,ADULT,18,40,25 to 34 years,R3,Richmond,July,2016,z,email,true,2014,false,1
+0,ADULT,87,16,45 to 54 years,M2,Marina,March,2016,z,email,true,2010,false,8
+0,ADULT,0,0,25 to 34 years,P3,Parkside,None,None,z,email,true,2012,false,
+3,SENIOR,45,0,65 to 74 years,W4,Western Addition,August,2014,z,email,true,2013,false,
+0,ADULT,28,25,25 to 34 years,W2,West Portal,June,2016,z,email,true,2003,false,7
+0,ADULT,1,0,60 to 64 years,X,Main Library,December,2014,p,phone,false,2014,false,10
+3,SENIOR,6,9,65 to 74 years,E9,Excelsior,July,2016,p,phone,false,2012,false,11
+0,ADULT,256,219,35 to 44 years,X,Main Library,October,2013,z,email,true,2004,true,
+0,ADULT,1,0,20 to 24 years,P7,Potrero,February,2015,p,phone,true,2015,true,
+0,ADULT,18,2,35 to 44 years,X,Main Library,December,2015,z,email,true,2009,false,
+3,SENIOR,99,13,65 to 74 years,E9,Excelsior,July,2014,p,phone,true,2003,false,11
+0,ADULT,537,182,45 to 54 years,N6,North Beach,July,2016,z,email,true,2004,false,2
+0,ADULT,30,0,25 to 34 years,M6,Mission,February,2016,p,phone,false,2012,false,3
+0,ADULT,119,29,35 to 44 years,M6,Mission,December,2005,z,email,true,2003,false,9
+0,ADULT,20,33,25 to 34 years,M4,Merced,June,2014,z,email,true,2011,false,8
+3,SENIOR,56,79,65 to 74 years,E9,Excelsior,July,2016,z,email,true,2003,true,
+0,ADULT,311,270,25 to 34 years,M6,Mission,June,2015,z,email,true,2009,true,
+0,ADULT,2,1,35 to 44 years,M8,Mission Bay,March,2016,z,email,true,2009,false,6
+0,ADULT,64,30,45 to 54 years,N6,North Beach,May,2010,z,email,true,2003,false,
+3,SENIOR,0,0,65 to 74 years,X,Main Library,None,None,z,email,true,2010,false,3
+0,ADULT,11,9,35 to 44 years,S7,Sunset,July,2016,z,email,true,2011,false,5
+0,ADULT,14,5,25 to 34 years,R3,Richmond,July,2016,z,email,true,2014,false,4
+0,ADULT,14,0,45 to 54 years,X,Main Library,January,2014,a,print,false,2009,false,
+0,ADULT,7,1,25 to 34 years,X,Main Library,July,2016,z,email,true,2009,false,
+0,ADULT,88,0,35 to 44 years,O7,Ortega,July,2015,z,email,true,2006,false,4
+0,ADULT,52,22,45 to 54 years,I5,Ingleside,June,2013,z,email,true,2011,true,
+4,WELCOME,1,0,25 to 34 years,X,Main Library,July,2014,a,print,false,2014,false,
+0,ADULT,47,18,25 to 34 years,X,Main Library,March,2016,z,email,true,2011,true,
+0,ADULT,1,3,25 to 34 years,W4,Western Addition,June,2016,z,email,true,2016,false,5
+0,ADULT,17,0,35 to 44 years,S7,Sunset,October,2013,z,email,true,2010,false,4
+0,ADULT,813,39,55 to 59 years,M4,Merced,July,2016,z,email,true,2003,true,
+0,ADULT,298,456,35 to 44 years,E9,Excelsior,July,2016,z,email,true,2006,false,11
+0,ADULT,36,0,35 to 44 years,P7,Potrero,April,2014,z,email,true,2003,false,2
+0,ADULT,0,0,55 to 59 years,A5,Anza,None,None,z,email,true,2015,false,1
+0,ADULT,0,0,55 to 59 years,A5,Anza,None,None,z,email,true,2015,false,1
+0,ADULT,0,0,55 to 59 years,A5,Anza,None,None,z,email,true,2015,false,1
+0,ADULT,0,0,55 to 59 years,A5,Anza,None,None,z,email,true,2015,false,1
+0,ADULT,11,0,55 to 59 years,X,Main Library,December,2014,p,phone,true,2013,false,
+0,ADULT,8,0,35 to 44 years,X,Main Library,January,2015,z,email,true,2012,false,11
+0,ADULT,143,17,45 to 54 years,X,Main Library,June,2016,z,email,true,2003,false,8
+0,ADULT,3,3,20 to 24 years,X,Main Library,April,2010,z,email,true,2010,true,
+0,ADULT,5,2,20 to 24 years,I5,Ingleside,December,2015,z,email,true,2015,false,11
+0,ADULT,10,0,55 to 59 years,X,Main Library,July,2016,a,print,false,2016,true,
+0,ADULT,108,168,25 to 34 years,P1,Park,May,2016,z,email,true,2011,false,5
+0,ADULT,21,9,45 to 54 years,P7,Potrero,January,2015,z,email,true,2003,false,10
+15,TEACHER CARD,74,2,20 to 24 years,P5,Portola,December,2015,z,email,true,2015,false,
+0,ADULT,3,2,25 to 34 years,X,Main Library,August,2014,z,email,true,2010,false,5
+0,ADULT,30,0,35 to 44 years,C2,Chinatown,August,2013,z,email,true,2009,false,10
+0,ADULT,27,9,25 to 34 years,N6,North Beach,July,2016,z,email,true,2012,false,
+0,ADULT,179,4,35 to 44 years,X,Main Library,June,2016,z,email,true,2009,false,10
+0,ADULT,483,0,45 to 54 years,X,Main Library,September,2010,a,print,false,2003,false,10
+0,ADULT,49,23,35 to 44 years,X,Main Library,June,2016,z,email,true,2008,false,
+3,SENIOR,92,9,65 to 74 years,W2,West Portal,July,2016,z,email,true,2003,false,7
+0,ADULT,22,49,25 to 34 years,E7,Eureka Valley/Harvey Milk Memorial,August,2014,z,email,true,2009,false,5
+0,ADULT,5,1,25 to 34 years,X,Main Library,December,2015,z,email,true,2013,true,
+3,SENIOR,18,8,65 to 74 years,X,Main Library,October,2014,z,email,true,2008,true,
+0,ADULT,27,0,35 to 44 years,X,Main Library,December,2015,z,email,true,2011,false,9
+0,ADULT,64,54,45 to 54 years,M6,Mission,July,2016,z,email,true,2003,false,11
+0,ADULT,129,8,45 to 54 years,X,Main Library,August,2013,z,email,true,2006,false,5
+0,ADULT,34,0,45 to 54 years,M4,Merced,June,2016,z,email,true,2012,false,4
+0,ADULT,734,517,25 to 34 years,C2,Chinatown,December,2015,z,email,true,2003,false,3
+4,WELCOME,2,2,25 to 34 years,N6,North Beach,July,2014,z,email,true,2014,false,3
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,p,phone,false,2016,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,p,phone,false,2016,false,9
+0,ADULT,0,0,25 to 34 years,M6,Mission,None,None,p,phone,false,2016,false,9
+0,ADULT,349,246,25 to 34 years,M4,Merced,November,2013,p,phone,false,2004,false,11
+0,ADULT,1,0,20 to 24 years,G4,Glen Park,July,2015,p,phone,false,2012,false,10
+0,ADULT,135,66,45 to 54 years,C2,Chinatown,December,2014,p,phone,false,2005,true,
+0,ADULT,1,1,60 to 64 years,B2,Bayview/Linda Brooks-Burton,December,2014,p,phone,true,2014,false,10
+0,ADULT,90,9,35 to 44 years,M8,Mission Bay,January,2014,a,print,false,2003,false,6
+0,ADULT,26,2,45 to 54 years,E7,Eureka Valley/Harvey Milk Memorial,June,2016,z,email,true,2011,false,8
+0,ADULT,801,176,45 to 54 years,O7,Ortega,May,2016,p,phone,false,2003,false,4
+4,WELCOME,0,0,20 to 24 years,M6,Mission,None,None,z,email,true,2013,false,9
+0,ADULT,220,34,45 to 54 years,X,Main Library,March,2016,z,email,true,2003,false,4
+0,ADULT,8,5,25 to 34 years,B4,Bernal Heights,May,2016,z,email,true,2015,false,9
+0,ADULT,34,0,35 to 44 years,P1,Park,June,2009,p,phone,false,2006,false,1
+0,ADULT,351,31,60 to 64 years,X,Main Library,June,2014,z,email,true,2004,false,9
+3,SENIOR,602,89,65 to 74 years,M4,Merced,July,2016,z,email,true,2012,true,
+0,ADULT,12,9,35 to 44 years,E7,Eureka Valley/Harvey Milk Memorial,September,2013,z,email,true,2007,false,8
+0,ADULT,117,24,25 to 34 years,X,Main Library,June,2016,z,email,true,2013,false,4
+0,ADULT,6,0,35 to 44 years,M6,Mission,August,2013,z,email,true,2010,false,9
+3,SENIOR,2020,2573,65 to 74 years,B4,Bernal Heights,July,2016,z,email,true,2003,false,5
+5,STAFF,45,6,35 to 44 years,X,Main Library,May,2016,a,print,true,2006,false,
+0,ADULT,2,1,65 to 74 years,G4,Glen Park,June,2008,z,email,true,2003,false,7
+0,ADULT,3,6,35 to 44 years,X,Main Library,August,2010,z,email,true,2010,true,
+0,ADULT,193,70,35 to 44 years,M8,Mission Bay,April,2015,z,email,true,2007,false,6
+0,ADULT,0,0,35 to 44 years,M4,Merced,None,None,z,email,true,2016,false,4
+0,ADULT,0,0,35 to 44 years,M4,Merced,None,None,z,email,true,2016,false,4
+0,ADULT,5,0,35 to 44 years,X,Main Library,May,2014,p,phone,false,2014,false,
